@@ -1,0 +1,5293 @@
+,n.name,n.code,score
+102,Dallas Fort Worth International Airport,KDFW,1779.0
+67,Hartsfield Jackson Atlanta International Airport,KATL,1493.0
+19,Chicago O'Hare International Airport,KORD,1479.0
+111,Denver International Airport,KDEN,1433.0
+59,Charlotte Douglas International Airport,KCLT,1303.0
+84,Phoenix Sky Harbor International Airport,KPHX,1180.0
+48,Seattle Tacoma International Airport,KSEA,1166.0
+60,McCarran International Airport,KLAS,1103.0
+47,Los Angeles International Airport,KLAX,1093.0
+38,Louisville Muhammad Ali International Airport,KSDF,835.0
+80,Baltimore/Washington International Thurgood Marshall Airport,KBWI,792.0
+115,Chicago Midway International Airport,KMDW,766.0
+35,San Francisco International Airport,KSFO,756.0
+120,Dallas Love Field,KDAL,737.0
+68,Logan International Airport,KBOS,736.0
+43,Ted Stevens Anchorage International Airport,PANC,734.0
+122,Philadelphia International Airport,KPHL,732.0
+93,Detroit Metropolitan Wayne County Airport,KDTW,730.0
+74,Indianapolis International Airport,KIND,722.0
+64,Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field,KMSP,643.0
+95,Nashville International Airport,KBNA,612.0
+13,John Wayne Airport-Orange County Airport,KSNA,580.0
+61,Portland International Airport,KPDX,552.0
+114,Washington Dulles International Airport,KIAD,547.0
+15,Miami International Airport,KMIA,541.0
+175,Metropolitan Oakland International Airport,KOAK,536.0
+70,St Louis Lambert International Airport,KSTL,513.0
+142,San Diego International Airport,KSAN,511.0
+73,Fort Lauderdale Hollywood International Airport,KFLL,490.0
+27,Cincinnati Northern Kentucky International Airport,KCVG,488.0
+90,Ronald Reagan Washington National Airport,KDCA,486.0
+71,Austin Bergstrom International Airport,KAUS,466.0
+165,Raleigh Durham International Airport,KRDU,449.0
+110,Newark Liberty International Airport,KEWR,438.0
+177,Ontario International Airport,KONT,437.0
+270,Norman Y. Mineta San Jose International Airport,KSJC,436.0
+130,Van Nuys Airport,KVNY,429.0
+53,John F Kennedy International Airport,KJFK,382.0
+58,Sacramento International Airport,KSMF,376.0
+16,Scottsdale Airport,KSDL,371.0
+127,Centennial Airport,KAPA,366.0
+247,Whiting Field Naval Air Station - North,KNSE,354.0
+40,Addison Airport,KADS,353.0
+145,Bob Hope Airport,KBUR,346.0
+187,San Antonio International Airport,KSAT,336.0
+268,DeKalb Peachtree Airport,KPDK,325.0
+159,Kansas City International Airport,KMCI,323.0
+178,Boise Air Terminal/Gowen Field,KBOI,322.0
+137,Boeing Field King County International Airport,KBFI,317.0
+121,Long Beach Airport (Daugherty Field),KLGB,316.0
+87,General Mitchell International Airport,KMKE,315.0
+109,John Glenn Columbus International Airport,KCMH,314.0
+140,William P Hobby Airport,KHOU,314.0
+156,George Bush Intercontinental Houston Airport,KIAH,312.0
+714,Albuquerque International Sunport,KABQ,306.0
+54,Westchester County Airport,KHPN,300.0
+105,La Guardia Airport,KLGA,291.0
+123,Southwest Florida International Airport,KRSW,290.0
+76,Eppley Airfield,KOMA,268.0
+101,McClellan-Palomar Airport,KCRQ,268.0
+91,Tampa International Airport,KTPA,256.0
+260,Richard Lloyd Jones Jr Airport,KRVS,255.0
+69,Teterboro Airport,KTEB,250.0
+180,Reno Tahoe International Airport,KRNO,246.0
+1314,Kissimmee Gateway Airport,KISM,242.0
+232,Camarillo International Airport,KCMA,235.0
+224,Montgomery-Gibbs Executive Airport,KMYF,235.0
+136,Falcon Field,KFFZ,233.0
+124,St Petersburg Clearwater International Airport,KPIE,230.0
+327,Northwest Florida Beaches International Airport,KECP,228.0
+162,Phoenix Deer Valley Airport,KDVT,218.0
+200,Chicago Executive Airport,KPWK,217.0
+223,Santa Barbara Municipal Airport,KSBA,214.0
+149,Rocky Mountain Metropolitan Airport,KBJC,214.0
+116,Phoenix–Mesa Gateway Airport,KIWA,212.0
+312,Sarasota Bradenton International Airport,KSRQ,211.0
+65,Chicago Rockford International Airport,KRFD,210.0
+1090,Laurence G Hanscom Field,KBED,205.0
+45,McGhee Tyson Airport,KTYS,205.0
+132,Oakland County International Airport,KPTK,203.0
+85,Republic Airport,KFRG,202.0
+97,Norfolk International Airport,KORF,201.0
+756,Tulsa International Airport,KTUL,200.0
+66,Miami-Opa Locka Executive Airport,KOPF,195.0
+252,Buffalo Niagara International Airport,KBUF,194.0
+37,Oxnard Airport,KOXR,194.0
+1072,Orlando International Airport,KMCO,192.0
+195,Charles B. Wheeler Downtown Airport,KMKC,186.0
+151,Gwinnett County Briscoe Field,KLZU,184.0
+514,Fresno Yosemite International Airport,KFAT,183.0
+382,Fort Worth Meacham International Airport,KFTW,178.0
+135,Flying Cloud Airport,KFCM,178.0
+254,Salt Lake City International Airport,KSLC,178.0
+376,Tucson International Airport / Morris Air National Guard Base,KTUS,175.0
+217,Naples Municipal Airport,KAPF,174.0
+303,Fort Worth Alliance Airport,KAFW,172.0
+2839,Mac Dill Air Force Base,KMCF,171.0
+364,Cincinnati Municipal Airport Lunken Field,KLUK,171.0
+4,Hong Kong International Airport,VHHH,170.0
+146,Palm Springs International Airport,KPSP,167.0
+547,Dane County Regional Truax Field,KMSN,167.0
+275,Cleveland Hopkins International Airport,KCLE,166.0
+166,Frederick Douglass Greater Rochester International Airport,KROC,165.0
+197,Portland Hillsboro Airport,KHIO,163.0
+88,Charles M. Schulz Sonoma County Airport,KSTS,162.0
+352,Daytona Beach International Airport,KDAB,162.0
+128,Spirit of St Louis Airport,KSUS,161.0
+329,Dupage Airport,KDPA,158.0
+236,Snohomish County (Paine Field) Airport,KPAE,158.0
+228,Santa Monica Municipal Airport,KSMO,154.0
+243,Manassas Regional Airport/Harry P. Davis Field,KHEF,154.0
+194,Gillespie Field,KSEE,153.0
+240,South Valley International Airport,KU42,153.0
+158,Piedmont Triad International Airport,KGSO,151.0
+263,Bowman Field,KLOU,150.0
+291,Zamperini Field,KTOA,149.0
+63,Morristown Municipal Airport,KMMU,145.0
+611,Syracuse Hancock International Airport,KSYR,143.0
+5,London Heathrow Airport,EGLL,143.0
+75,Luis Munoz Marin International Airport,TJSJ,143.0
+226,Livermore Municipal Airport,KLVK,142.0
+529,French Valley Airport,KF70,141.0
+106,McKinney National Airport,KTKI,141.0
+299,Chino Airport,KCNO,141.0
+196,San Luis County Regional Airport,KSBP,140.0
+712,Cobb County International Airport-McCollum Field,KRYY,140.0
+981,Leesburg Executive Airport,KJYO,138.0
+321,Sacramento Mather Airport,KMHR,137.0
+96,Chandler Municipal Airport,KCHD,136.0
+17,Prescott International Airport - Ernest A. Love Field,KPRC,133.0
+56,Lester B. Pearson International Airport,CYYZ,132.0
+251,San Bernardino International Airport,KSBD,130.0
+205,Palo Alto Airport of Santa Clara County,KPAO,129.0
+83,City of Colorado Springs Municipal Airport,KCOS,128.0
+203,Merrill Field,PAMR,128.0
+160,Sacramento Executive Airport,KSAC,128.0
+302,Harrisburg International Airport,KMDT,126.0
+220,Provo-Utah Lake International Airport,KPVU,126.0
+3,Taiwan Taoyuan International Airport,RCTP,124.0
+2,Incheon International Airport,RKSI,123.0
+388,Bellingham International Airport,KBLI,123.0
+438,McClellan Airfield,KMCC,121.0
+219,Lincoln Airport,KLNK,120.0
+341,Pittsburgh International Airport,KPIT,120.0
+167,Essex County Airport,KCDW,118.0
+273,Renton Municipal Airport,KRNT,118.0
+98,Lehigh Valley International Airport,KABE,118.0
+444,Denton Municipal Airport,KDTO,116.0
+387,San Gabriel Valley Airport,KEMT,115.0
+477,Martha's Vineyard Airport,KMVY,115.0
+107,New Century Aircenter Airport,KIXD,115.0
+488,Destin Executive Airport,KDTS,114.0
+208,Aurora State Airport,KUAO,114.0
+297,North Las Vegas Metropolitan International Airport,KVGT,114.0
+179,Lancaster Airport,KLNS,114.0
+198,James M Cox Dayton International Airport,KDAY,112.0
+163,Whiteman Airport,KWHP,112.0
+41,Martin State Airport,KMTN,111.0
+204,Springfield Branson National Airport,KSGF,111.0
+202,Napa County Airport,KAPC,111.0
+1415,Pueblo Memorial Airport,KPUB,108.0
+211,Henderson Executive Airport,KHND,106.0
+119,Fullerton Municipal Airport,KFUL,106.0
+161,Frederick Municipal Airport,KFDK,102.0
+395,Brackett Field,KPOC,102.0
+99,Buchanan Field,KCCR,101.0
+401,Reid-Hillview Airport of Santa Clara County,KRHV,101.0
+133,Page Field,KFMY,101.0
+185,Hayward Executive Airport,KHWD,100.0
+333,Ramona Airport,KRNM,98.0
+559,Francis S Gabreski Airport,KFOK,97.0
+271,Long Island Mac Arthur Airport,KISP,96.0
+1125,Barnstable Municipal Boardman Polando Field,KHYA,96.0
+386,Arlington Municipal Airport,KAWO,95.0
+225,Tuckernuck Airport,MA72,95.0
+34,New Castle Airport,KILG,94.0
+86,Ellington Airport,KEFD,92.0
+325,San Carlos Airport,KSQL,92.0
+118,Riverside Municipal Airport,KRAL,90.0
+11,North Houston Airport,K9X1,90.0
+551,Friday Harbor Airport,KFHR,90.0
+284,Visalia International Airport,KVIS,89.0
+671,Gila Bend Municipal Airport,KE63,89.0
+813,Carter Airport,FL57,89.0
+1143,Southern Wisconsin Regional Airport,KJVL,88.0
+144,Trenton Mercer Airport,KTTN,88.0
+234,Willow Run Airport,KYIP,86.0
+428,Bend Municipal Airport,KBDN,85.0
+351,Burlington Alamance Regional Airport,KBUY,85.0
+184,St Louis Downtown Airport,KCPS,83.0
+244,Auburn Municipal Airport,KAUN,83.0
+1081,Waukesha County Airport,KUES,82.0
+614,Montgomery County Airpark,KGAI,82.0
+12,Frankfurt am Main Airport,EDDF,82.0
+62,Northeast Philadelphia Airport,KPNE,81.0
+81,Arlington Municipal Airport,KGKY,81.0
+171,Paso Robles Municipal Airport,KPRB,81.0
+168,Pensacola International Airport,KPNS,81.0
+1022,Wilmington Airpark,KILN,80.0
+683,Appleton International Airport,KATW,80.0
+505,Jack Northrop Field Hawthorne Municipal Airport,KHHR,80.0
+418,Austin Straubel International Airport,KGRB,80.0
+349,Eagle Creek Airpark,KEYE,79.0
+1053,El Dorado International Airport,SKBO,79.0
+369,Brown Field Municipal Airport,KSDM,79.0
+896,McAllen Miller International Airport,KMFE,79.0
+199,Monmouth Executive Airport,KBLM,78.0
+1206,Waukegan National Airport,KUGN,78.0
+265,Charlotte County Airport,KPGD,78.0
+46,Indianapolis Executive Airport,KTYQ,77.0
+682,Lincoln Regional Karl Harder Field,KLHM,77.0
+549,Wings Field,KLOM,77.0
+257,Johnson County Executive Airport,KOJC,77.0
+189,Marana Regional Airport,KAVQ,76.0
+326,Phoenix Goodyear Airport,KGYR,76.0
+186,Destin-Fort Walton Beach Airport,KVPS,75.0
+1551,Dave's Airport,0CO1,74.0
+545,Stockton Metropolitan Airport,KSCK,73.0
+25,Amsterdam Airport Schiphol,EHAM,73.0
+1353,Nantucket Memorial Airport,KACK,73.0
+422,East-West Paris Airport,14MI,73.0
+602,Petaluma Municipal Airport,KO69,72.0
+877,San Marcos Regional Airport,KHYI,72.0
+510,Santa Fe Municipal Airport,KSAF,72.0
+231,Payson Airport,KPAN,72.0
+718,Modesto City Co-Harry Sham Field,KMOD,72.0
+206,Dallas Executive Airport,KRBD,71.0
+849,Kenosha Regional Airport,KENW,69.0
+322,Johnston County Airport,KJNX,69.0
+421,Bremerton National Airport,KPWT,68.0
+936,Cuyahoga County Airport,KCGF,68.0
+985,Ryan Field,KRYN,68.0
+1617,Casa Grande Municipal Airport,KCGZ,68.0
+1675,San Martin Airport,KE16,68.0
+734,Wittman Regional Airport,KOSH,68.0
+916,Brookhaven Airport,KHWV,67.0
+173,North Perry Airport,KHWO,66.0
+191,Sanford-Lee County Regional Airport,KTTA,65.0
+238,Smyrna Airport,KMQY,65.0
+618,Naval Air Station Pensacola Forrest Sherman Field,KNPA,65.0
+1042,Crystal Airport,KMIC,65.0
+1133,Albany International Airport,KALB,64.0
+305,Fairchild Air Force Base,KSKA,64.0
+935,Canal Fulton Airport,7OH2,63.0
+77,Vancouver International Airport,CYVR,63.0
+279,Plymouth Municipal Airport,KPYM,62.0
+255,Fulton County Airport Brown Field,KFTY,62.0
+815,Half Moon Bay Airport,KHAF,62.0
+308,Carroll County Regional Jack B Poage Field,KDMW,62.0
+237,Coeur D'Alene - Pappy Boyington Field,KCOE,62.0
+512,University Airport,KEDU,61.0
+541,Skyhaven Airport,8TX7,61.0
+1031,Lawrence J Timmerman Airport,KMWC,61.0
+134,Allegheny County Airport,KAGC,60.0
+286,Grand Prairie Municipal Airport,KGPM,60.0
+465,Tyler Pounds Regional Airport,KTYR,60.0
+750,Lake California Air Park,68CA,60.0
+94,Aurora Municipal Airport,KARR,60.0
+314,Corona Municipal Airport,KAJO,59.0
+658,Sedona Airport,KSEZ,59.0
+331,Hampton Roads Executive Airport,KPVG,59.0
+82,Northern Colorado Regional Airport,KFNL,59.0
+606,Des Moines International Airport,KDSM,59.0
+298,Dayton-Wright Brothers Airport,KMGY,59.0
+689,Clermont County Airport,KI69,59.0
+2226,Burlington Municipal Airport,KBUU,58.0
+648,Middleton Municipal Morey Field,KC29,58.0
+679,Saint Cloud Regional Airport,KSTC,58.0
+696,Clark Regional Airport,KJVY,58.0
+108,Orlando Executive Airport,KORL,57.0
+23,Mystery Farm Airport,RI20,57.0
+1263,Massey Ranch Airpark,KX50,57.0
+855,Fort Lauderdale Executive Airport,KFXE,57.0
+414,Mesquite Metro Airport,KHQZ,57.0
+170,St Paul Downtown Holman Field,KSTP,57.0
+784,Newport News Williamsburg International Airport,KPHF,57.0
+443,Hickory Regional Airport,KHKY,56.0
+172,Ann Arbor Municipal Airport,KARB,56.0
+1006,Garcon Field,24FL,56.0
+1188,New York Stewart International Airport,KSWF,55.0
+2320,Fowler Airport,CO80,55.0
+318,Igor I Sikorsky Memorial Airport,KBDR,55.0
+347,Glendale Municipal Airport,KGEU,55.0
+831,Hemet Ryan Airport,KHMT,54.0
+1850,Stout Airport,FD83,54.0
+464,Oceanside Municipal Airport,KOKB,54.0
+1118,Norwood Memorial Airport,KOWD,54.0
+613,Vance Brand Airport,KLMO,54.0
+1222,Crawfordsville Regional Airport,KCFJ,52.0
+713,Flagstaff Pulliam International Airport,KFLG,52.0
+1141,Gerald R. Ford International Airport,KGRR,52.0
+1093,Watsonville Municipal Airport,KWVI,52.0
+1287,Statesville Regional Airport,KSVH,51.0
+287,Moffett Federal Airfield,KNUQ,51.0
+1095,Austin Executive Airport,KEDC,51.0
+1347,Columbus Municipal Airport,KBAK,51.0
+2375,Catalina Airport,KAVX,51.0
+566,Horace Williams Airport,KIGX,50.0
+1153,Ocean County Airport,KMJX,50.0
+666,Dix Field,0NJ6,50.0
+1246,Livingston County Spencer J. Hardy Airport,KOZW,50.0
+112,Schaumburg Regional Airport,K06C,49.0
+1401,St. Mary's County Regional Airport,K2W6,49.0
+1437,Seidel Ranch Airport,02XS,49.0
+249,Chesapeake Regional Airport,KCPK,49.0
+525,Lee Airport,KANP,49.0
+425,Mason City Municipal Airport,KMCW,49.0
+561,New Smyrna Beach Municipal Airport,KEVB,48.0
+1052,Auburn Municipal Airport,KS50,48.0
+1364,Flying J Airport,86TX,48.0
+786,Spanish Fork Municipal Airport/Woodhouse Field,KU77,48.0
+313,Joint Base Andrews,KADW,48.0
+408,Yolo County Davis Woodland Winters Airport,KDWA,48.0
+400,Reading Regional Airport (Carl A Spaatz Field),KRDG,47.0
+1170,Cherokee County Regional Airport,K47A,47.0
+272,Abraham Lincoln Capital Airport,KSPI,47.0
+371,Gary Chicago International Airport,KGYY,47.0
+1256,Nashua Airport / Boire Field,KASH,47.0
+323,Tweed New Haven Airport,KHVN,47.0
+1135,Lewis University Airport,KLOT,46.0
+494,Easterwood Field,KCLL,46.0
+267,Hicks Air Field,KT67,46.0
+833,Lee Gilmer Memorial Airport,KGVL,46.0
+673,Oakland Troy Airport,KVLL,46.0
+578,Marina Municipal Airport,KOAR,46.0
+1908,Glacier Park International Airport,KGPI,46.0
+457,University of Illinois Willard Airport,KCMI,46.0
+491,Central Wisconsin Airport,KCWA,46.0
+840,Boerne Stage Field,K5C1,46.0
+406,Gainesville Municipal Airport,KGLE,45.0
+603,Skagit Regional Airport,KBVS,45.0
+336,Valley View Airport,VA87,45.0
+1753,Ak-Chin Regional Airport,KA39,44.0
+733,Tipton Airport,KFME,44.0
+1219,Fayetteville Regional Airport - Grannis Field,KFAY,44.0
+845,Davis Monthan Air Force Base,KDMA,43.0
+719,Moraine Air Park,KI73,43.0
+1027,Jacksonville Executive at Craig Airport,KCRG,43.0
+701,Monterey Bay Academy Airport,CA66,43.0
+624,Peachtree City Falcon Field,KFFC,43.0
+793,Tracy Municipal Airport,KTCY,43.0
+221,Frame Field,82PA,43.0
+984,Big Bear City Airport,KL35,43.0
+1604,Easton Airport / Newnam Field,KESN,43.0
+876,North Island Naval Air Station-Halsey Field,KNZY,43.0
+432,Colorado Air and Space Port,KFTG,43.0
+1590,Lake in the Hills Airport,K3CK,43.0
+410,Capital City Airport,KCXY,43.0
+554,Harvey's Acres Airport,OR28,43.0
+9,Millard Airport,KMLE,42.0
+338,Compton Woodley Airport,KCPM,42.0
+599,Lawrence Municipal Airport,KLWM,42.0
+399,Camp Williams Airfield,UT08,42.0
+358,Hesperia Airport,KL26,42.0
+698,South St Paul Municipal Richard E Fleming field,KSGS,42.0
+227,Cable Airport,KCCB,42.0
+830,Double Eagle II Airport,KAEG,41.0
+792,Poplar Grove Airport,KC77,41.0
+591,Venice Municipal Airport,KVNC,41.0
+392,Purdue University Airport,KLAF,41.0
+843,Mobile Regional Airport,KMOB,41.0
+905,Waterbury Oxford Airport,KOXC,41.0
+608,Vaughan Ranch Airfield,WN13,41.0
+677,Council Bluffs Municipal Airport,KCBF,41.0
+1352,Coolidge Municipal Airport,KP08,41.0
+259,Hagerstown Regional Richard A Henson Field,KHGR,41.0
+1504,Mc Cachren Field,3NC6,40.0
+213,Logan-Cache Airport,KLGU,40.0
+356,Indy South Greenwood Airport,KHFY,40.0
+660,Northwest Regional Airport,K52F,40.0
+723,Los Alamitos Army Air Field,KSLI,40.0
+1545,Highline Farm Airstrip,67CO,40.0
+775,Aero Country Airport,KT31,40.0
+2321,Little Susitna Airport,8AK6,39.0
+1305,Quad City International Airport,KMLI,39.0
+1387,Easton/Valley View Airport,K11V,39.0
+1969,Wickenburg Municipal Airport,KE25,39.0
+209,Cedar City Regional Airport,KCDC,39.0
+546,New Braunfels Municipal Airport,KBAZ,39.0
+22,Charles de Gaulle International Airport,LFPG,39.0
+699,Gillespie County Airport,KT82,39.0
+391,Orcas Island Airport,KORS,39.0
+419,Lake Norman Airpark,K14A,38.0
+527,Dunham Field,1XS1,38.0
+653,Atlantic City International Airport,KACY,38.0
+183,J Maddock Airport,IL38,38.0
+695,Lee's Summit Municipal Airport,KLXT,38.0
+370,Treasure Valley Executive Airport at Caldwell,KEUL,38.0
+117,March Air Reserve Base,KRIV,38.0
+874,Fort Wayne International Airport,KFWA,37.0
+1682,Point Mugu Naval Air Station (Naval Base Ventura Co),KNTD,37.0
+1109,Adirondack Regional Airport,KSLK,37.0
+334,Princeton Airport,K39N,37.0
+373,Cline Falls Air Park,3OR8,37.0
+306,Davis Field,4SC4,37.0
+1543,Indianapolis Regional Airport,KMQJ,37.0
+1404,New Bedford Regional Airport,KEWB,36.0
+942,Midwest National Air Center Airport,KGPH,36.0
+1465,Wilkes Barre Wyoming Valley Airport,KWBW,36.0
+31,Bayview Farms Airport,WN51,36.0
+2221,Monterey Peninsula Airport,KMRY,36.0
+1049,Pickens County Airport,KJZP,36.0
+1130,Indianapolis Metropolitan Airport,KUMP,36.0
+528,Pinal Airpark,KMZJ,36.0
+649,Oconee Memorial Hospital Heliport,SC32,36.0
+795,Chico Municipal Airport,KCIC,36.0
+1812,Chester County G O Carlson Airport,KMQS,36.0
+143,Cottonwood Airport,KP52,36.0
+521,Moore County Airport,KSOP,35.0
+1402,Culpeper Regional Airport,KCJR,35.0
+277,Pearson Field,KVUO,35.0
+2307,Salinas Municipal Airport,KSNS,35.0
+774,Talmage Field,03NY,35.0
+6,Shenzhen Bao'an International Airport,ZGSZ,35.0
+1320,Warren County Airport/John Lane Field,KI68,35.0
+824,Deep Forest Airport,FD48,35.0
+2212,A&A Flying Service Airport,XS39,35.0
+1178,Barrow County Airport,KWDR,35.0
+817,Concord-Padgett Regional Airport,KJQF,34.0
+293,St Louis Regional Airport,KALN,34.0
+1171,Rocky Mount Wilson Regional Airport,KRWI,34.0
+1157,Boulder City-Lake Mead International Airport,K61B,34.0
+317,Merced Regional Macready Field,KMCE,34.0
+1537,Ragwing Acres Airport,2OK4,34.0
+383,Sheboygan County Memorial Airport,KSBM,33.0
+21,Kansai International Airport,RJBB,33.0
+52,Juan Santamaría International Airport,MROC,33.0
+1835,Bermuda Dunes Airport,KUDD,33.0
+1643,Pitt Greenville Airport,KPGV,33.0
+1233,Wing South Airpark,FA37,33.0
+766,Jerry Phibbs Airport,NK43,33.0
+1213,Burlington International Airport,KBTV,33.0
+628,Plum Valley Airport,64OR,33.0
+851,Cunningham Airpark,TX09,33.0
+2156,Montreal / Pierre Elliott Trudeau International Airport,CYUL,33.0
+1406,Chester Airport,KSNC,33.0
+1349,Central Jersey Regional Airport,K47N,33.0
+129,Beverly Regional Airport,KBVY,33.0
+823,Mc Coy Airport,88PA,33.0
+1464,Redding Municipal Airport,KRDD,32.0
+4463,Mahlon Sweet Field,KEUG,32.0
+2446,Spokane International Airport,KGEG,32.0
+1853,Byron Airport,KC83,32.0
+2656,Rollins Airport,GA53,32.0
+762,Lincolnton Lincoln County Regional Airport,KIPJ,32.0
+281,Jim & Julie's Airport,96WA,31.0
+431,Cape May County Airport,KWWD,31.0
+895,Lancaster Airport,KLNC,31.0
+304,Fresno Chandler Executive Airport,KFCH,31.0
+893,Reed Airport,WT24,31.0
+1277,Arnold Palmer Regional Airport,KLBE,31.0
+242,Allan Ranch Flight Park Ultralightport,CL36,31.0
+975,Yates Airport,XS89,31.0
+1290,Central Illinois Regional Airport at Bloomington-Normal,KBMI,31.0
+1163,Charlotte-Monroe Executive Airport,KEQY,31.0
+894,Morris Manor Airport,TA06,30.0
+1649,Red Wing Airport,52TA,30.0
+1376,Grimes Field,KI74,30.0
+1481,Fairholt Airport,VT48,30.0
+1501,South Jersey Regional Airport,KVAY,30.0
+1029,Worcester Regional Airport,KORH,30.0
+1255,Albert Whitted Airport,KSPG,30.0
+182,Dobbins Air Reserve Base,KMGE,30.0
+656,Madera Municipal Airport,KMAE,30.0
+2495,Houston Southwest Airport,KAXH,30.0
+980,Manchester-Boston Regional Airport,KMHT,30.0
+1043,Dublin Airport,EIDW,30.0
+246,Columbia Airport,KO22,29.0
+744,Eagle Ridge Airport,SC24,29.0
+1007,Cooks Landing Airport,MN87,29.0
+503,Ebeneezer Airport,4GA9,29.0
+1431,Fricke Airport,OI34,29.0
+2063,Cartersville Airport,KVPC,29.0
+1318,Resaca Airstrip,80TX,29.0
+381,Anoka County-Blaine (Janes Field) Airport,KANE,29.0
+472,Roche Harbor Airport,WA09,29.0
+139,Marin County Airport - Gnoss Field,KDVO,29.0
+50,Rafter J Airport,3TX9,29.0
+2000,Lemons Private Strip,CO10,29.0
+407,Port Angeles Cgas Airport,KNOW,29.0
+1424,Monroe Municipal Airport,KEFT,29.0
+429,Allentown Queen City Municipal Airport,KXLL,29.0
+865,Valley International Airport,KHRL,29.0
+506,Skyhaven Airport,KRCM,28.0
+588,Niagara Falls International Airport,KIAG,28.0
+556,Cameron Park Airport,KO61,28.0
+869,John C. Munro Hamilton International Airport,CYHM,28.0
+490,Camp Bullis ALS Airport,9TX5,28.0
+1286,Pioneer Airport,WS17,28.0
+796,Lakeland Linder International Airport,KLAL,28.0
+440,Currituck County Regional Airport,KONX,28.0
+1204,Waterloo Regional Airport,KALO,28.0
+218,Fort Worth Spinks Airport,KFWS,28.0
+1771,Fletcher Airport,9WI8,28.0
+1568,Stellar Airpark,KP19,28.0
+328,Phyllis Field,6IL2,28.0
+350,Calgary International Airport,CYYC,28.0
+1651,Nevada County Airport,KGOO,28.0
+667,Creve Coeur Airport,K1H0,27.0
+945,Felts Field,KSFF,27.0
+426,Madison Municipal Airport,KIMS,27.0
+752,Spruce Creek Airport,7FL6,27.0
+911,Bancroft Airport,CT14,27.0
+1784,Warrenton Fauquier Airport,KHWY,27.0
+154,Nut Tree Airport,KVCB,27.0
+2052,Gilbert Airport,49OH,27.0
+1149,Gilliam-McConnell Airfield,5NC3,27.0
+1815,Downtown Airport,K3DW,27.0
+379,Portland Troutdale Airport,KTTD,27.0
+763,Number 18 Airport,UT13,27.0
+496,Majors Airport,KGVT,27.0
+1524,Coleman A. Young Municipal Airport,KDET,26.0
+235,Calaveras Co Maury Rasmussen Field,KCPU,26.0
+2028,San Clemente Island Naval Auxiliary Landing Field,KNUC,26.0
+1562,Calverton Executive Airpark,K3C8,26.0
+1566,Cape Cod Coast Guard Air Station,KFMH,26.0
+89,Jacksonville Naval Air Station (Towers Field),KNIP,26.0
+430,Jackrabbit Strip,2CO3,26.0
+289,Pickens County Airport,KLQK,26.0
+295,Hopewell Airpark,90NY,26.0
+1116,Steck Farm Airport,NH78,26.0
+316,Genesee County Airport,KGVQ,26.0
+1518,Orlando Sanford International Airport,KSFB,26.0
+999,Green Mountain STOLport,WA67,26.0
+565,Flying W Airport,KN14,25.0
+1271,Samsula / Coe Field,8FA4,25.0
+2405,Hubler Field,ID00,25.0
+1077,Somerset Airport,KSMQ,25.0
+1718,Fox Hole Airport,0CD7,25.0
+1181,Mansfield Municipal Airport,K1B9,25.0
+966,Redlands Municipal Airport,KREI,25.0
+548,West Georgia Regional Airport / O V Gray Field,KCTJ,25.0
+570,Lansing Municipal Airport,KIGQ,25.0
+913,Erie Municipal Airport,KEIK,25.0
+330,Orlando Apopka Airport,KX04,25.0
+1066,Paramount Airport,JY04,25.0
+92,Ben Gurion International Airport,LLBG,25.0
+983,Agua Dulce Airpark,KL70,25.0
+1691,Campbell Airport,KC81,25.0
+1199,Lebanon Municipal Airport,KLEB,25.0
+450,Orlando North Airpark,FA83,25.0
+1167,Massena International Airport Richards Field,KMSS,25.0
+901,Buffalo Municipal Airport,KCFE,25.0
+42,Mc Minnville Municipal Airport,KMMV,25.0
+454,Yakima Air Terminal McAllister Field,KYKM,24.0
+1611,Rockwall Municipal Airport,KF46,24.0
+707,Flabob Airport,KRIR,24.0
+458,Boober Airport,45OH,24.0
+806,Galt Field,K10C,24.0
+1073,West Bend Municipal Airport,KETB,24.0
+1375,Danbury Municipal Airport,KDXR,24.0
+148,Linden Airport,KLDJ,24.0
+737,Monroe County Airport,KBMG,24.0
+229,John C Tune Airport,KJWN,24.0
+261,Dubai International Airport,OMDB,24.0
+979,Travis Air Force Base,KSUU,24.0
+36,Cologne Bonn Airport,EDDK,24.0
+103,Fond du Lac County Airport,KFLD,24.0
+1005,Jack's Airport,UT29,23.0
+2565,Dubuque Regional Airport,KDBQ,23.0
+1711,Dodge County Airport,KUNU,23.0
+844,Freight Wagon Field,35OR,23.0
+782,Montreal International (Mirabel) Airport,CYMX,23.0
+2530,Kent Fort Manor Airport,7MD8,23.0
+1533,Brandywine Regional Airport,KOQN,23.0
+2416,White Post Airport,3VA7,23.0
+956,Hemp Ridge Airport,64KY,23.0
+1021,Harnett Regional Jetport Airport,KHRJ,23.0
+1304,Davenport Municipal Airport,KDVN,23.0
+1397,Fairview Airport,3MD4,23.0
+1968,Silver Comet Field at Paulding Northwest Atlanta Airport,KPUJ,23.0
+684,Mid-Way Regional Airport,KJWY,23.0
+1706,Marshfield Municipal George Harlow Field,KGHG,23.0
+241,Ithaca Tompkins Regional Airport,KITH,23.0
+481,High View Farm Airport,61VA,23.0
+1229,Miami Executive Airport,KTMB,23.0
+2436,John H Batten Airport,KRAC,22.0
+1475,Brewton Municipal Airport,K12J,22.0
+1316,Millville Municipal Airport,KMIV,22.0
+1455,Covington Municipal Airport,K9A1,22.0
+650,C & L Ranch Ultralightport,AZ19,22.0
+654,North Star Ranch Airport,MY66,22.0
+1597,Telluride Regional Airport,KTEX,22.0
+280,Kintail Farm Airport,GA00,22.0
+1454,John Murtha Johnstown Cambria County Airport,KJST,22.0
+39,Brussels Airport,EBBR,22.0
+214,Runway Ranch Airport,2MO9,22.0
+2466,Winchester Regional Airport,KOKV,22.0
+1429,Randolph Air Force Base,KRND,22.0
+704,Nogales International Airport,KOLS,22.0
+1621,Newport State Airport,KUUU,22.0
+1299,Cloud Nine West Airport,46MI,22.0
+1144,Woodbine Municipal Airport,KOBI,22.0
+1183,Ankeny Regional Airport,KIKV,22.0
+1104,San Rafael Airport,CA35,22.0
+1834,Pocono Mountains Municipal Airport,KMPO,22.0
+1880,Stinson Municipal Airport,KSSF,22.0
+1285,Raleigh Regional Airport at Person County,KTDF,22.0
+390,Greenwood Lake Airport,K4N1,22.0
+1717,Block Island State Airport,KBID,22.0
+485,Beggs Ranch (Aledo) Airport,TX15,21.0
+2872,Barrett Airport,MN18,21.0
+757,Crawford Airport,0CA3,21.0
+1008,Beluga Airport,PABG,21.0
+785,Okmulgee Regional Airport,KOKM,21.0
+835,Cedar Crest Field,1TN0,21.0
+266,Porter County Municipal Airport,KVPZ,21.0
+1907,Castle Airport,KMER,21.0
+884,Smith Private Airport,29OR,21.0
+928,Scott AFB/Midamerica Airport,KBLV,21.0
+1477,Heritage Field,KPTW,21.0
+2016,Chinook Ultralight Airpark,52OR,21.0
+550,Lenzner Farm Airport,7PS7,21.0
+7,West Houston Airport,KIWS,21.0
+2179,Westover Field Amador County Airport,KO70,21.0
+2539,King Ultralightport,02II,21.0
+560,Sky Ranch At Carefree Airport,18AZ,21.0
+1172,Rolling Meadows Airfield,29GA,20.0
+992,General Wayne A. Downing Peoria International Airport,KPIA,20.0
+1491,Meadow Lake Airport,K00V,20.0
+72,Rochester International Airport,KRST,20.0
+672,Pope Field,KPOB,20.0
+2692,Gore Airport,4FL9,20.0
+2612,Yuba County Airport,KMYV,20.0
+1851,Metzler Airport,5PA3,20.0
+1746,Jean Airport,K0L7,20.0
+1556,Anderson Regional Airport,KAND,20.0
+1070,Meylor Field,9NC9,20.0
+1122,Wing-Over Farm Airport,RI07,20.0
+1466,Mount Pleasant Landing Strip,67NJ,20.0
+802,Misty Hill Farm Airport,PN14,20.0
+1150,Tai's Landing Airport,WN61,20.0
+366,Hendricks County Gordon Graham Field,K2R2,20.0
+1407,Todd Field,46IA,20.0
+1017,Port Orchard Airport,4WA9,20.0
+746,Baraboo Wisconsin Dells Regional Airport,KDLL,20.0
+1433,Hartford Brainard Airport,KHFD,19.0
+1988,Sarita Airport,37AZ,19.0
+3207,Quonset State Airport,KOQU,19.0
+964,Kastanek Airport,MY15,19.0
+1449,Peters Airport,4NJ8,19.0
+861,Middletown Regional Airport,KMWO,19.0
+1484,Meadows Field,KBFL,19.0
+960,Hillsboro Municipal Airport,KINJ,19.0
+157,Shafter Airport - Minter Field,KMIT,19.0
+939,Red Baron Airpark,1ID4,19.0
+1507,Kestrel Airpark,K1T7,19.0
+276,Hilty Field,OI68,19.0
+709,Mobile Downtown Airport,KBFM,19.0
+248,Cannon Field,53TX,19.0
+2286,Kerrville Municipal Louis Schreiner Field,KERV,19.0
+767,Orange County Airport,KMGJ,19.0
+332,Kinston Regional Jetport At Stallings Field,KISO,19.0
+2787,Fremont County Airport,K1V6,19.0
+29,East Midlands Airport,EGNX,19.0
+24,Leipzig/Halle Airport,EDDP,19.0
+2112,Ambassador Ultralightport,54OK,19.0
+2027,Lago Vista Texas Rusty Allen Airport,KRYW,19.0
+484,West Papoose Lake Airpark,44AK,19.0
+1471,Lebanon Municipal Airport,KM54,19.0
+1331,Parkland Airport,7CO0,19.0
+1650,Porterville Municipal Airport,KPTV,19.0
+378,Handleman Sky Ranch Airport,37MI,19.0
+1641,Flying Ridge Airstrip,CT52,19.0
+1506,Big Island Airport,NK07,18.0
+2731,Wag-Aero Airport,WI92,18.0
+1540,Flying R Ranch Airport,WA49,18.0
+1780,La Cholla Airpark,57AZ,18.0
+2122,Neversweat Airport,1OK0,18.0
+1939,Billy Joe Airport,37CA,18.0
+2108,Morris Airport,OL23,18.0
+1547,Tri-Modal Air Park,30TA,18.0
+914,Birchwood Airport,PABV,18.0
+754,Belen Regional Airport,KE80,18.0
+1503,Wedington Woods Airport,67AR,18.0
+2024,Airlake Airport,KLVN,18.0
+605,Fall Creek Field,TN96,18.0
+492,Charlottesville Albemarle Airport,KCHO,18.0
+2348,Hangar Fly Ultralight Fly Club Ultralightport,4II2,18.0
+1217,Bolingbrook's Clow International Airport,K1C5,18.0
+1129,Freeman Municipal Airport,KSER,18.0
+307,Lawrence Municipal Airport,KLWC,18.0
+1,Ministro Pistarini International Airport,SAEZ,18.0
+283,Lakeway Airpark,K3R9,18.0
+468,Wilkes Barre Scranton International Airport,KAVP,18.0
+1791,South Texas International at Edinburg Airport,KEBG,18.0
+500,Secret Spot Airport,3NK5,18.0
+2157,Franklin County State Airport,KFSO,18.0
+2188,Shelbyville Municipal Airport,KGEZ,18.0
+1972,Rimrock Airport,48AZ,18.0
+2364,Toy Box Airport,9TN9,18.0
+417,Butler Aviation Airport,6AK3,18.0
+233,Camp Pendleton MCAS (Munn Field) Airport,KNFG,17.0
+2534,Erroport Airport,OK13,17.0
+1425,Claremore Regional Airport,KGCM,17.0
+595,Elizabeth City Regional Airport & Coast Guard Air Station,KECG,17.0
+1427,Robertson Field,K4B8,17.0
+2034,Flying S Ranch Airport,TX37,17.0
+615,Rice Lake Regional Airport - Carl's Field,KRPD,17.0
+1160,Shenandoah Valley Regional Airport,KSHD,17.0
+731,Terrell Municipal Airport,KTRL,17.0
+787,Newton Municipal Airport,KTNU,17.0
+1035,Arcadia Municipal Airport,KX06,17.0
+1661,Wkr Airport,65CO,17.0
+2426,NAS Fort Worth JRB / Carswell Field,KNFW,17.0
+4126,Crash In International Airport,0WI5,17.0
+1695,Rio Vista Hills Airport,AZ64,17.0
+456,Music City Executive Airport,KM33,17.0
+1075,Torrey Pines Gliderport,CA84,17.0
+1640,Mount Horeb Field,06VA,17.0
+2209,Reno-Stead Airport,K4SD,17.0
+409,Pierce Airport,10AZ,17.0
+1191,Shannon Airport,KEZF,17.0
+1841,Orange County Airport,KOMH,17.0
+3650,Rochelle Municipal Airport - Koritz Field,KRPJ,17.0
+300,Eastern WV Regional Airport/Shepherd Field,KMRB,17.0
+1998,Morgantown Municipal Airport Walter L. (Bill) Hart Field,KMGW,17.0
+662,Bradford Field Airport,NC05,17.0
+2637,Kahuna Bay Airport,1TE8,17.0
+335,Cambridge Dorchester Airport,KCGE,17.0
+486,Springfield-Beckley Municipal Airport,KSGH,17.0
+832,Rickenbacker International Airport,KLCK,17.0
+1362,Air Troy Estates - Restricted Airport,WI69,17.0
+483,USAF Academy Airfield,KAFF,17.0
+764,Beaver County Airport,KBVI,17.0
+55,Harford County Airport,K0W3,17.0
+1105,North Central State Airport,KSFZ,17.0
+568,York Airport,KTHV,17.0
+1639,Stones River Airport,7TN3,17.0
+839,Yentna Bend Strip,0AK2,17.0
+1338,Oconee County Regional Airport,KCEU,17.0
+637,Schenectady County Airport,KSCH,17.0
+1577,Flying S Farm Airport,3TX2,17.0
+473,Hamilton Fort Ranch Airport,UT80,17.0
+3168,Cross Wind Airport,08TX,16.0
+842,Parknavy Airport,0OH9,16.0
+1511,Butler Airport,11TX,16.0
+749,Tacoma Narrows Airport,KTIW,16.0
+1849,Boulder Municipal Airport,KBDU,16.0
+1874,Cross-Country Estates Airport,07TS,16.0
+791,Echo Lake Airport,TX40,16.0
+487,Christensen Ranch Airport,9CL2,16.0
+2158,Lenawee County Airport,KADG,16.0
+1327,Meriden Markham Municipal Airport,KMMK,16.0
+2103,Bourland Field,K50F,16.0
+977,Lake Tahoe Airport,KTVL,16.0
+1994,John Nichols Field Airport,0CL3,16.0
+343,Tri-County Regional Airport,KLNR,16.0
+294,Beaver Creek Ultralightport,1PA5,16.0
+2020,Van Slyke Field,9CO2,16.0
+1270,Mc Guire Air Force Base,KWRI,16.0
+943,Leesburg International Airport,KLEE,16.0
+1254,Fairview Evergreen Airport,PN18,16.0
+1248,Blairstown Airport,K1N7,16.0
+1563,Henderson Field,FA46,16.0
+988,Luxembourg-Findel International Airport,ELLX,16.0
+2831,Southwest Michigan Regional Airport,KBEH,16.0
+435,Butler Co Regional Airport - Hogan Field,KHAO,16.0
+1552,Hogan Airport,OA05,16.0
+601,Sydney Kingsford Smith International Airport,YSSY,16.0
+1523,Fairfield County Airport,KLHQ,16.0
+2538,Greeley–Weld County Airport,KGXY,16.0
+1672,Ruder Airport,59IL,16.0
+1036,Liège Airport,EBLG,16.0
+700,Newport Municipal Airport,KONP,16.0
+192,Trenton Robbinsville Airport,KN87,16.0
+1308,Buffalo Lancaster Regional Airport,KBQR,16.0
+453,Western Helicopter Services Airport,OR38,16.0
+1786,Sidney Municipal Airport,KI12,16.0
+1324,Fremont Municipal Airport,KFET,16.0
+1644,Cross Creek Farms Airport,04FL,16.0
+994,Sulphur Springs Municipal Airport,KSLR,16.0
+1014,Pekin Municipal Airport,KC15,15.0
+2071,Key Way Airport,19WA,15.0
+1633,Lodi Airport,K1O3,15.0
+2411,Pickles Airport,01VA,15.0
+1063,Darby Dan Airport,K6I6,15.0
+1155,Lockeridge Airport,OI58,15.0
+2129,Haskell Airport,K2K9,15.0
+1747,Wallace Field,GA77,15.0
+2297,TXAeroSport Aerodrome,XA65,15.0
+1416,Albertus Airport,KFEP,15.0
+1542,Cross Keys Airport,K17N,15.0
+1790,Hartford Municipal Airport,KHXF,15.0
+1240,Pompano Beach Airpark,KPMP,15.0
+1549,Hilde-Griff Field,05TE,15.0
+1257,Zürich Airport,LSZH,15.0
+986,Albrecht Airstrip,MD48,15.0
+1976,Fletcher Field,2MO0,15.0
+1882,Hat-Field STOLport,6CO4,15.0
+1344,Suffolk Executive Airport,KSFQ,15.0
+1843,Greater Kankakee Airport,KIKK,15.0
+1280,Farrar Airport,IA56,15.0
+1628,Griffith-Merrillville Airport,K05C,15.0
+918,Red Bluff Municipal Airport,KRBL,15.0
+1468,Watertown Municipal Airport,KRYV,15.0
+670,Holtsmans Airport,CA16,15.0
+2746,Smithville Crawford Municipal Airport,K84R,15.0
+461,Margos Sky Ranch Airport,8OA9,15.0
+3066,Arrowpoint Airport,VG43,15.0
+493,Atlanta Speedway Airport,K4A7,15.0
+264,Theodore Francis Green State Airport,KPVD,15.0
+574,Auckland International Airport,NZAA,15.0
+250,Wausau Downtown Airport,KAUW,15.0
+78,Coulter Field,KCFD,15.0
+345,Independence State Airport,K7S5,15.0
+499,Elge Field,50NE,15.0
+685,Karl Stefan Memorial Airport,KOFK,15.0
+292,Huey Airport,DE14,15.0
+3402,Clay's Rv Airport,51OI,15.0
+1948,Poso Kern County Airport,KL73,14.0
+955,Oakdale Airport,KO27,14.0
+3002,Muskeget Island Airport,MA55,14.0
+2981,Skypark Airport,KBTF,14.0
+2285,Valley Farms Airport,36AZ,14.0
+1083,Keflavik International Airport,BIKF,14.0
+883,Goering Ranches / Chocheta Estates Airport,50OR,14.0
+1078,The Ohio State University Airport - Don Scott Field,KOSU,14.0
+1322,Baker's Place Airport,TX61,14.0
+3465,William R Fairchild International Airport,KCLM,14.0
+1991,Sussex Airport,KFWN,14.0
+1094,Ramstein Air Base,ETAR,14.0
+1057,Huff Memorial Airport,NH60,14.0
+290,Dover Air Force Base,KDOV,14.0
+1580,Nassau Bay Airport,0TX0,14.0
+1408,Miami County Airport,KK81,14.0
+2154,Potter Airport,44IS,14.0
+978,La Crosse Regional Airport,KLSE,14.0
+688,Dietz Airpark,OR40,14.0
+924,Burke Lakefront Airport,KBKL,14.0
+222,Spring Hill Airport,MD35,14.0
+245,Hank Sasser Airport at Breakaway,40XS,14.0
+694,Angwin Airport-Parrett Field,K2O3,14.0
+1558,Pegasus Airpark,5AZ3,14.0
+415,Lackland Air Force Base,KSKF,14.0
+600,DuBois Regional Airport,KDUJ,14.0
+2053,Juniper Air Park,5OR5,14.0
+2562,Festus Memorial Airport,KFES,14.0
+900,Newnan Coweta County Airport,KCCO,14.0
+282,Rio Vista Municipal Airport,KO88,14.0
+2485,Northbrook International Ultraport Ultralightport,1NC9,14.0
+794,Joliet Regional Airport,KJOT,14.0
+362,Palmdale Regional Airport / USAF Plant 42 Airport,KPMD,14.0
+28,Viracopos International Airport,SBKP,14.0
+413,Eagle Field,09PA,14.0
+1727,Norfolk Naval Station (Chambers Field),KNGU,14.0
+1278,Meadow Brook Airport,MD09,14.0
+1279,Stafford Regional Airport,KRMN,14.0
+3349,Portage Municipal Airport,KC47,14.0
+1755,Flatwood Field,10TN,14.0
+1232,Athens Ben Epps Airport,KAHN,14.0
+394,Pryor Field Regional Airport,KDCU,14.0
+1778,C David Campbell Field Corsicana Municipal Airport,KCRS,14.0
+459,Collins-Flege Airpark,77OH,14.0
+1863,Apalachee Bluff Airpark,67GA,14.0
+463,Naper Aero Club Airport,LL10,14.0
+1828,Flying T Farm Airport,1VA9,14.0
+2473,Provincetown Municipal Airport,KPVC,14.0
+1965,J. Randy McKnight Nephi Municipal Airport,KU14,14.0
+1862,Eloy Municipal Airport,KE60,14.0
+761,Charles Field,NC22,14.0
+1482,Big T Airport,64GA,14.0
+1520,Halls Flying Ranch Airport,0GA0,13.0
+1570,Robbins Airport,MU20,13.0
+2367,Penn Yan Airport,KPEO,13.0
+1592,Fort Dodge Regional Airport,KFOD,13.0
+773,San Carlos Apache Airport,KP13,13.0
+715,Taunton Municipal King Field,KTAN,13.0
+583,Romeo State Airport,KD98,13.0
+51,London Stansted Airport,EGSS,13.0
+834,Willows Glenn County Airport,KWLW,13.0
+1515,Grays Creek Airport,K2GC,13.0
+1373,Aiken Field,85GA,13.0
+1782,Eagle River Union Airport,KEGV,13.0
+596,Topeka Regional Airport,KFOE,13.0
+780,Frogs End Airport,42VT,13.0
+1446,Oceana Naval Air Station,KNTU,13.0
+2001,Sons Private-Commercial Airport,47MN,13.0
+2800,Beaux Ranch Field,1ID3,13.0
+1531,Trollman's Field,9MI6,13.0
+2079,Clevenger Airport,MO18,13.0
+253,Hanford Municipal Airport,KHJO,13.0
+2215,Mid America Industrial Airport,KH71,13.0
+2220,Dirt Dobber's Grass Strip,NC97,13.0
+789,Sky Ranch At Pioneer Peak Airport,AK50,13.0
+2120,Gerhart Airport,19OK,13.0
+2744,Peoria Airport,6CL9,13.0
+631,Flying Circus Aerodrome,3VA3,13.0
+1804,San Nicolas Island Nolf Airport,KNSI,13.0
+1593,Maryland Airport,K2W5,13.0
+1333,Bradley International Airport,KBDL,13.0
+2544,Jim Sears Airport,3TA7,13.0
+1470,Akron Executive Airport,KAKR,13.0
+1123,Gastonia Municipal Airport,KAKH,13.0
+958,Palmer Field,AL72,13.0
+747,Auburn Academy Airport,WA84,13.0
+539,Barnstormer Airport,TE99,13.0
+868,Lou Abbett Farms Airport,II18,13.0
+1103,Searchlight Airport,K1L3,13.0
+1949,Ox Meadows Airport,04WA,13.0
+216,Doylestown Airport,KDYL,13.0
+647,Haass Field,TE57,13.0
+3131,Reedsburg Municipal Airport,KC35,13.0
+2895,Blackwater Creek Ultralightport,9FD2,13.0
+553,Hunt's Sky Ranch Airport,04CL,13.0
+1474,Needwood Farm Airport,WV21,13.0
+1195,Williamsport Airpark,SC86,13.0
+532,Blair Municipal Airport,KBTA,13.0
+475,New Garden Airport,KN57,13.0
+925,Chautauqua County-Dunkirk Airport,KDKK,13.0
+1441,North Central West Virginia Airport,KCKB,13.0
+969,Oakley Airport,TN79,12.0
+635,Turlock Municipal Airport,KO15,12.0
+424,Dodge Airport,MI50,12.0
+2127,Dogwood Airpark,VA42,12.0
+2667,Sterling Air Park,40AK,12.0
+2138,Door County Cherryland Airport,KSUE,12.0
+993,L.F. Wade International International Airport,TXKF,12.0
+668,Chatham Municipal Airport,KCQX,12.0
+996,Bud Dryden Airport,TX05,12.0
+433,Ed Schulte's Place STOLport,MI45,12.0
+638,Mclean Brothers Airport,59NC,12.0
+1399,Holloway Field,3IN6,12.0
+2128,Colorado Antique Field,8CO7,12.0
+1925,Lakeside Airport,5MI8,12.0
+1879,Placerville Airport,KPVF,12.0
+3816,Level Acres Farm Airport,PA84,12.0
+1121,Buckley Space Force Base,KBKF,12.0
+1119,Potsdam Municipal Airport Damon Field,KPTD,12.0
+1117,Rostraver Airport,KFWQ,12.0
+3400,Pepperell Airport,26MA,12.0
+1952,Cross-B Airport,24XA,12.0
+2435,Oakland Southwest Airport,KY47,12.0
+1190,Shannon Airport,EINN,12.0
+3590,Scout Airport,XS80,12.0
+1348,Forest Hill Airport,MD31,12.0
+573,Wilson Industrial Air Center Airport,KW03,12.0
+1673,Robertson Field,NC63,12.0
+526,Columbia Airport,K4G8,12.0
+1040,Peter O Knight Airport,KTPF,12.0
+524,Lampson Field,K1O2,12.0
+1234,Fisher Farm Airport,60IN,12.0
+612,Laurel Airport,KN06,12.0
+1764,Biplane Ranch Airport,NM02,12.0
+1705,Benson Airport,6MN9,12.0
+3292,Castroville Municipal Airport,KCVB,12.0
+1888,Stol Field,8TS5,12.0
+1548,Pine Island Airport,7NC2,12.0
+1391,Landings Condominium Airport,82IS,12.0
+504,Summit Airport,KEVY,12.0
+3214,Ranchaero Airport,CL56,12.0
+2058,Mason Jewett Field,KTEW,12.0
+4295,Strauch Field,OR47,12.0
+2343,Scappoose Industrial Airpark,KSPB,12.0
+153,Elmendorf Air Force Base,PAED,12.0
+2418,Albritton Airport,9WA7,12.0
+729,With Wings And A Halo Airport,0WI7,12.0
+909,Ormond Beach Municipal Airport,KOMN,12.0
+150,Flanders Field,4FD7,12.0
+725,Sunriver Airport,KS21,12.0
+2514,Plattsburgh International Airport,KPBG,12.0
+808,Willie Run Airport,3MI7,12.0
+2631,4 Winds Aerodrome,IN45,12.0
+1413,Coral Creek Airport,FA54,12.0
+138,Madeira Airpark,TX91,12.0
+1479,Haigh Airport,MI27,12.0
+1434,Wilkes County Airport,KUKF,12.0
+2196,Deck Airport,K9D4,12.0
+2262,Causey Airport,K2A5,12.0
+820,Ray Schnepf Ranch Airport,47AZ,12.0
+2396,Norman Grier Field,KS36,12.0
+1509,Ames Municipal Airport,KAMW,12.0
+915,Empire Farm Strip,MN15,11.0
+3258,McChord Air Force Base,KTCM,11.0
+2449,Ridge Airport,IA01,11.0
+152,St Charles County Smartt Airport,KSET,11.0
+2066,Pine Mountain Lake Airport,KE45,11.0
+727,Iva Field,SC34,11.0
+543,Trent Lott International Airport,KPQL,11.0
+2413,Stark Field,8TA7,11.0
+1943,Chicken Strip,3XA8,11.0
+1766,Washington Executive Hyde Field,KW32,11.0
+2881,Kenai Municipal Airport,PAEN,11.0
+2076,Teate Field,4XS2,11.0
+2077,Asheboro Regional Airport,KHBI,11.0
+1625,Holley Naval Outlying Field,KNKL,11.0
+1990,Pearland Regional Airport,KLVJ,11.0
+18,Chubu Centrair International Airport,RJGG,11.0
+1368,Bob Sikes Airport,KCEW,11.0
+126,Santa Maria Public Airport Captain G Allan Hancock Field,KSMX,11.0
+1034,On the Rocks Airport,1CA6,11.0
+1583,Van Zandt County Regional Airport,K76F,11.0
+2025,Flying R Ranch Airport,77TS,11.0
+897,Shoreline Ranch Airport,1TX4,11.0
+125,Bridgeport Municipal Airport,KXBP,11.0
+2032,Donegal Springs Airpark,KN71,11.0
+1087,Tokyo Haneda International Airport,RJTT,11.0
+1973,Arnold Ranch Airport,37CN,11.0
+285,Anderson Airport,SC80,11.0
+3643,Hilltop Airport,AK24,11.0
+2242,Cleveland Municipal Airport,K95F,11.0
+2051,Mile Creek Airport,5CT7,11.0
+2381,Sheridan Airport,K5I4,11.0
+2234,Mirth Airport,WA22,11.0
+2390,Higginsville Industrial Municipal Airport,KHIG,11.0
+489,Walters Arv Ultralightport,WN80,11.0
+1702,Beaugh Airport,9CO7,11.0
+131,Lakewood Airport,KN12,11.0
+1759,Orme School Airport,42AZ,11.0
+755,El Mirage-Village Square Airport,2AZ3,11.0
+938,Tampa Executive Airport,KVDF,11.0
+1532,Old Bridge Airport,K3N6,11.0
+1709,East Troy Municipal Airport,K57C,11.0
+2137,Solberg Hunterdon Airport,KN51,11.0
+1741,Kimberling Airport,MO64,11.0
+2663,William R. Pogue Municipal Airport,KOWP,11.0
+3980,Kistler Ranch Airport,08CL,11.0
+2497,Blue Canyon Nyack Airport,KBLU,11.0
+1875,Tamarack Airport,9WI5,11.0
+1733,Middle Hope Airport,NY09,11.0
+961,Wilgrove Air Park,K8A6,11.0
+2159,Cut and Shoot Airport,19TE,11.0
+1728,Akron Airport/Jesson Field,K9G3,11.0
+742,Secluded Lake Airport,49AK,11.0
+353,Monroe Walton County Airport,KD73,11.0
+2695,Comfort Airpark,17TE,11.0
+2210,Pines Airpark,8CA5,11.0
+2223,Maple Lake Municipal Airport,KMGG,11.0
+2319,Big Springs Ranch Airport,AZ27,11.0
+2703,Somerville Airport,2MI5,11.0
+368,Sherman Municipal Airport,KSWI,11.0
+1544,Hidden Lakes Airport,ID44,11.0
+927,Barringer Field,NC64,11.0
+2222,Moltz Airport,50TA,11.0
+2422,Platteville Municipal Airport,KPVB,11.0
+1656,Nardo Airport,77PA,11.0
+4439,Sahoma Lake Airport,03OK,10.0
+2498,Chandelle Airport,SC72,10.0
+1818,R & M Aviation Airport,4OI7,10.0
+3035,Werner Private Airport,NJ75,10.0
+1156,Sky Acres Airport,VT25,10.0
+1816,Barker Airport,WA07,10.0
+1102,Finger Lakes Regional Airport,K0G7,10.0
+2504,Someday Ranch Airport,2XA5,10.0
+516,Morris Municipal Airport James R. Washburn field,KC09,10.0
+1913,West Desert Airpark,UT99,10.0
+1608,Triune Airfield,TN97,10.0
+1486,Crow Island Airport (Pvt),8MA4,10.0
+2876,Nampa Municipal Airport,KS67,10.0
+760,Horseshoe Bay Resort Airpark,KDZB,10.0
+1894,Maury County Airport,KMRC,10.0
+1616,Zephyrhills Municipal Airport,KZPH,10.0
+4192,Slaughter Ranch Airport,86TA,10.0
+1319,Bradford Regional Airport,KBFD,10.0
+1823,Sallaberry Ranch Strip,48CN,10.0
+862,Scrabeck Airport,5MN0,10.0
+1926,Columbia Regional Airport,KCOU,10.0
+2961,Reed Airport,1CD1,10.0
+2369,Williamson Sodus Airport,KSDC,10.0
+2379,Ogdensburg International Airport,KOGS,10.0
+2370,Henrietta Airport,8TS2,10.0
+340,E T Field,NC71,10.0
+3148,Parker Airport,TS89,10.0
+1648,Tuma Private Airport,MN49,10.0
+858,Frankfurt-Hahn Airport,EDFH,10.0
+2463,Jantzen Airport,93OK,10.0
+1871,Wyckoff Airstrip,5IN4,10.0
+3431,Blackinton Airport,2CA4,10.0
+1180,Tuinstra Airfield,IA85,10.0
+1452,Clearwater Air Park,KCLW,10.0
+1602,Miles Field,3KY9,10.0
+2171,Bonny Doon Village Airport,CL77,10.0
+1806,Dean Field,8NC1,10.0
+2233,Pavek Personal Airport,MY89,10.0
+2570,Pat-Mar Strip,AK63,10.0
+2578,South Lakeland Airport,KX49,10.0
+886,Flying G Ranch Airport,3OK8,10.0
+5044,Ockel Farms Airport,DE23,10.0
+2437,CAVOK Ranch Airport,UT90,10.0
+439,River Valley Airport,WS78,10.0
+2109,Monticello Sky Ranch Airport,GA06,10.0
+2699,Dawson Field,53GA,10.0
+2424,Glencoe Municipal Airport,KGYL,10.0
+2615,Angle Bar M Airport,MU07,10.0
+2124,Sids Airport,MA52,10.0
+169,Virgil I Grissom Municipal Airport,KBFR,10.0
+940,Ecko Field,0PA4,10.0
+790,Midway Lake Airport,79FD,10.0
+646,Watts Woodland Airport,KO41,10.0
+1736,Rankl Field,CT20,10.0
+972,Fraser Farm Airport,43TS,10.0
+971,Sky Meadows Airpark,WN92,10.0
+2430,Maplewood Farm Airport,CT39,10.0
+675,Burnet Municipal Kate Craddock Field,KBMQ,10.0
+2208,Preston Airport,KU10,10.0
+657,Mallards Landing Airport,GA04,10.0
+1732,Siler City Municipal Airport,K5W8,10.0
+3338,Brablec Farms Airport,MI02,10.0
+5058,Gainesville Regional Airport,KGNV,10.0
+447,Markham Airport,MI52,10.0
+1015,Roberts Field,KRDM,10.0
+1044,Hamad International Airport,OTHH,10.0
+2238,Nagel and Schultz Airport,37MN,10.0
+1208,Norman Airport,89LL,10.0
+1510,Kingdon Airpark,KO20,10.0
+2250,Cumberland Municipal Airport,KUBE,10.0
+1212,Rigdon Private Airport,WI81,10.0
+2398,John H Hataway Airport,5AL7,10.0
+1792,Burden Field-(Rabbit Run) Airport,61WA,10.0
+2044,Southern Oaks Airport,GE35,10.0
+2357,Lockhart Municipal Airport,K50R,10.0
+4147,Weedhopper Meadow Airport,WI71,10.0
+1251,Peacock STOLport,4NC7,9.0
+3173,Mankato Regional Airport,KMKT,9.0
+3365,Devils Hopyard Field,CT11,9.0
+497,Fox Field,88MN,9.0
+1669,McKenzie's Landing Airport,1MI5,9.0
+423,Hay Field,1GE7,9.0
+1209,Owens Field,II29,9.0
+420,South Gasline Airport,AK39,9.0
+4833,Rular Airport,VG07,9.0
+3370,Warner Springs Gliderport Airport,CL35,9.0
+1207,Thomson Airfield,6FD7,9.0
+1262,Aero Plantation Airport,NC21,9.0
+518,Becks Grove Airport,KK16,9.0
+3329,Horseshoe Landings Airport,CO60,9.0
+1680,Clum Airport,8OI5,9.0
+798,Bartlesville Municipal Airport,KBVO,9.0
+1463,Tate Airport,5PS9,9.0
+3142,Hilltop Airport,40OK,9.0
+1760,Hawk's Knoll Airport,2NC1,9.0
+520,Dauphin Island Airport,K4R9,9.0
+2480,Breeden Airport,AK05,9.0
+1662,Red Lion Airport,KN73,9.0
+1189,Westmoreland Airport,49NY,9.0
+1856,Branham Mill Airpark,VG29,9.0
+398,Wadsworth Municipal Airport,K3G3,9.0
+476,Aaron's Field,14NE,9.0
+471,Center Island Airport,78WA,9.0
+1748,Sky Harbor Residential Airpark,1MN8,9.0
+2387,Mountain Valley Airport,KL94,9.0
+3219,Umphlett Airstrip,VG37,9.0
+1196,Grand Haven Memorial Airpark,K3GM,9.0
+1690,Homestead ARB Airport,KHST,9.0
+2407,Pokety Airport,3MD8,9.0
+3344,Green Airport,TX92,9.0
+2453,Jack Edwards National Airport,KJKA,9.0
+451,Ocean Springs Airport,K5R2,9.0
+1940,Reider Ranch Airport,CA75,9.0
+2869,Little Falls-Morrison County-Lindbergh field,KLXL,9.0
+3604,Orange Poultry Farm Airport,4NY1,9.0
+355,Als Airport,NR40,9.0
+577,Southwest Washington Regional Airport,KKLS,9.0
+930,Louisa County Airport/Freeman Field,KLKU,9.0
+2271,Duck Creek Airport,26OK,9.0
+937,Rosecrans Memorial Airport,KSTJ,9.0
+717,Zoellner Airport,10OH,9.0
+3902,Ries Airport,76II,9.0
+1082,Culp Airport,6TA3,9.0
+2251,Land Airport,CO82,9.0
+2277,Perryman Airport,7CL9,9.0
+2668,Kepes Flying Field,1OA4,9.0
+2629,Citabriair Airport,UT43,9.0
+1440,Dutchess County Airport,KPOU,9.0
+4230,De Witt Property Airport,34MI,9.0
+2081,Flying N Ranch Airport,CA04,9.0
+1405,Winters Field,8MI9,9.0
+2007,Eagle Roost Airpark,27AZ,9.0
+1529,Capitol Drive Airport,K02C,9.0
+724,Daybreak Airport,WA46,9.0
+923,Crystal Springs Ranch Airport,UT54,9.0
+256,Boyer Airport,63PA,9.0
+2228,Tangerine Airport,FL97,9.0
+1420,Wawasee Airport,4IN9,9.0
+919,Big Sky Airport,AL93,9.0
+1522,Selfridge Air National Guard Base Airport,KMTC,9.0
+921,Blackwater Airstrip,NC61,9.0
+2733,Gimlin Airport,18MO,9.0
+2059,Lake Persimmon Airstrip,03FA,9.0
+1586,Caesar Creek Soaring Club Gliderport,2OH9,9.0
+1033,Darby Airport,OH93,9.0
+2111,Carlisle Airport,KN94,9.0
+278,Harmony Field,6XS9,9.0
+1572,Delano Municipal Airport,KDLO,9.0
+1578,Ultralight International Ultralightport,0TS2,9.0
+584,Flying T Ranch Airport,CA76,9.0
+2023,Buckeye Municipal Airport,KBXK,9.0
+2917,Carr Airport,WV65,9.0
+1016,Foster Field - Dzone Skydiving Airport,ID92,9.0
+1958,Moxley's Airport,4MD6,9.0
+1496,K Ranch Airport,3TE0,9.0
+4038,Van Strien Airport,26MI,9.0
+2162,Maastricht Aachen Airport,EHBK,9.0
+669,Willow Island Airpark,58KY,9.0
+2969,Enochville Airport,NC39,9.0
+1917,Merill L Harris Field,9MN6,9.0
+2172,White County Airport,KMCX,9.0
+2333,Cawleys South Prairie Airport,02WA,9.0
+2983,Stewart Airport,MD64,9.0
+1930,Knoxville Downtown Island Airport,KDKX,9.0
+4340,Britt Brown & Porter Ranch Airport,6FD6,9.0
+1138,Gila Compressor Station Airport,30AZ,9.0
+530,Riley Field,1NC5,9.0
+2500,Miramar Marine Corps Air Station - Mitscher Field,KNKX,9.0
+1328,Baker Airport,32IS,9.0
+2998,Herbert Ranch Airport,XS03,9.0
+354,Felker Army Air Field,KFAF,9.0
+3548,Doc Jones Field,TN73,9.0
+2633,Shelby-Cleveland County Regional Airport,KEHO,9.0
+864,Hoopes Ranch Airport,57XS,9.0
+1340,Toccoa Airport - R.G. Letourneau Field,KTOC,9.0
+2662,Goodyear Blimp Base Airport,64CL,9.0
+2290,Logansport Cass County Airport,KGGP,9.0
+1100,Quail Lake Sky Park Airport,CL46,9.0
+2645,Snow Airport,MA36,9.0
+2945,Jackson /Bill/ Airport,XS92,9.0
+2170,Anacortes Airport,K74S,9.0
+3572,Simpson Airport,NE09,9.0
+3554,Squirrel Creek Ranch Airport,4TE9,9.0
+1936,Sebring Regional Airport,KSEF,9.0
+538,Elton Hensley Memorial Airport,KFTT,9.0
+730,Mc Gee Airport,67OR,9.0
+3880,Zelazny Airport,88NY,8.0
+176,Hammonton Municipal Airport,KN81,8.0
+1395,Pine Shadows Airpark,94FL,8.0
+1272,Decatur Airport,KDEC,8.0
+405,Hermon Farm Airport,SN59,8.0
+155,Mefford Field,KTLR,8.0
+1392,Richmond Municipal Airport,KRID,8.0
+1411,Platte Valley Airpark,K18V,8.0
+201,Sugar Land Regional Airport,KSGR,8.0
+239,Menard Airport,XA09,8.0
+4056,Bishop International Airport,KFNT,8.0
+1715,The Citadel Airport,61OR,8.0
+1645,Heaven's Landing Airport,GE99,8.0
+3364,Sycamore Strip,K9F9,8.0
+3594,Volkens Field,97IA,8.0
+3517,Agro-West Airport,5CA7,8.0
+1321,Hideaway Ultralightport,14PS,8.0
+4410,Polly Ranch Airport,7XS0,8.0
+1638,Brookeridge Air Park,LL22,8.0
+3449,Allenholm Airport,VT26,8.0
+1636,Caddo Mills Municipal Airport,K7F3,8.0
+3430,Bearwallow Farm Airport,0NC1,8.0
+1632,Samuels Springs Airport,59KY,8.0
+1303,Striplin Airfield,AL62,8.0
+3575,Burke's Airport,II53,8.0
+1665,Moore's Field,SC43,8.0
+1443,Larson Airport,5WI4,8.0
+1619,Tampa North Aero Park Airport,KX39,8.0
+1460,Ottawa Macdonald-Cartier International Airport,CYOW,8.0
+4206,Walter Airport,0IL8,8.0
+1383,Kenneth Copeland Airport,K4T2,8.0
+3600,Flying Crown Airport,AK12,8.0
+1609,B J Farms Airport,NJ06,8.0
+1676,Outlaw Flyers Airport,16XS,8.0
+3683,Beatrice Municipal Airport,KBIE,8.0
+1359,Creager Airport,3OH7,8.0
+385,Greenville Spartanburg International Airport,KGSP,8.0
+1687,Monticello Airport,KN37,8.0
+3733,Trade Wind Airport,MA44,8.0
+389,Forest Hill Airport,4TX3,8.0
+3734,Jackson County Reynolds Field,KJXN,8.0
+3790,Bird Field,2MO1,8.0
+1473,Chautauqua County-Jamestown Airport,KJHW,8.0
+1382,Millertime Airport,4OH4,8.0
+1700,Marco Island Executive Airport,KMKY,8.0
+1269,Fayette County Airport,KI23,8.0
+1132,İstanbul Atatürk Airport,LTBA,8.0
+0,Guarulhos - Governador André Franco Montoro International Airport,SBGR,8.0
+655,Cubero Airport,NM74,8.0
+665,Glenmar Airport,TS11,8.0
+1989,Flying L Airpark,6TX7,8.0
+564,First Flight Airport,KFFA,8.0
+2632,Wasilla Airport,PAWS,8.0
+2887,Bonel Airport,95CA,8.0
+1086,Cambridge Municipal Airport,KCBG,8.0
+2213,Blo Airport,12TS,8.0
+2907,Woodlake Airport,KO42,8.0
+2591,Ewing Airport,MD28,8.0
+2567,Fayette Regional Air Center Airport,K3T5,8.0
+1938,Old Plains Airport,9PA2,8.0
+1937,Rantoul National Aviation Center - Frank Elliot field,KTIP,8.0
+2230,Treasure Gulch Airport,22ID,8.0
+706,Post-Air Airport,K7L8,8.0
+1127,Akron Canton Regional Airport,KCAK,8.0
+1911,Witham Airport,SN57,8.0
+2997,Hillview Airstrip,OI38,8.0
+1899,Reb Folbre's Place Airport,TE34,8.0
+1147,Kozal Airfield,76MI,8.0
+716,Polk County Airport- Cornelius Moore Field,K4A4,8.0
+2256,Linn State Technical College Airport,K1H3,8.0
+1996,Newark Heath Airport,KVTA,8.0
+968,College Park Airport,KCGS,8.0
+511,Cleburne Regional Airport,KCPT,8.0
+2148,Carlson Farm Airport,3IN3,8.0
+2096,Wakeman Airport,KI64,8.0
+627,Kearny Airport,KE67,8.0
+1012,Prineville Airport,KS39,8.0
+2718,Williams Field,5MI7,8.0
+2684,Richards Airport,ID63,8.0
+2070,Stearmans Roost Airport,5OK3,8.0
+2794,Dare County Regional Airport,KMQI,8.0
+2678,Sies Landing Area Airport,1LL4,8.0
+598,One Sixty Four Place Airport,TS02,8.0
+2810,Jackson County Airport,K19A,8.0
+643,Shaw Meadow Airport,VT52,8.0
+2142,Lake Arrowhead Airport,2CN8,8.0
+593,Reedley Municipal Airport,KO32,8.0
+2031,Anderson Airport,IA54,8.0
+590,Laguna Park Community Airport,TX82,8.0
+973,Portland Municipal Airport,KPLD,8.0
+2840,Melville Airstrip,2VA2,8.0
+1266,Cooper Field,99II,8.0
+2022,Lazy W Airport,86CO,8.0
+581,Johnston Airport,71MI,8.0
+1060,Los Banos Municipal Airport,KLSN,8.0
+889,Ardmore Downtown Executive Airport,K1F0,8.0
+899,Big Lake Airport,PAGQ,8.0
+2102,Triple R Airport,75XS,8.0
+2295,Bishop Field,68TS,8.0
+827,Boundary Bay Airport,CZBB,8.0
+1244,Kleis Airport,IA30,8.0
+2509,Hankins Airport,1OK9,8.0
+2457,Henington Airport,41TX,8.0
+480,Leisureland Airpark,WA96,8.0
+2346,Inductotherm Airport,3NJ6,8.0
+1238,Tonga Airport,1CD2,8.0
+1237,Delaware Airpark,K33N,8.0
+2483,Fender J H Airport,4MO0,8.0
+758,Southeast Colorado Regional Airport,KLAA,8.0
+1765,Mauston New Lisbon Union Airport,K82C,8.0
+2371,Skylark Airport,CA89,8.0
+445,Frasca Field,KC16,8.0
+1810,Kugel-Strong Airport,03CO,8.0
+1770,Darr Field,NC03,8.0
+3263,Mims Farm Ultralightport,01TX,8.0
+1799,Stender Airport,01IA,8.0
+2517,Blakely Island Airport,38WA,8.0
+3296,Pegasus Run Airport,4GA0,8.0
+768,Stan Jost Airport,74OR,8.0
+879,California Highway Patrol Academy Airport,60CL,8.0
+1730,Rooster Field,40KY,8.0
+878,Blue Skies Farm Airport,OR87,8.0
+2415,Waupaca Municipal Airport,KPCZ,8.0
+1866,Skyland Airport,NC50,8.0
+2280,Emmett Municipal Airport,KS78,8.0
+720,Philip Billard Municipal Airport,KTOP,8.0
+502,Red's Field,18OR,8.0
+1737,Los Alamos Airport,KLAM,8.0
+1861,Jerry Sumners Sr Aurora Municipal Airport,K2H2,8.0
+2412,Uncle Chuck's Airport,IS80,8.0
+1858,Lanham Field,04ID,8.0
+4034,Klutts Field,20XS,7.0
+4591,Merrimac Farms Airport,68NY,7.0
+2440,Young's Strip,87CO,7.0
+2431,Alta Sierra Airport,09CL,7.0
+2680,West Ranch Airport,XS75,7.0
+2443,Mid Delta Regional Airport,KGLH,7.0
+2712,Rancho Murieta Airport,KRIU,7.0
+2383,Willow Springs Ranch Airport,1AZ8,7.0
+2121,Lyall-Roberts Airport,37CL,7.0
+3875,Tnt Ultralightport,5XS0,7.0
+2409,Garnair Airport,FA55,7.0
+4776,Sunset Airport,TA18,7.0
+4158,Mason Airfield,NH76,7.0
+4499,Risker Field,3PS9,7.0
+4045,Flying K Airport,6NK8,7.0
+2278,Cecil County Airport,K58M,7.0
+2556,Hen & Bacon Airport,90VA,7.0
+2557,Barnstormers 5 Airport,16MI,7.0
+2244,Park Township Airport,KHLM,7.0
+2748,Lakeside Airpark,AZ05,7.0
+2236,Pottstown Municipal Airport,KN47,7.0
+4140,Elyria Airport,K1G1,7.0
+2541,Lenhardt Airpark,K7S9,7.0
+2232,Fla-Net Airport,0NJ5,7.0
+1521,Jugtown Mountain Airport,2NJ1,7.0
+2308,Double S Airport,19NC,7.0
+2227,Commerce Municipal Airport,K2F7,7.0
+2586,Mcintosh Field,95GA,7.0
+2610,Aeroflex-Andover Airport,K12N,7.0
+2345,Kyles Airport,WA04,7.0
+2362,Plattsmouth Municipal Airport,KPMV,7.0
+2618,Barnett Airpark,1OA3,7.0
+4079,Eagle Crest-Hudson Airport,DE25,7.0
+2619,Rock Creek Ranch Airport,TS47,7.0
+2267,Utter Field,2OA7,7.0
+2164,Fentress Airpark,XS90,7.0
+2476,Pleasant Home Gliding Club Gliderport,14OI,7.0
+1538,Mason Valley Airport,3KY3,7.0
+2190,Chippewa Valley Regional Airport,KEAU,7.0
+1720,Madison County Executive Airport-Tom Sharp Jr Field,KMDQ,7.0
+2083,Lewis Landing Airport,NK79,7.0
+3071,Christman Field,CO55,7.0
+3108,Green Swamp Aerodrome,FD33,7.0
+1852,Ruckel Airport,FL17,7.0
+3090,Buffalo Creek Airport,4NC8,7.0
+1854,Rohrer Airport,5OI0,7.0
+3408,Deer Run Airport,NC56,7.0
+1655,Mount Sterling Municipal Airport,KI63,7.0
+1653,Riego Flight Strip,38CL,7.0
+3069,Tecumseh Mills Airport,36MI,7.0
+2755,Capital City Airport,KFFT,7.0
+3458,Arnett Landing Airport,27XA,7.0
+1868,Crosswinds Airfield,TE96,7.0
+3049,Bakers Field,MI88,7.0
+3485,Sky Park Airport,MN67,7.0
+3027,Piqua Airport-Hartzell Field,KI17,7.0
+3013,Cataney Airport,PN62,7.0
+1895,Seven Gables Airport,2VG7,7.0
+3186,Flamingo Airfield,TA59,7.0
+3396,French Lick Municipal Airport,KFRH,7.0
+3381,Alison Air Park,7TS2,7.0
+3192,Coppenger Farm Airport,TX95,7.0
+3334,Sampson County Airport,KCTZ,7.0
+1724,Owatonna Degner Regional Airport,KOWA,7.0
+3328,Kendallville Municipal Airport,KC62,7.0
+3310,Beaver Dam Airpark,VA33,7.0
+3308,Harry-Walt Airport,70MN,7.0
+1749,Gord Airport,0LL6,7.0
+3351,Webster City Municipal Airport,KEBS,7.0
+1703,Rooster Field,84NC,7.0
+3286,Rabb And Nobra Airport,6TS8,7.0
+1774,Defuniak Springs Airport,K54J,7.0
+3260,Skye Dance Airport,1XS2,7.0
+3238,Barker Strip,35WI,7.0
+1794,Wilderness Field,IN60,7.0
+3211,San Manuel Airport,KE77,7.0
+3375,Rivercliff Airport,NC32,7.0
+3486,Windsor Airport,CYQG,7.0
+1903,Symms Airport,08ID,7.0
+1904,Saufley Naval Outlying Landing Field,KNUN,7.0
+1603,Sunset Strip Airpark,90KS,7.0
+2871,Sauk Centre Municipal Airport,KD39,7.0
+1595,Skylane Ranch Airport,17CO,7.0
+2852,Reinke Airport,75IS,7.0
+2010,Cottonwood Field,09CO,7.0
+3693,Conley Field,55MN,7.0
+2850,Kearns Airport,OH74,7.0
+2834,Brookline - Meadowmere Airport,9GA6,7.0
+2818,Taylorville Municipal Airport,KTAZ,7.0
+3696,Brighton Airport,K45G,7.0
+2803,Highland Airport,47AK,7.0
+2802,Perdido Winds Airpark,AL08,7.0
+2075,Green Landings Airport,WV22,7.0
+2790,Rock Creek Farm Airport,ID23,7.0
+2771,Rieben Airport,OG02,7.0
+2760,Flying H Ranch Airport,WN42,7.0
+2880,Smith Airport,2GE3,7.0
+2884,Sherman Army Air Field,KFLV,7.0
+3530,Alcovy Airport,07GA,7.0
+1985,Fitchburg Municipal Airport,KFIT,7.0
+3539,Blue Heron Field,WN49,7.0
+1916,Shirley Airport,61MA,7.0
+2966,Wade Airport,56LL,7.0
+1929,Olson Airport,LL53,7.0
+2958,Rustic Wilderness Airport,02AK,7.0
+1932,Clute's Hilltop Airport,69NC,7.0
+1947,Decatur Municipal Airport,KLUD,7.0
+1624,Yankee Airstrip,CT13,7.0
+2940,Waite Field Airport,K29M,7.0
+1955,H.A. Clark Memorial Field,KCMR,7.0
+2912,Farm Services Inc Airport,XS64,7.0
+2906,Stevens Mountain Airport,10OR,7.0
+1978,Dayton Valley Airpark,KA34,7.0
+2885,B Tree Farms Airport,97GA,7.0
+3612,Prairie Du Chien Municipal Airport,KPDC,7.0
+2848,Montgomery County Airport,K43A,7.0
+2646,Stevens Point Municipal Airport,KSTE,7.0
+1469,Herlong Airport,KHEG,7.0
+1176,Albert Lea Municipal Airport,KAEL,7.0
+449,Deshka Landing Airport,3AK1,7.0
+1003,Gessie Airport,9IN9,7.0
+1088,Gregg Airport,16PA,7.0
+1089,McGill Ultralight Field,2AZ7,7.0
+367,Grapevine Airstrip,88AZ,7.0
+1097,Sandia Airpark Estates East Airport,K1N1,7.0
+1106,Rome–Fiumicino Leonardo da Vinci International Airport,LIRF,7.0
+1113,Baker-Sell Airport,2PN5,7.0
+1139,Munich Airport,EDDM,7.0
+1168,Taylor Field,MU78,7.0
+319,Wax Orchards Airport,WA69,7.0
+959,Friday West Airport,1WA9,7.0
+1236,Columbus Municipal Airport,KOLU,7.0
+1302,Chance Airport,VA89,7.0
+1311,Naval Outlying Field Barin,KNBJ,7.0
+1325,River Bend Airport,GE33,7.0
+1335,Samuels Field,KBRY,7.0
+1358,Cherokee Ranch Airport,OK25,7.0
+1363,Peter Prince Field,K2R4,7.0
+1366,S and S Field,1OH1,7.0
+1367,Smith Field,KSMD,7.0
+1385,Winona–Montgomery County Airport,K5A6,7.0
+982,Hidden Valley Airpark,5TX0,7.0
+467,Lake Wohlford Resort Airport,8CL1,7.0
+57,Griffin-Sloas Airport,80OH,7.0
+569,Richard B Russell Airport,KRMG,7.0
+711,Wasco Kern County Airport,KL19,7.0
+722,Deer Pasture Airport,69TE,7.0
+630,Perry Stokes Airport,KTAD,7.0
+626,California City Municipal Airport,KL71,7.0
+738,South Texas Regional Airport at Hondo,KHDO,7.0
+609,Florida Flying Gators Airport,3FD4,7.0
+776,Lake Ridge Aero Park Airport,8NC8,7.0
+783,Carty's Airstrip,8AK2,7.0
+788,Iowa Falls Municipal Airport,KIFA,7.0
+579,Miller Air Park,NC30,7.0
+826,Royal Wood Aerodrome,20MO,7.0
+953,Hidden Lake Airport,FA40,7.0
+14,Adolfo Suárez Madrid–Barajas Airport,LEMD,7.0
+856,Southerly Airport,58FD,7.0
+859,Blackwood Airpark,TX46,7.0
+536,Blue Ribbon Airport,WN29,7.0
+866,Sency Airport,55PA,7.0
+519,Hackenburg-Penny Hill Airport,6PA3,7.0
+508,Ultralight Flight Farm Ultralightport,NK89,7.0
+891,Sunset Strip,7GE5,7.0
+898,Israel's Farm Airport,WA56,7.0
+944,Andrews University Airpark,KC20,7.0
+1403,Hoffman Airport,IS63,7.0
+691,Davison Army Air Field,KDAA,7.0
+1428,Zollinger Strip,II21,7.0
+1459,Compton Airport,44OR,7.0
+1422,Dayton-Phillipsburg Airport,K3I7,6.0
+2050,Herr Mountain Airport,5NJ2,6.0
+2043,Ford Airport,KIMT,6.0
+2042,Rush City Regional Airport,KROS,6.0
+2036,Bellmore Farms Airport,1CO3,6.0
+1048,Sutter County Airport,KO52,6.0
+1050,Point Mac Airport,AK36,6.0
+1055,Deer Creek Ranch Airport,CA60,6.0
+1056,Chapman Ranch Airstrip,58AZ,6.0
+3392,Clinton County Airport,KI66,6.0
+2009,P K Airpark,K5W4,6.0
+2008,Prices Airport,K9G2,6.0
+3397,Westfield Airport,86OH,6.0
+2005,Saratoga County Airport,K5B2,6.0
+1064,Lino Air Park,MY18,6.0
+1065,Hefner Easley Airport,KH68,6.0
+1067,Moretz Riverside Landing Airport,NC00,6.0
+1071,Willow Airport,PAUO,6.0
+3421,Tenaja Valley Airport,2CN3,6.0
+1041,Guggenberger Airport,MY47,6.0
+1037,Nellis Air Force Base,KLSV,6.0
+1101,Fernando Luis Ribas Dominicci Airport,TJIG,6.0
+2092,"Airnautique, Inc. Airport",0GA2,6.0
+3201,Woodford Airpark,20VA,6.0
+2135,Arnold Airport,PA43,6.0
+3234,Flying H Ranch Airport,9TX4,6.0
+2116,Madison County Airport,KUYF,6.0
+2114,Lakehurst Maxfield Field Airport,KNEL,6.0
+1499,Quakertown Airport,KUKT,6.0
+1004,Air Park Dallas Airport,KF69,6.0
+442,Flying S Ranch Airport,0NC8,6.0
+412,Frontier Airpark,WN53,6.0
+2090,Milford Municipal-Ben and Judy Briscoe Field,KMLF,6.0
+3297,Mora Municipal Airport,KJMR,6.0
+2080,Sky Way Estates Airport,CL04,6.0
+2074,Frankfort Municipal Airport,KFKR,6.0
+3318,Loseke Airstrip,NE37,6.0
+2072,Aberdeen Field,31VA,6.0
+416,Bowen Farms Nr 1 Airport,CO98,6.0
+365,Chesapeake Ranch Airport,MD50,6.0
+3459,Wilding Farm Airport,6WA5,6.0
+1495,Carl's Airport,MI70,6.0
+4196,Shawano Municipal Airport,KEZS,6.0
+3670,Valley Farms Airport,CT29,6.0
+3679,Bob Walberg Field,IL36,6.0
+1802,Penn Valley Airport,KSEG,6.0
+296,Port Meadville Airport,KGKJ,6.0
+3694,Loomis Airport,ID95,6.0
+1224,Duplin County Airport,KDPL,6.0
+3720,South Alabama Regional At Bill Benton Field Airport,K79J,6.0
+3726,Sprague Airport,CD20,6.0
+1767,Fort Erie Airport,CNJ3,6.0
+3756,Country Club Air Park,NH88,6.0
+1763,Le Champ Airport,48MD,6.0
+1751,Market World Airport,FL16,6.0
+1739,Petes Airport,7MY9,6.0
+1253,Bellefontaine Regional Airport,KEDJ,6.0
+1264,Harper's Fly-In Ranch Airport,0FL0,6.0
+1722,Benjamin Franklin Airport,59TX,6.0
+1281,Zorn Acres Airport,60OI,6.0
+3659,Knowlesville Airport,NY01,6.0
+1822,Langley Air Force Base,KLFI,6.0
+309,Sawyer County Airport,KHYR,6.0
+3544,Mc Donnell Airport,03MU,6.0
+1935,Grabhorn's Airport,8OR6,6.0
+359,Cortland County Chase Field,KN03,6.0
+3488,Bailey Airport,2TS8,6.0
+1910,Oleo Airport,4II3,6.0
+3495,Sss Aerodrome,WI62,6.0
+1905,Schumacher Airport,3MN9,6.0
+3505,Olinger Airpark,OR81,6.0
+3582,Aero-Bee Ranch Airstrip,89TX,6.0
+1829,The Landings Airport,66TE,6.0
+1166,Mount Olive Municipal Airport,KW40,6.0
+1860,Blackhawk Airport,81KS,6.0
+315,Lorain County Regional Airport,KLPR,6.0
+3609,Lawson Airpark,WN21,6.0
+1192,West Michigan Regional Airport,KBIV,6.0
+1193,Sugar Hill Airport,DE17,6.0
+1831,Goldsboro-Wayne Municipal Airport,KGWW,6.0
+965,Don's Landing Field,32MN,6.0
+3177,Wipline Airport,35MN,6.0
+2166,Robinson Airport,MU26,6.0
+4234,Pinoak Airport,3TE9,6.0
+2490,Flaherty Field,0LL4,6.0
+2489,Bailey Ranch Airport,NV13,6.0
+2774,Willard Field,62OH,6.0
+616,Koppie Airport,7IS5,6.0
+607,Tri-County Airport,K1J0,6.0
+2808,Hood Field,66NC,6.0
+2813,Pierce County-Thun Field,KPLU,6.0
+2814,Mountain Bay Air Park Inc Airport,PA49,6.0
+1478,Spring Valley Farm Airport,6GA4,6.0
+2822,Talachulitna River Airport,1AK6,6.0
+2827,Perris Valley Airport,KL65,6.0
+2835,Cedar Ridge Airport,GA62,6.0
+2837,Central Nebraska Regional Airport,KGRI,6.0
+2432,Cherry Hill Airport,8KT8,6.0
+800,Bowie Municipal Airport,K0F2,6.0
+2429,Weaver Airport,MT54,6.0
+580,Holce & Oblack Airport,6OR8,6.0
+2765,Moyer Airport,3PA9,6.0
+2754,Lenora Airport,2GA9,6.0
+2750,Gunnersfield Ranch Airport,71CL,6.0
+640,Skalicky Airstrip,4MN0,6.0
+2602,Brooks Field,8NC6,6.0
+2600,Hackney Airpark,ID05,6.0
+2628,Daviess County Airport,KDCY,6.0
+676,Cloverdale Municipal Airport,KO60,6.0
+2587,Jewell Airport,AK72,6.0
+663,Post Oak Airfield,TA19,6.0
+4929,Sky Harbor Airport,9AK5,6.0
+2691,Cecil Airport,KVQQ,6.0
+2745,Oroville Municipal Airport,KOVE,6.0
+2693,Chigger Field,TE52,6.0
+2551,Kriewall Strip,4MI0,6.0
+2702,Dennis's Flying Farm Airport,TA86,6.0
+2545,Als Landing Strip,NJ96,6.0
+2706,Tom B. David Field,KCZL,6.0
+2730,Harrington Airport,20ID,6.0
+2518,Zaragoza Airport,LEZG,6.0
+2402,Wolomolopoag STOLport,MA66,6.0
+576,Industry Air Park,38OH,6.0
+212,Bagwell Airport,NC99,6.0
+571,Salem Municipal Airport/McNary Field,KSLE,6.0
+2275,Dupont-Lapeer Airport,KD95,6.0
+2273,Wolf Lake Airport,4AK6,6.0
+887,Tom J Moore Farm Airport,XS18,6.0
+3041,Mid Valley Airport,KT65,6.0
+3054,Surfside Airport,MN24,6.0
+2257,Rachel's Landing Airport,8TN6,6.0
+4221,Nulltown Wingnuts Ultralightport,73II,6.0
+2248,Southern Comforts Aerodrome,61NC,6.0
+507,Banning Municipal Airport,KBNG,6.0
+3072,Weese International Airport,XS14,6.0
+2243,Pecan Patch Airstrip,0GE4,6.0
+3079,Davidson County Airport,KEXX,6.0
+100,Duke Field,KEGI,6.0
+2205,Apex Airpark,WA05,6.0
+2194,Goose Hunt Farm Airport,3VA5,6.0
+2191,Mc Gee Field,24NC,6.0
+2180,Giddings-Lee County Airport,KGYB,6.0
+882,Meadstown Airstrip,NC28,6.0
+880,Fuller Airport,TS00,6.0
+522,General Abelardo L. Rodríguez International Airport,MMTJ,6.0
+2331,Rocky Bay Airport,WT77,6.0
+5022,Lagrone Ranch Airport,19TA,6.0
+825,Oolenoy Valley Airport,SC75,6.0
+2891,Winter Field,6MO6,6.0
+2376,McConville Airstrip,CA42,6.0
+2913,Cross' Farm Airport,4NY4,6.0
+852,Stapleton Field,TX03,6.0
+2332,H Bar H Airport,NV09,6.0
+2328,Ideal Mfg Corp Airport,NJ69,6.0
+2995,Edwards Airport,9NC3,6.0
+2955,Bluebird Airport,15OK,6.0
+2317,Bridle Ridge Airport,TS87,6.0
+2964,Carson Airport,KCXP,6.0
+2976,Del Mar Farms Airport,CN99,6.0
+2301,Tri State Steuben County Airport,KANQ,6.0
+2298,Russell Paradise Airport,2TX1,6.0
+2992,Triangle Airpark,AZ50,6.0
+3874,Little 'L' Ranch Airport,TS61,6.0
+396,Tarboro Edgecombe Airport,KETC,6.0
+1432,Blue Ridge Flightpark Airport,34FD,6.0
+1588,Stonewall Airpark,41TN,6.0
+1629,Adams Airport,GA91,6.0
+1345,Springdale Municipal Airport,KASG,6.0
+1596,Kennedy Intranational Airport,2GA0,6.0
+3978,Mayhall Airport,5LL3,6.0
+1614,Elliott Field,30GA,6.0
+1297,Stoney Point Field,6GA0,6.0
+1573,Blue Mountain Academy (Private) Airport,PA92,6.0
+4108,Hynes Field,MI26,6.0
+1684,Vermilion Regional Airport,KDNV,6.0
+164,Fuquay/Angier Field,78NC,6.0
+1394,Lakeland-Noble F. Lee Memorial field,KARV,6.0
+3953,Stafford Airport,20NY,6.0
+1615,Claucherty Airport,MI35,6.0
+1400,Grasso Salvage Airport,62VA,6.0
+4322,Aresti Aerodrome,TE02,6.0
+4165,Star Smith Field,3XS5,6.0
+1564,Crete Municipal Airport,KCEK,6.0
+1310,Northwest Arkansas Regional Airport,KXNA,6.0
+1585,Reid-Eash Airport,25IN,6.0
+1664,Boatner Field,OK90,6.0
+1374,Boscobel Airport,KOVS,6.0
+1885,Swiderski Field,MN85,5.0
+495,Blue Lick Airport,07KY,5.0
+3105,Salisbury Ocean City Wicomico Regional Airport,KSBY,5.0
+1453,Short Air Airport,1MU4,5.0
+1884,Timber Line Airpark,02MU,5.0
+572,Deer Park / Radial Flyer Airport,WT21,5.0
+3098,Timmers Landing Field,MN41,5.0
+3547,Whithall Farm Airport,1VG2,5.0
+2890,H Young Ranch Airport,4XS6,5.0
+3561,Cherry Spraying Service Airport,XS24,5.0
+557,Hannibal Regional Airport,KHAE,5.0
+4601,Whidbey Island Naval Air Station (Ault Field),KNUW,5.0
+3520,King Knoll Airport,OI84,5.0
+3516,Gottwald Field,10TE,5.0
+2910,Youngstown Warren Regional Airport,KYNG,5.0
+846,Sunset Airport,15WA,5.0
+3507,Kings Land O' Lakes Airport,KLNL,5.0
+552,Johnsen Airport,4CA7,5.0
+821,Mineola Wisener Field,K3F9,5.0
+3995,Venus Airport,75TS,5.0
+2397,Las Serpientes Airport,CN19,5.0
+3563,Bingham Airport,IL05,5.0
+4309,Lake County Executive Airport,KLNN,5.0
+781,Skip's Place Airport,2IN0,5.0
+4178,Flying Armadillo Field,1XA5,5.0
+1601,Muskogee-Davis Regional Airport,KMKO,5.0
+3325,Davis Field,6IA5,5.0
+4235,Herb Tautz Airport,LL07,5.0
+797,Geneva Municipal Airport,K33J,5.0
+947,Ziermann Airport,MN71,5.0
+310,Luray Caverns Airport,KW45,5.0
+1842,Ratliff Airport,16TX,5.0
+4169,Alpine County Airport,KM45,5.0
+427,Portland Mulino Airport,K4S9,5.0
+4005,Hawkins Field,TX98,5.0
+803,Sage Ranch Airport,OG15,5.0
+3598,Decatur /Jones/ Airport,WA18,5.0
+1184,Baird-Wolford Airport,2II6,5.0
+3332,Chaparral Airport,CO18,5.0
+3134,Thomas Farms Airport,85FL,5.0
+3336,Burg Lake Aero Airport,30TX,5.0
+4037,Dansville Municipal Airport,KDSV,5.0
+2414,Lackorn Airport,TE51,5.0
+2857,McCabe Ranch Airport,2CL2,5.0
+411,Katama Airpark,K1B2,5.0
+2207,Docktors Field,CT51,5.0
+1173,Harper Ridge Airport,67OH,5.0
+2866,Weiblen Airport,TE13,5.0
+2868,Liannimal's Landing,56IS,5.0
+2363,Willadae Farms Airport,4LL7,5.0
+575,Malad City Airport,KMLD,5.0
+2229,Cloudbound Airport,PA47,5.0
+2356,Maybee Airport,60MI,5.0
+910,Mulberry Hill Airport,6OK9,5.0
+531,Brookline Airport,NH16,5.0
+3456,White Airport,IN47,5.0
+4259,Lake Placid Airport,KLKP,5.0
+2013,Maplewood Orchard Airport,OH95,5.0
+363,Mountain View Airpark,4NY0,5.0
+1957,Moreton Airpark,23AZ,5.0
+2254,Cashen Airport,38CA,5.0
+1959,Weiss Airport,4IA8,5.0
+2974,Chhatrapati Shivaji International Airport,VABB,5.0
+1961,Bender's Airport,2WI0,5.0
+4224,Southwind Airport,22WN,5.0
+890,Sandpoint Airport,KSZT,5.0
+2977,Kenner Farm Airport,3TN4,5.0
+3438,Ledgedale Airpark,K7G0,5.0
+1365,Stanly County Airport,KVUJ,5.0
+1971,Richvale Airport,07CL,5.0
+1512,Delaware Coastal Airport,KGED,5.0
+3401,Safer Airport,2CD6,5.0
+1370,Planevue Airport,OH99,5.0
+1975,Seward Municipal Airport,KSWT,5.0
+4051,Carter Ranch Airport,8TE7,5.0
+4339,Skaneateles Aero Drome,K6B9,5.0
+4055,Tyler Farms Airport,15MN,5.0
+3000,Hanshell Flying Apple Airport,84OH,5.0
+1981,Camden County Airport,K19N,5.0
+4052,Jennie'S Field,WI13,5.0
+4386,Dave Rice Ultralightport,OH91,5.0
+1513,Resort Airport,0AL1,5.0
+1068,London Luton Airport,EGGW,5.0
+3018,Wayne County Airport,KBJJ,5.0
+3020,Camp Peary Landing Strip,KW94,5.0
+2015,Vieira Airport,8MN5,5.0
+361,Estes Airport,67KY,5.0
+1059,Eugene's Dream Airport,6XS7,5.0
+4225,Washburn Farm Airport,62MO,5.0
+2033,Diamond P. Field,02IN,5.0
+3087,Muskegon County Airport,KMKG,5.0
+3321,Eliza Island Airport,WA58,5.0
+2930,Rota Naval Station Airport,LERT,5.0
+3371,Schneider Haven Airstrip,NC75,5.0
+2351,A C Goodwin Memorial Field Gliderport,AZ86,5.0
+3489,Colonial Acres Airport,4LL8,5.0
+2939,Farnsworth Ranch Airstrip,35CN,5.0
+1919,Cloud 9 Airport,68KS,5.0
+1920,Pabst Blue Ribbon Airport,PN16,5.0
+2943,Akin Airport,54CN,5.0
+2339,Falconhead Airport,K37K,5.0
+3482,Circle A Ranch Airport,48WI,5.0
+3075,Sharondale Field,OI46,5.0
+1927,Orlampa Inc Airport / Fantasy of Flight,FA08,5.0
+3480,Jones Memorial Airport,K3F7,5.0
+2952,Wings N Things Airpark & Museum Airport,CO58,5.0
+3477,Ashland Landing Farm Airport,MD21,5.0
+1934,Rocking A Farm Airport,NC86,5.0
+1315,Smith Reynolds Airport,KINT,5.0
+2330,Lanni Field,18NC,5.0
+1111,Princeton Municipal Airport,KPNM,5.0
+3472,Lous Airport,VA45,5.0
+3068,Captain Ben Smith Airfield - Monroe City Airport,KK52,5.0
+2324,Manitowoc County Airport,KMTW,5.0
+3067,Richters Airport,87MO,5.0
+2322,Front Royal Warren County Airport,KFRR,5.0
+2018,Yocam Ranch Airport,7CO5,5.0
+3386,Franklin Field,KF72,5.0
+907,Granbury Regional Airport,KGDJ,5.0
+586,Neil Armstrong Airport,KAXV,5.0
+3320,Gansner Field,K2O1,5.0
+2762,Michael Airport,54KS,5.0
+2533,Watertown International Airport,KART,5.0
+3844,Westtown Airport,1NK5,5.0
+2713,Rover Airport,PA31,5.0
+2715,Reeder Airport,NJ64,5.0
+2716,Mesa Verde Airport,3KS1,5.0
+2118,Faust Field Airport,OR77,5.0
+1555,La Junta Municipal Airport,KLHX,5.0
+3765,Crocker Airport,9OA8,5.0
+2725,Grand Canyon West Airport,K1G4,5.0
+957,Monett Regional Airport,KHFJ,5.0
+2163,Sky Manor Airport,KN40,5.0
+1606,York Airport,01SC,5.0
+2584,D M Stevenson Ranch Airport,OR30,5.0
+3758,Oswego County Airport,KFZY,5.0
+2516,Cheryl-Lane Landings Airport,09FD,5.0
+2742,Flying Dutchman Ranch Airport,FD29,5.0
+1768,Allen Airstrip,3NJ9,5.0
+2510,Williamsburg Jamestown Airport,KJGG,5.0
+622,Mather Field,1OH3,5.0
+998,Mag Drop Airport,20TA,5.0
+2093,Eagle's Nest Airport,CA20,5.0
+1226,Ennis Aerodrome,2MD4,5.0
+2757,Osborne Airport,8CA0,5.0
+2140,Choctaw Nolf Airport,KNFJ,5.0
+2677,Dodsworth Airport,1CO7,5.0
+4201,Deer Haven Ranch Airport,WI60,5.0
+3897,Oconomowoc Airport,0WI8,5.0
+4481,Gittleson Farms Airport,15IL,5.0
+2144,Greenlawn Farm Airport,38NY,5.0
+2145,Skyline Peak Airport,33NR,5.0
+4927,Jasper County Airport,KRZL,5.0
+1530,Immokalee Regional Airport,KIMM,5.0
+2672,Dewind Field,85MI,5.0
+2687,Kindelberger Landing Strip,24PA,5.0
+141,Little Mount International Airport,7KY3,5.0
+3256,Rapids Airway Airport,04MI,5.0
+1258,Metropolitan Airport,13MA,5.0
+2671,Cairns AAF (Fort Rucker) Air Field,KOZR,5.0
+2696,Putnam County Airport,K4I7,5.0
+3795,Red Oak Municipal Airport,KRDK,5.0
+1294,Reeds Airport,24OI,5.0
+1351,Ruth Field,WV28,5.0
+1689,Spanish Oaks Airport,76TX,5.0
+3793,Flying H Ranch Airport,3AL1,5.0
+466,Lykes Palmdale Airport,FL73,5.0
+2150,Knight's Landing LLC Airport,3VG4,5.0
+2666,Weiss Airfield,00NY,5.0
+2546,Circle R Ranch Airport,2TS4,5.0
+721,Meadowlark Field,63CN,5.0
+659,Gilmer County Airport,K49A,5.0
+3196,Spickard Farm Airport,5CO4,5.0
+2654,Tiger Field,KN58,5.0
+2537,Squires Airport,10IN,5.0
+3891,Austin Air Ranch Airport,K88R,5.0
+2759,Gilbert Airport,73PA,5.0
+705,Roberta Industrial Park Airport,0GA9,5.0
+3222,Montezuma Airport,19AZ,5.0
+2784,Mumford Farms Airport,5II5,5.0
+1819,Westberg-Rosling Farms Airport,74CO,5.0
+4123,Brushy Creek Airport,69XS,5.0
+1697,Rolling Thunder Airport,NV96,5.0
+2793,Lovettsville Airfield,VA61,5.0
+1388,Farmington Regional Airport,KFAM,5.0
+3906,Parker Place Airport,TX68,5.0
+3878,Butler Memorial Airport,KBUM,5.0
+1671,Schumaier Restricted Landing Area,01LL,5.0
+1693,Bartow Executive Airport,KBOW,5.0
+2181,Gettysburg Regional Airport,KW05,5.0
+2796,Hummel Airport,OH64,5.0
+2182,Howell Airport,00WA,5.0
+3303,Hurlburt Field,KHRT,5.0
+2468,Yucca Valley Airport,KL22,5.0
+1301,Lazy J. Ranch Airport,PS82,5.0
+2601,Maxwell Airport,3NC7,5.0
+2805,Macon County Airport,K1A5,5.0
+1203,Gerig's Field,2IN2,5.0
+3307,U U Ranch Airport,TA80,5.0
+3674,Archdale Meadows Airport,NY63,5.0
+3860,Pender Municipal Airport,K0C4,5.0
+1797,Warsaw Chopin Airport,EPWA,5.0
+1820,Ribbon Ridge Airport,73OR,5.0
+4006,Highland County Airport,KHOC,5.0
+2764,Sleepy Hollow Airport,18GA,5.0
+748,Stonehenge Airport,71KS,5.0
+777,K & D Airport,71NC,5.0
+3850,Olson's Airport,3WI1,5.0
+951,Alliance Airport,23NJ,5.0
+2611,Sebastian Cove Airport,32GA,5.0
+2592,Coupeville Airpark,WN40,5.0
+3235,Ridgely Airpark,KRJD,5.0
+1788,Fields Airport,64NC,5.0
+1393,Earl L. Small Jr. Field/Stockmar Airport,20GA,5.0
+950,Athanasiou Valley Airport,CO07,5.0
+2455,Pleasant View Ultralightport,52MO,5.0
+3910,Flying K Airport,6TA7,5.0
+2777,Pauma Valley Air Park,CL33,5.0
+2779,Hayden Farm Airport,00KS,5.0
+441,Mountain Airpark,0GE5,5.0
+3175,Riverview Airport,K08C,5.0
+2084,Deer Park Airport,KDEW,5.0
+2481,Flying V Airport,K0J9,5.0
+1814,Massingale Airport,3TN8,5.0
+2132,Elm Creek Airpark,0TX6,4.0
+2139,Rolla National Airport,KVIH,4.0
+3024,St Clair Regional Airport,KK39,4.0
+2143,Orange Municipal Airport,KORE,4.0
+974,Melbourne International Airport,YMML,4.0
+3063,Amelia Earhart Airport,KK59,4.0
+3059,High Valley Airpark,GA87,4.0
+3030,Seven Gullies Airport,0NK3,4.0
+3215,Boyd's Hawks Creek Airport,4NC0,4.0
+1517,Darke County Airport,KVES,4.0
+4022,Barcus Field,95OK,4.0
+1497,Conroe-North Houston Regional Airport,KCXO,4.0
+976,West Side Field Station Airport,7CA6,4.0
+3062,Dalton Municipal Airport,KDNN,4.0
+2259,Heritage Field Airport,CN95,4.0
+515,Jetway Airport,61OH,4.0
+3084,Countryside Airport,3PN3,4.0
+460,Sequoia Field,KD86,4.0
+3183,Gizmo Field,XS55,4.0
+3176,Hampton Field,38II,4.0
+2219,Bluebird Airport,IA17,4.0
+2217,Milan Airport,MI09,4.0
+3112,Hopedale Industrial Park Airport,K1B6,4.0
+3113,Foghorn Farms Airport,6IN5,4.0
+3116,Eagle Grove Municipal Airport,KEAG,4.0
+3117,Burrs Strip,14FA,4.0
+2211,Holly Lake Ranch Airport,16TE,4.0
+190,Hernando County Airport,KBKV,4.0
+3126,Kidd-Private Airport,TX12,4.0
+2201,Neely Farms Airport,9GE7,4.0
+2200,Hogue Farm Airport,09MO,4.0
+2183,Shultz Airport,TN81,4.0
+3169,South Bend Regional Airport,KSBN,4.0
+2185,Parker-Cramer Airport,PS66,4.0
+3166,Mille Lacs Lake Resort Airport,7MN4,4.0
+2189,Flying M Ranch Airport,4PN0,4.0
+4265,The 2A Ranch Airport,0FD0,4.0
+926,Gordon Brown Airport,5LL5,4.0
+2147,Running M Ranch Airport,09TE,4.0
+3102,Cox-Grantham Airfield,6NC0,4.0
+1594,Eastover Air Ranch Airport,6NC3,4.0
+4049,Bryan Airport,WN87,4.0
+3202,DeKalb Taylor Municipal Airport,KDKB,4.0
+2153,Roberts Airport,OH88,4.0
+4047,Stocker Private Airport,MN63,4.0
+963,Becker's Landing Airport,WN18,4.0
+3194,Keno Field,TA49,4.0
+3081,Enterprise Municipal Airport,KEDN,4.0
+903,Comanche Springs Ranch Airport,CO97,4.0
+3082,Kennedy Executive Airport,MS66,4.0
+3193,Durham Airport,II68,4.0
+2161,Jackson County Airport,K24A,4.0
+3190,Holeman Field,NC40,4.0
+3091,San Carlos Airport,4AZ7,4.0
+917,Pinebrook Estates Airport,5GA5,4.0
+469,Carey Field,4MD3,4.0
+3093,Twin Oak Airport,NC69,4.0
+3023,Blomenberg Airport,II85,4.0
+1688,Bodin Airport,IN70,4.0
+2274,Funk Aerodrome,8WI6,4.0
+4124,T-Ranch Airport,XS86,4.0
+2801,Bohunk's Airpark,0CL6,4.0
+2474,Parowan Airport,K1L9,4.0
+759,Anderson Airport,OH43,4.0
+2482,Epps Airpark,00AL,4.0
+753,Burris Ranch #1 Airport,55NM,4.0
+2780,Flying Bj Airport,3NC5,4.0
+2768,Willow Creek Airport,WI77,4.0
+1587,Friends Ultralightport,MA07,4.0
+2767,East Moore Field,8CO4,4.0
+2499,Bridgeport-Cahill Field,6NJ9,4.0
+2501,Colusa County Airport,KO08,4.0
+2505,Shamrock Airport,IN84,4.0
+2753,Hollin Airport,7OR7,4.0
+2736,Barnes Airport,MD47,4.0
+1389,Highcrest Air Park,SN83,4.0
+604,Stevens Airport,60CO,4.0
+2465,Frank Field,VA52,4.0
+2806,Moonbow Field,25XS,4.0
+4305,Pecan Plantation Airport,0TX1,4.0
+2461,Vanderford Ranch Company Airport,CA73,4.0
+2816,Flying H Ranch Airport,96ID,4.0
+2823,Kezer Air Ranch Airport,61TE,4.0
+2450,Vogen Restricted Landing Area,IS41,4.0
+592,Boardman Aerial Airport,38NE,4.0
+779,May Airport,80NC,4.0
+4871,Wysocki Field,CT15,4.0
+2438,Reynolds Airpark,FL60,4.0
+1457,Faken Airport,9WI4,4.0
+2434,Tom N' Jerry Airport,NK05,4.0
+4311,Sell's Flying Field,54MN,4.0
+2845,Robinson Airpark,1IN4,4.0
+4302,Turnpaugh Field,6II0,4.0
+1423,Washington Regional Airport,KMO6,4.0
+2726,Lemoore Naval Air Station (Reeves Field) Airport,KNLC,4.0
+2572,Elk River Airport,NC06,4.0
+2613,Hawkins Field,92PA,4.0
+2617,Colberg Airport,5AK6,4.0
+2624,Happy Valley Airport,OL03,4.0
+2598,Belos Cavalos Airport,CA39,4.0
+2597,Freedom Field,IA68,4.0
+680,South Haven Area Regional Airport,KLWA,4.0
+692,Boulder Canyon Airport,MI56,4.0
+1528,Way West Airport,50II,4.0
+664,Vaca Moo Airport,TA37,4.0
+2644,Zuehl Airport,1TE4,4.0
+4149,Rocktop Airport,PA58,4.0
+2650,Shoshone County Airport,KS83,4.0
+2652,Clay Hill Farms Airport,II76,4.0
+651,Evergreen Sky Ranch Airport,51WA,4.0
+2679,Gila Bend Air Force Auxiliary Airport,KGBN,4.0
+2723,Strawberry Fields Airport,89NJ,4.0
+4968,Pentecost Airport,12II,4.0
+4148,George P Shanks Airport,54TA,4.0
+4146,Carroll's Airport,OI22,4.0
+4144,Big Andy Airport,7WA0,4.0
+2698,Yorks Field,NC13,4.0
+2549,Kennel Airstrip,OR04,4.0
+2548,Clark Airport,23IS,4.0
+2704,Harrington Field,16II,4.0
+2542,Robinson Municipal Airport,KRSV,4.0
+2540,New Coalinga Municipal Airport,KC80,4.0
+1410,Confer's Place Airport,1IN3,4.0
+2535,Alexander Farm Airport,NY82,4.0
+2709,Richards Airport,TA47,4.0
+2719,Adelanto Airport,52CL,4.0
+4313,Hutto Farm Airport,GE25,4.0
+2846,Linders Cow-Chip Airport,7KS6,4.0
+2423,Tropria Airport,IN62,4.0
+2973,Sunnyside Municipal Airport,K1S5,4.0
+2948,Caintuckee Airport,8KY6,4.0
+2335,Wright-Patterson Air Force Base,KFFO,4.0
+2951,Silver Springs Airport,KSPZ,4.0
+2953,N D Ranch Airport,51TX,4.0
+4327,River John Airport,3AK9,4.0
+537,Sky Valley Airstrip,WA68,4.0
+2960,Edenway Airport,2CO5,4.0
+1450,Massengill Airport,NC76,4.0
+860,Vineyard Airport,OR95,4.0
+2963,Childress Airstrip,MU12,4.0
+4071,Ksa Orchards Airport,OK11,4.0
+2315,The Duchy Airport,5NC5,4.0
+534,Victory Field,2OA4,4.0
+2971,Easton State Airport,KESW,4.0
+1371,Skypark Estates Owners Assoc Airport,18FD,4.0
+2941,Decatur Shores Airport,WN07,4.0
+867,Rhines Roost Airport,91TA,4.0
+2980,Hawk Haven Airport,ID27,4.0
+4819,M.C.R. Airport,40OI,4.0
+4817,Skydive Greene County Inc Airport,7OA7,4.0
+4060,Skida Patch Airport,2XS4,4.0
+5047,Cedar Knoll Flying Ranch Airport,01FL,4.0
+870,Grass Patch Airport,00FA,4.0
+872,Bar 16 Airport,1TS2,4.0
+3005,Molnau Airpark,1MN5,4.0
+873,Flying U Airport,0TS7,4.0
+875,Camillus Airport,KNY2,4.0
+517,Ernst Field,86CL,4.0
+3014,Atwell Airport,1NC2,4.0
+49,North Raleigh Airport,00NC,4.0
+2340,King Sky Ranch Airport,GA67,4.0
+853,Sisters Eagle Air Airport,K6K5,4.0
+1561,J Linn Airport,37TS,4.0
+2886,Hangar Haciendas Airpark,AZ90,4.0
+5012,Tall Timber Airport,CD28,4.0
+805,Laura's Landing Airport,22MD,4.0
+809,Archangels Landing Airport,IN26,4.0
+812,Mexico Memorial Airport,KMYJ,4.0
+4862,D'Angelo Airport,6MD7,4.0
+2863,Crystal Airport,46CN,4.0
+2864,Pierce Airport,TE10,4.0
+2404,Mc Keon Aviation Airport,9XS4,4.0
+4105,Wood's Airstrip,60AZ,4.0
+1380,Starshire Farm Airport,2KS9,4.0
+819,Cody Port RLA Restricted Landing Area,7IL8,4.0
+2879,Shofner Farms Airport,2TS2,4.0
+4318,Hobby Field,K77S,4.0
+2882,Hay Acres Airport,1MN2,4.0
+2386,Sopwith Farm Airport,27CL,4.0
+2935,White's Airstrip,6MD8,4.0
+2888,Carls Airport,78MI,4.0
+2384,Ellington Airport,KLUG,4.0
+2893,K Bar Ranch Airport,83TE,4.0
+2378,Charleston Municipal Airport,K09M,4.0
+2901,Workman Airpark,OR41,4.0
+836,Habersham County Airport,KAJR,4.0
+837,Clifton Municipal Isenhower Field,K7F7,4.0
+838,Hustons Airport,IN93,4.0
+4324,Rio Grande City Municipal Airport,K67R,4.0
+2921,Mulberry Run Airport,VA17,4.0
+2923,Aero Lake Estates Airport,30IS,4.0
+3226,Funny Farm Airport,4CA2,4.0
+2355,Hemmer RLA Restricted Landing Area,08IS,4.0
+2931,Thunderbird Southwest Airport,88TE,4.0
+2131,Old Aerodrome,9CL7,4.0
+3327,Foothills-Holcomb Airport,GA36,4.0
+5134,Meadowbrook Airport,6MA2,4.0
+3405,Weihler Airport,2LL2,4.0
+2003,Northumberland County Airport,KN79,4.0
+1757,Moore Field,7TE7,4.0
+374,Eagles Nest Airport,K31E,4.0
+3766,Griffiss International Airport,KRME,4.0
+1330,Quincy Regional Baldwin Field,KUIN,4.0
+3971,Keyes Ranch Airport,14TX,4.0
+3542,Quiet Acres Airport,NC31,4.0
+3538,Ronshausen Airport,38OI,4.0
+1997,Tex Merritt Private Airstrip,51FD,4.0
+3404,Sullivan Regional Airport,KUUV,4.0
+372,Tim's Airport,11MD,4.0
+1158,Johnston Airport,35NC,4.0
+4489,Wilbourn Ranch Airport,32TA,4.0
+1326,Fly 1 On Airport,XA90,4.0
+3416,Arcadia Farms Airport,5MD5,4.0
+3419,Aerobatic Practice Airport,45IN,4.0
+1892,Cub Bear Airport,85WI,4.0
+1079,Gardner Lake Airport,CT08,4.0
+3921,Tanner Hiller Airport,K8B5,4.0
+1080,Lakewood Airstrip,53AK,4.0
+4422,Wauchula Municipal Airport,KCHN,4.0
+3422,Fairview East Airport,58AK,4.0
+1889,Foreman Field,9TN4,4.0
+1334,Anderson Municipal Darlington Field,KAID,4.0
+3770,Western Carolina Regional Airport,KRHP,4.0
+4184,Northern Lights Airport,VT46,4.0
+3550,Grantsburg Municipal Airport,KGTG,4.0
+2030,Fussy Airport,2MN7,4.0
+4477,Mountain View Farm Airport,VT64,4.0
+1631,Tidmore Airport,7PN0,4.0
+1744,Battle Creek Executive Airport at Kellogg Field,KBTL,4.0
+3372,Amanda Airport,OH61,4.0
+1134,Bull Farm Airport,VG33,4.0
+1154,Latham Park Aero Estates Airport,LL81,4.0
+1883,Cameron Memorial Airport,KEZZ,4.0
+342,Cleveland Municipal Airport,KRNV,4.0
+1247,Coyle Field,NJ20,4.0
+1336,Northern Lite Airport,00WI,4.0
+4479,El Paisano Airport,72XS,4.0
+4377,Smith Field,01TE,4.0
+1467,Pike's Airport,22LL,4.0
+3384,Gold Hill Airport,NC25,4.0
+1243,Richardson Field,XA23,4.0
+4482,Lakefield Airport,KCQA,4.0
+1242,Turkey Mountain Airport,MO00,4.0
+1198,Carlson Airport,4WI5,4.0
+377,Pinewood Airport,0GE0,4.0
+3423,Poole Airport,II86,4.0
+3675,Owen Field,20AK,4.0
+1982,Lower Creek Airport,NC27,4.0
+1945,Huntingburg Airport,KHNB,4.0
+1221,Humberto Delgado Airport (Lisbon Portela Airport),LPPT,4.0
+3706,Reasoner Airport,CO14,4.0
+3467,Hodges Air Field,TX67,4.0
+3491,Kokomo Municipal Airport,KOKK,4.0
+3960,Laurie Field,CT19,4.0
+1912,Middle Georgia Regional Airport,KMCN,4.0
+1115,Borrego Air Ranch Airport,58CL,4.0
+1931,Seldom Scene Airport,2KY8,4.0
+3478,Majerle Strip STOLport,WA17,4.0
+1928,Chuck's Airport,0II0,4.0
+1136,Iowa County Airport,KMRJ,4.0
+1787,Scherrico Meadows Airport,WS16,4.0
+3490,Glasscock Field,4TS8,4.0
+1924,Morgan Ranch Airstrip,AZ46,4.0
+4624,Dowagiac Municipal Airport,KC91,4.0
+3695,Paynesville Municipal Airport,KPEX,4.0
+1298,Wyatt 3-Rivers Airport,8TS7,4.0
+5155,Sunny Rest Airport,8PA8,4.0
+1313,Raeford Rhyne Airpark,NC15,4.0
+1131,Moss Hill Airport,6NC9,4.0
+1215,McKnight Airport,5OI8,4.0
+1795,Benham Airport,73IN,4.0
+1946,Hillenbrand Industries Airport,KHLB,4.0
+3424,7-M Ranch Airport,81CA,4.0
+3711,Wiita Farms Airport,65OH,4.0
+1808,Swift Airport,CT31,4.0
+1084,M. Graham Clark Downtown Airport,KPLK,4.0
+1677,Roosevelt Memorial Airport,K5A9,4.0
+1085,La Aurora Airport,MGGT,4.0
+1805,Mar Bar L Farms Airport,NJ46,4.0
+1500,"Warren ""Bud"" Woods Palmer Municipal Airport",PAAQ,4.0
+3501,Kenly Airport,7NC3,4.0
+1502,Thompson Field,1TA7,4.0
+1092,Rabbit Ranch Airport,4CL4,4.0
+3432,Anderson Lake Airport,0AK1,4.0
+30,Novosibirsk Tolmachevo Airport,UNNT,4.0
+4535,Richter Airport,12CN,4.0
+1800,Dupouy Airport,3IN2,4.0
+3729,Moore Airport,8TS6,4.0
+4509,Benoit Airport,IL78,4.0
+1444,Vine Grove Airport,70KY,4.0
+3448,Myers Field Ultralight Flightpark,2OL2,4.0
+1954,Flying H Ranch Airport,54TX,4.0
+104,Paradise Air Park,1AZ2,4.0
+3964,Payne Airport,VG05,4.0
+1442,Drennan Farm Airport,92TA,4.0
+1668,Bishop Airfield,1AZ0,4.0
+3692,Church Hill Airport,MD62,4.0
+3786,Ottawa Executive Airport,KZ98,4.0
+1855,Henderson Oxford Airport,KHNZ,4.0
+3272,Flying G Airport,0MO1,4.0
+3274,Marcidale Airport,8IN9,4.0
+3275,Cross Airport,91OI,4.0
+3284,Farpoint Airfield,OI36,4.0
+3642,Mort's Landing Airport,0WI1,4.0
+4011,River Bend Airport,VA58,4.0
+3289,Raby Airpark,8TN3,4.0
+2088,Clintonville Municipal Airport,KCLI,4.0
+44,AJ Eisenberg Airport,KOKH,4.0
+2087,Triple F Airpark,9NR7,4.0
+3849,Estates Airpark,XS09,4.0
+3295,Foothills Regional Airport,KMRN,4.0
+1276,Hamilton Municipal Airport,KVGC,4.0
+320,George Airport,67OG,4.0
+1045,Dothan Regional Airport,KDHN,4.0
+1275,Paradise Falls Airport,0GA4,4.0
+3843,Goshen Municipal Airport,KGSH,4.0
+436,Grants-Milan Municipal Airport,KGNT,4.0
+1020,Isaacson Airport,8AN6,4.0
+4456,Ohkay Owingeh Airport,KE14,4.0
+2098,Del Valle Airport,TA55,4.0
+4446,Tivydale Ranch Airport,8XS0,4.0
+4365,Grund Field,NY55,4.0
+3251,Broad River Air Park,3GE3,4.0
+3232,Fletcher Field,KCKM,4.0
+2126,New Holstein Municipal Airport,K8D1,4.0
+1291,Northeast Iowa Regional Airport,KCCY,4.0
+3623,Gary's Airport,5XS4,4.0
+1686,Teague Municipal Airport,K68F,4.0
+3626,Bruce's Airport,07OR,4.0
+3241,Deerfield Airport,8MD7,4.0
+3244,Shields Airport,8IA9,4.0
+1612,Phillip R Bunn Airport,51NC,4.0
+1000,Morningstar North Airport,3OH1,4.0
+2101,Noltas Airport,98CL,4.0
+1699,Kirkland Airport,FD26,4.0
+4200,Mc Gill Airport,18II,4.0
+1306,Lake Wales Municipal Airport,KX07,4.0
+448,Sky King Airport,K3I3,4.0
+3854,Port-O-John Airport,2OH8,4.0
+3595,Gardiner Airport,5NY5,4.0
+2105,Wurtsboro-Sullivan County Airport,KN82,4.0
+1284,Potters Field,55AZ,4.0
+2104,Boyd Field,NC49,4.0
+3645,Flying N Estates Airport,1GA2,4.0
+437,Oak Country Ranch Airport,33CL,4.0
+1174,Curtis Field,8MO3,4.0
+3352,Elder Airstrip,6AR1,4.0
+1658,Raylene Airport,OH68,4.0
+4407,Miller Farm Airport,25GA,4.0
+5114,Ocala International Airport - Jim Taylor Field,KOCF,4.0
+3994,Taylor's Air Park,25TE,4.0
+3356,Nikolai Creek Airport,9AK3,4.0
+3337,Horse Feathers Airport,53VA,4.0
+3657,Jiles Field,9NC4,4.0
+1726,Homeport Airport,11WA,4.0
+1865,Atmore Municipal Airport,K0R1,4.0
+1622,Whittington Ranch Airport,OK31,4.0
+2054,Foley Municipal Airport,K5R4,4.0
+26,Tri-County Aerodrome,48TX,4.0
+4371,Lewis Airstrip,7NC7,4.0
+3576,Bergseth Field,WN76,4.0
+1162,Bean Lake Airport,8MO7,4.0
+337,Brandt Airport,MN19,4.0
+1731,Perkins Field,KU08,4.0
+3345,Ennis Municipal Airport,KF41,4.0
+2038,La Belle Municipal Airport,KX14,4.0
+2609,Shady Acres Airport,4KY8,4.0
+1826,Matthews Ranch Airport,86TE,4.0
+1659,Curtis L Brown Jr Field,KEYF,4.0
+1252,Melsbroek Air Base,EBMB,4.0
+4578,Rainbow Airport,WI37,4.0
+1740,Paradise Skypark Airport,CA92,4.0
+5112,Johns Landing Airport,9OI3,4.0
+3326,George T Mc Cutchan Airport,8FL6,4.0
+1681,Lawrence Smith Memorial Airport,KLRY,4.0
+3796,Jake Arner Memorial Airport,K22N,4.0
+1438,Hazleton Municipal Airport,KHZL,4.0
+3551,Hurn Airport,TA60,4.0
+1267,Lochridge Ranch Airport,TX25,4.0
+3831,Slack Airport,18PA,4.0
+4119,Hill Top Airport,JY43,3.0
+3615,Isle Private Airport,MY72,3.0
+2819,Sundance Meadows Airport,OG05,3.0
+4121,Bero Field,30OR,3.0
+2821,Fort Atkinson Municipal Airport,K61C,3.0
+3690,Heber Valley Airport,K36U,3.0
+3628,Skyotee Ranch Airport,CL74,3.0
+3688,Coloma Municipal Airport,9WN9,3.0
+3631,Sunset Air Strip,1OR3,3.0
+4115,Cedar Run Airport,PN01,3.0
+3686,Tailspin Estates Airport,58TX,3.0
+3919,Elk Park Ranch Airport,34CD,3.0
+2826,Apple Valley Airport,KAPV,3.0
+4539,Bradshaw Tree Farm Airport,FL62,3.0
+2830,Dan France Airport,7AK6,3.0
+3676,Deer Run Air Field,7NK1,3.0
+3666,Perry Aero Park,69MI,3.0
+2804,Sky Haven Airpark/Sellmeyer Field,OK01,3.0
+301,Owens Field,DE12,3.0
+4536,Hallelujah Field,OI40,3.0
+3678,Aero-Plain Airport,MN98,3.0
+3656,Propst Airport,NC19,3.0
+4237,Horse Shoe A Ranch Airport,CA71,3.0
+589,Thomas Strip,AK08,3.0
+3907,Grove Hill Airport,5TX2,3.0
+4175,Abie Sky Ranch Airport,NE27,3.0
+3639,Lebanon Springfield Airport,K6I2,3.0
+2812,Hartzog Field,FD94,3.0
+3665,Skydive Oregon Airport,OL05,3.0
+4531,Lakeville Airport,NY15,3.0
+4883,Windwood Farm Airport,65TE,3.0
+2785,Tillamook Airport,KTMK,3.0
+3634,Thomaston Upson County Airport,KOPN,3.0
+2815,Lexington Municipal Airport,K4K3,3.0
+3229,Spencer Field,7NC9,3.0
+2778,Johnson County Airport,K6A4,3.0
+4919,Boehm's Field,2PA1,3.0
+2659,Jordan Field,NR02,3.0
+3827,Hillcrest Airport,7TX4,3.0
+3824,Phil Cain Memorial Field,3PN9,3.0
+2669,Rahn Airport,27MT,3.0
+4459,Blair Strip,9CL5,3.0
+3817,Lake Clinch Airpark,52FL,3.0
+2675,Wine Glass International Airport,6CO3,3.0
+3811,Williamsport Regional Airport,KIPT,3.0
+4466,Brown Airport,35II,3.0
+3893,Coffman Airport,09KS,3.0
+3808,Gerum Farm Airport,TE36,3.0
+4926,Phil's Field,4MI3,3.0
+3806,Foxewood Airport,77WI,3.0
+2685,Viking Airport,94NC,3.0
+4470,Herren Airport,IS56,3.0
+2688,Plant City Municipal Airport,KPCM,3.0
+4249,Weedfalls Airport,XA45,3.0
+2658,Wolfe Field,IN65,3.0
+3833,Ingersoll Airport,KCTK,3.0
+3834,Cub Field,VA81,3.0
+2630,Hart Airport,3FL8,3.0
+4433,Air Rahe Airport,4MI1,3.0
+687,Meadowlark Field,7OK1,3.0
+4166,Lindauer Airport,83LL,3.0
+3862,Hunter Airport,8LL1,3.0
+3861,City of Las Animas Bent County Airport,K7V9,3.0
+3859,Devil's Reach Landing Airport,11VG,3.0
+4289,Shangri-La Airport,0WN1,3.0
+678,Silverhill Naval Outlying Landing Field,KNQB,3.0
+2651,Seven Lakes Airport,62GA,3.0
+4151,Salsbery Airport,II70,3.0
+2634,Kingman Airport,KIGM,3.0
+2636,Peru Municipal Airport,KI76,3.0
+3847,Hinton Field,NC72,3.0
+4448,Powhatan Airport,VA57,3.0
+2639,Lakeside Airport,MU65,3.0
+4450,Arthur Airport,II37,3.0
+4472,Cooch Landing Area Airport,IL31,3.0
+147,Mariposa Yosemite Airport,KMPI,3.0
+3698,Paradise Airport,NY42,3.0
+3785,Roberts Farm Airport,CT85,3.0
+2743,Hartwood Airport,3VG7,3.0
+4303,Aysta Field,3MN8,3.0
+3749,Johnson Airport,3AK4,3.0
+4898,C A G Farms Airport,87NC,3.0
+3743,Clackamas Heights Airport,1OR6,3.0
+4503,Dane Airport,WI65,3.0
+269,Tappahannock-Essex County Airport,KXSA,3.0
+2758,Windsock Airport,4WA4,3.0
+3901,Crystal Village Airport,2FL0,3.0
+3714,Dale O. Galer Aerodrome,2AL6,3.0
+3903,Rybolt Ranch Airport,01FA,3.0
+3710,Ells Field Willits Municipal Airport,KO28,3.0
+4125,Airy-Acres Airport,6NY3,3.0
+3709,Kroenke Strip,39AK,3.0
+619,Reid Restricted Landing Area,6IL6,3.0
+2773,Gary Johnson Field,7IN7,3.0
+4524,Buckeye Executive Airport,9OA5,3.0
+4251,Mears Creek Airfield,4MD0,3.0
+2737,John's Airport,12MI,3.0
+4421,McMillan Assault Strip,CA62,3.0
+4487,Franklin Regional Airport,KFKN,3.0
+4139,Devine Municipal Airport,K23R,3.0
+3783,Flying Tigers Airport,39TA,3.0
+4240,Grandview Subdivision Airport,5AK9,3.0
+3782,Williamson Airport,OI73,3.0
+2705,Circle M Ranch Airport,6TX2,3.0
+2708,Galloway Airport,0OI3,3.0
+632,Logan Field,K1A4,3.0
+3768,Lawton Airport,IA84,3.0
+3761,The Eastern Iowa Airport,KCID,3.0
+4239,Sky-Go Farms Airport,73MU,3.0
+4188,Indira Gandhi International Airport,VIDP,3.0
+4488,Walker Field,MY35,3.0
+2727,Flying T Ranch Airport,41TS,3.0
+2732,G W Flanders Ranch Strip,CO54,3.0
+2735,Spring Paths Airport,42NC,3.0
+4172,Grass Roots Airpark,06FD,3.0
+4566,Forest City Municipal Airport,KFXY,3.0
+4848,Crispy Cedars Airport,7WI8,3.0
+3608,Pegasus Air Park,50PA,3.0
+3602,Chapman Farms Airport,67CA,3.0
+3083,Seymour Johnson Air Force Base,KGSB,3.0
+3085,Coombs Airport,7NJ7,3.0
+393,Winter Haven Regional Airport - Gilbert Field,KGIF,3.0
+3368,Ware Airport,MA53,3.0
+4777,Hancock Airport,6MI6,3.0
+3367,Victoria International Airport,CYYJ,3.0
+3989,Rabbit Lane Airport,NY31,3.0
+3366,Skyport Airport,WI27,3.0
+3101,Cassville Municipal Airport,K94K,3.0
+4664,Candy Lake Estate Airport,98OK,3.0
+4666,Perry-Warsaw Airport,K01G,3.0
+3993,Sky Soaring Airport,55LL,3.0
+3110,Long Island Airpark,NC26,3.0
+3355,Dream Field,NE42,3.0
+403,Fall City Airport,1WA6,3.0
+3114,Ralph Jacobs Airport,27LL,3.0
+3346,Mesquite International Airport,K67L,3.0
+4672,Howell New Lenox Airport,K1C2,3.0
+3122,Turkey Track Airport,MY52,3.0
+4376,Villa Char Mar Airport,1FA9,3.0
+4345,Chorman Airport,KD74,3.0
+3373,Mc Entire Airport,5TS4,3.0
+375,Texas A And M Flight Test Station Airport,83TX,3.0
+3415,Midlake Airport,28TE,3.0
+3022,Smisson Field,7GA9,3.0
+4651,G3 Ranch Airport,63CL,3.0
+3029,Chain Lakes Airpark,89IA,3.0
+3033,Tallahassee Commercial Airport,K68J,3.0
+509,Clark Ranch Airport,3CA9,3.0
+3056,Brevard Airport,NC16,3.0
+4382,Birdnest Airport,65XS,3.0
+3976,Southern California Logistics Airport,KVCV,3.0
+3073,R C Ford Field,6OH3,3.0
+4654,Beeds Lake Airport,IA31,3.0
+3064,Blue Grass Airport,KLEX,3.0
+4278,Youngberg Ranch Airport,NV17,3.0
+3389,Dog Iron Ranch Airport,OK37,3.0
+3377,Warrington Field,DE27,3.0
+501,Spezia Airport,9CL9,3.0
+4209,Sky Hollow Airport,WS91,3.0
+3374,Ben Sutherland Airport,WI33,3.0
+4677,Flying X River Ranch Airport,8TA3,3.0
+3133,Harrod Airport,SN42,3.0
+479,Jefferson City Memorial Airport,KJEF,3.0
+3262,Beaverbrook Aerodrome,10GA,3.0
+3188,Sam Little International Airport,99XS,3.0
+4026,Savage Island Airport,VT15,3.0
+3271,Marianna Municipal Airport,KMAI,3.0
+3264,High Valley Swanson Airport,ID35,3.0
+446,Rexroad Airport,WV47,3.0
+4025,Thunder Ridge Airpark,AZ28,3.0
+3197,Meadowvale Airport,MN40,3.0
+4356,Wright Ranch Airport,TX93,3.0
+4013,Hall Field,32NC,3.0
+4736,Tschirhart Ranch Airport,XS01,3.0
+3252,Flat Top Ranch Airport,74TE,3.0
+3250,Southeast Greensboro Airport,K3A4,3.0
+3242,Langlade County Airport,KAIG,3.0
+3240,Carnot Field,3WI0,3.0
+4358,Fellsmere Airport,4FL3,3.0
+4716,Schuylkill County /Joe Zerbey/ Airport,KZER,3.0
+3216,Texas Valley Air Field,TA57,3.0
+3225,Mid-Carolina Regional Airport,KRUQ,3.0
+4363,Graham Landing Strip - Moore Haven Airport,FL40,3.0
+3180,Clam Harbor Airport,WA35,3.0
+3145,West Private Airport,DE21,3.0
+4744,Mcminn Airport,6IN8,3.0
+4002,Parker Airport,70NJ,3.0
+3330,Heberlig Airport,PS02,3.0
+3146,Riveredge Airpark,19NK,3.0
+3151,Pasport Airport,5MA3,3.0
+3156,Charlton Strip,05FL,3.0
+3158,Barnes Airport,5MN5,3.0
+3323,Tusquittee Landing Airport,NC08,3.0
+4745,Meadow Creek Airport,2IL9,3.0
+3161,JJ & PK Airport,PA08,3.0
+4031,Buffalo Chips Airpark,TE45,3.0
+3165,Three Acres Airport,80XS,3.0
+3167,Eagles Nest Aerodrome,MN08,3.0
+3311,Pete's Airport,WN14,3.0
+3298,Estherville Municipal Airport,KEST,3.0
+4010,Dade Field,23OA,3.0
+4035,Buckingham Airport,PS68,3.0
+470,Diamondaire Airport,XS74,3.0
+4738,Penderosa Airport,59AK,3.0
+4808,Willhoit Airport,IS33,3.0
+3010,Arnolds Airport,36KY,3.0
+3009,Youngpeter Airport,3OH6,3.0
+2902,Healdton Municipal Airport,KF32,3.0
+3552,Ray S Miller Army Air Field,KRYM,3.0
+567,Fulton County Airport,KRCR,3.0
+4092,Etowah Fields Airport,02GE,3.0
+4254,Tsa Gliderport,TA11,3.0
+2889,C.T.S. Airport,78AK,3.0
+3928,Willie's Airport,23WN,3.0
+4089,"Wellsville Municipal Arpt,Tarantine Field",KELZ,3.0
+4088,Garner Airport,3VA8,3.0
+2905,Niklason Lake Estates Airport,3AK2,3.0
+3557,Dillen Personal Airport,PA02,3.0
+3533,Marion Airport,KC17,3.0
+3524,Rockenbach Airport,LL97,3.0
+3515,Sky Island Ranch Airport,ID13,3.0
+3231,A P Hill AAF (Fort A P Hill) Airport,KAPH,3.0
+3511,University Park Airport,KUNV,3.0
+3510,Stupek Farms Airport,8WI8,3.0
+4618,Morgan Farm Field,GA82,3.0
+2914,Reinoehl Field,49II,3.0
+339,Suzie Field,8MD0,3.0
+3562,Mauldin Airstrip,56AZ,3.0
+2916,Brunner Airport,04LL,3.0
+2854,Ensenada International Airport / El Cipres Air Base,MMES,3.0
+4408,Bent Willies Airport,52FA,3.0
+2847,Jolamtra Landing Area Airport,23NY,3.0
+585,Lindey's Landing Airport,5MN7,3.0
+582,Warner Airstrip,8OA6,3.0
+3599,Willaview Airport,2DE2,3.0
+4190,Dillenburg's Airport,8WI1,3.0
+2853,C A M P Airport,8NE9,3.0
+3591,Lz Fairwinds Airport,LL78,3.0
+4273,L O Simenstad Municipal Airport,KOEO,3.0
+3579,Washington County Memorial Airport,KK38,3.0
+2855,Lamberson Airport,51PA,3.0
+2856,Shepherd Farm Airport,0CA4,3.0
+3589,Thorny Woods Airport,XA33,3.0
+2859,Costerisan Farms Airport,55CL,3.0
+2861,Rutherford County Marchman Field,KFQD,3.0
+3586,Wilkerson's Airport,61IN,3.0
+3585,Benton's Airfield,NC36,3.0
+2867,Montauk Airport,KMTP,3.0
+3935,Alpha Hotel Airport,WS81,3.0
+2919,Ukiah Municipal Airport,KUKI,3.0
+3008,Captain's Folly Airport,PS25,3.0
+3968,Britts Crosswind Airport,91TE,3.0
+4335,Helsinki Vantaa Airport,EFHK,3.0
+3451,John B Connally Ranch Airport,8TA0,3.0
+4824,Graystrip Airport,PS46,3.0
+3447,Woodcrest Farms Airstrip,JY17,3.0
+3446,Sethney Personal Airport,8MN4,3.0
+3444,Pocahontas Municipal Airport,KPOH,3.0
+4636,Anderson Airfield,43OA,3.0
+3439,Little Rock/Rock Port Airport,3MN5,3.0
+4268,Green's Strip,AK65,3.0
+3963,Mc Colloch's Airport,1OI9,3.0
+2988,Airscrew Performance Flightpark Ultralightport,AZ79,3.0
+4643,Summey Airpark,8NC2,3.0
+2991,Woodland Airstrip,3WN7,3.0
+4338,Shell Lake Municipal Airport,KSSQ,3.0
+3426,Lance Airport,9PA0,3.0
+4644,Kimzey Airport,17TX,3.0
+4222,Knutson Farms Airport,3WN6,3.0
+3004,Neosho Hugh Robinson Airport,KEOS,3.0
+3457,Meadow Airstrip,3CL2,3.0
+3460,Texas Air Museum Airport,XS63,3.0
+4620,Brook Bridge Aerodrome,8GA9,3.0
+2944,Springbrook Airport,5WI1,3.0
+2924,Flying B Ranch Airport,TS71,3.0
+2925,Blunt Field,3WN8,3.0
+3493,Rowland R Airfield,23TA,3.0
+3944,Will and Wiley's Aerodrome,20OK,3.0
+2936,Sheremetyevo International Airport,UUEE,3.0
+4085,Aero-Lane Airport,1IA6,3.0
+4231,Nowatzski Field,13WI,3.0
+4228,Cherokee Airpark,MU19,3.0
+540,Redstone Army Air Field,KHUA,3.0
+3463,Kitty-Wompus Airport,26WI,3.0
+2947,Reward Ranch Airport,TA22,3.0
+3481,Kilpatrick Farm Airport,6FL2,3.0
+2950,Pawhuska Municipal Airport,KH76,3.0
+4626,Dove Airstrip,MO81,3.0
+3473,Boone Municipal Airport,KBNW,3.0
+174,Pingston Aeroworks Airport,54MI,3.0
+360,Colle Field,34MS,3.0
+2959,Green Acres Air Park,7OR6,3.0
+4726,Fauser Ultralightport,7PA5,3.0
+4246,Canyon Lake Airport,34TS,3.0
+2608,Will A Hildreth Farm Airport,TN74,3.0
+1634,Lutz Restricted Landing Area,7IL3,3.0
+1944,Unsicker Airport,0II1,3.0
+2467,Lance Airport,6NJ8,3.0
+770,Zelienople Municipal Airport,KPJC,3.0
+2464,City of Murfreesboro Airport,KMBT,3.0
+771,Shootz Field,OI45,3.0
+2193,Carlin Bay Airport,ID43,3.0
+2460,Fly-N-S Ranch Airport,GA09,3.0
+1642,Wilds Field,5MI1,3.0
+1942,Stine Field,91OH,3.0
+2448,Alexander Field South Wood County Airport,KISW,3.0
+2447,Cattaraugus County-Olean Airport,KOLE,3.0
+1652,Haigh Field,KO37,3.0
+2202,Clyde Valley Airport,3NC0,3.0
+2442,Sunrise Skypark Airport,ID40,3.0
+2439,Bird Nest Airport,4MS5,3.0
+1657,Lykes Brighton Airport,8FD5,3.0
+1660,Harvey Airport,MO35,3.0
+5160,Ainsworth Airport,06TE,3.0
+1663,Flying S Ranch Airport,2XA4,3.0
+2204,Beale Air Force Base,KBAB,3.0
+1674,Sweedler Airport,3IL2,3.0
+811,Donner Field,OH28,3.0
+1678,Kapowsin Field,86WA,3.0
+814,Earth Airport,VG39,3.0
+1295,Wakefield Municipal Airport,KAKQ,3.0
+1683,Jack W Watson Airport,0IL9,3.0
+5018,Hendrickson Flying Service Airport,IL93,3.0
+934,Buzzard's Roost Airport,76KY,3.0
+933,Socorro Municipal Airport,KONM,3.0
+2470,Ziggy's Field,03PS,3.0
+1337,Stephenville Clark Regional Airport,KSEP,3.0
+932,Melody Ranch Airport,XA78,3.0
+1099,Giltner Airport,II54,3.0
+1992,Dunroamin Farms Airport,76NC,3.0
+1074,Yokota Air Base,RJTY,3.0
+2507,Harrington Ranch Airport,CO02,3.0
+2155,Eudy Airport,IS40,3.0
+1581,Gardner Municipal Airport,KGDM,3.0
+740,Ragged Island Airport,MD82,3.0
+2160,Wicker Airport,42AK,3.0
+2503,Broken Ranch Airport,GA76,3.0
+1591,Hirok Airport,TE50,3.0
+741,Mackall Army Air Field,KHFF,3.0
+1979,Michaels Farms Airport,WV17,3.0
+2168,Eichmeier Field,MI38,3.0
+1599,Circle T Airport,98GA,3.0
+1357,Cain's Field,WS72,3.0
+952,Sky River Ranch Airport,WA78,3.0
+2491,Edmonton / Gartner Airport,CFQ7,3.0
+1605,Double W Airport,3OK7,3.0
+2487,Lada Airport,7MI5,3.0
+1354,Mid Valley Airpark,KE98,3.0
+751,Hidden River Airport,89VA,3.0
+1610,Reece Ranch Airport,20TE,3.0
+1096,Bonanza Hills Airport,34CN,3.0
+2175,Austin Municipal Airport,KAUM,3.0
+1342,Krutmeier Airport,9LL0,3.0
+1963,Little Hands Airport,59CA,3.0
+1960,Lz Carroll STOLport,4NC9,3.0
+1626,Kitty Hawk Estates Airport,3MO6,3.0
+1339,Lyell Airport,MO04,3.0
+2187,Boyle R & D Airport,63WA,3.0
+2214,Scanlon Airport,15ID,3.0
+2395,River Run Ranch Airport,OR02,3.0
+1372,East Kansas City Airport,K3GV,3.0
+1743,Beaver Municipal Airport,KU52,3.0
+1249,Dillon Airport,9II3,3.0
+2258,C&R Farm Airport,78GA,3.0
+2260,Air Sailing Gliderport,NV23,3.0
+1756,Hudgin Air Airport,TN12,3.0
+2323,Josephs Airport,DE49,3.0
+1230,Macon Downtown Airport,KMAC,3.0
+2263,Rocky Creek Ranch Airport,9TE6,3.0
+2314,Waseca Municipal Airport,KACQ,3.0
+1832,Zim Airport,NH17,3.0
+2312,Burris Ranch Airport,2TE6,3.0
+2309,Pine Sod Ranch Airport,8KS7,3.0
+2306,Dalbom Ultralightport,83MU,3.0
+1825,Brigham City Regional Airport,KBMC,3.0
+2304,Seymour Air Park,TN20,3.0
+10,Ninoy Aquino International Airport,RPLL,3.0
+1773,Booe Airport,II34,3.0
+2265,Ed's Field,20AZ,3.0
+2296,Briggs Brothers Airfield,77LL,3.0
+2294,Panther Field,5IL2,3.0
+5195,Roberts Airport,32II,3.0
+2293,Northwood Airport,2MO2,3.0
+1779,Spring Lake Airport,IN43,3.0
+1813,Flying C Ranch Airport,65TA,3.0
+5056,Blake Sky Park Airport,CA57,3.0
+2289,Anniston Regional Airport,KANB,3.0
+1811,Deerfield Landing Airport,54GA,3.0
+1205,Greenville Airport,KGRE,3.0
+1803,Seminole Lake Gliderport,6FL0,3.0
+2284,Rapoport Ranch Airport,68ID,3.0
+5039,Montana Creek Airport,21AK,3.0
+1742,Payson Ranch Airport,6FL3,3.0
+1694,Harley Airport,6CL8,3.0
+1250,Clinton Memorial Airport,KGLY,3.0
+2385,Gable Branch Airport,5GA0,3.0
+922,Harper Airport,8TX6,3.0
+1701,Nesler Field,IA94,3.0
+1708,Lonesome Field,1NC8,3.0
+1713,Harold Emmerich Airport,1IS0,3.0
+1870,Richardson Regional Heliport - Bush Highway,XA40,3.0
+2231,Seagoville Airport,5TA9,3.0
+2373,Robertson Farm Airport,TN94,3.0
+5029,Omni Airpark,6NY2,3.0
+1714,Rancho Tehama Airport,49CN,3.0
+1274,Mitchell Field,17NC,3.0
+1273,Triangle North Executive Airport,KLHZ,3.0
+1864,Thompson Farms Airport,6NC5,3.0
+1169,Bugs Airport,PA68,3.0
+1721,Dennis Ranch Airport,7OK0,3.0
+2241,Malone Airport,NJ61,3.0
+1848,Ban Farm Airport,AL88,3.0
+1725,Rossneck Airport,MD04,3.0
+5218,Manor Landing Airport,9PS8,3.0
+1846,Bostwick Farm Airport,VT23,3.0
+2353,Lentine South Airport,6NJ0,3.0
+1259,Herr Brothers Airport,NJ95,3.0
+1845,Circle Eight Ranch Airport,XA04,3.0
+1734,Walker Field,GA90,3.0
+1735,Aurora Municipal Al Potter Field,KAUH,3.0
+1187,Navarro Airport,3PA1,3.0
+2253,Jim Wehrli Memorial Airport,34IS,3.0
+2344,Gray Army Air Field,KGRF,3.0
+1840,Comanche Creek Airport,07CO,3.0
+739,North Vernon Airport,KOVO,3.0
+1332,Starke County Airport,KOXI,3.0
+1525,Erickson Field,19WI,3.0
+2559,Yankee Field,CO53,3.0
+2110,J. Douglas Bake Memorial Airport,KOCQ,3.0
+1516,Everitt Airport,1CO8,3.0
+1519,York Municipal Airport,KJYR,3.0
+2113,Athelone Williams Memorial Airport,K6G0,3.0
+1421,Prairie Airport,83IS,3.0
+4963,Transportation Research Center of Ohio Airport,9OI5,3.0
+1038,Continental Airport,35AZ,3.0
+1526,Hilliard's Private Airport,FD96,3.0
+2564,Echo Bay Airport,K0L9,3.0
+2046,Poole Farm Airport,2GA1,3.0
+2119,Sunny Slope Runway Airport,WN28,3.0
+2560,Clapper Airport,53IL,3.0
+995,Sequim Valley Airport,KW28,3.0
+2543,Roger M Dreyer Memorial Airport,KT20,3.0
+2558,Cardwell Strip,34AK,3.0
+710,Pleasant Valley Airstrip,24AZ,3.0
+1417,Kent State University Airport,K1G3,3.0
+2040,Comanche Airfield Llc Airport,CO38,3.0
+2554,Etowah Bend Gliderport,8GA7,3.0
+2123,Valle Airport,K40G,3.0
+1536,Pennridge Airport,KCKZ,3.0
+1409,Happy Landings Farm Airport,MD73,3.0
+4971,Winchelsea Airport,8NJ0,3.0
+991,Perryville Regional Airport,KK02,3.0
+2125,Mike's Ag Air Airport,49FL,3.0
+1541,Longs Airport North Airport,OK21,3.0
+1514,Dacy Airport,K0C0,3.0
+2575,Lindbergh's Landing Airport,FA35,3.0
+1436,Caldbeck Field,7MN3,3.0
+2061,Menomonie Municipal Score Field,KLUM,3.0
+2605,Norwalk Huron County Airport,K5A1,3.0
+1013,G & N Airport,PS05,3.0
+2091,Carmean Airport,MD85,3.0
+2603,Mexia Limestone County Airport,KLXY,3.0
+1018,Twin Hawks Airpark,AZ63,3.0
+1456,Flying E Airport,22CO,3.0
+2599,Deerfield Landing Airport,9GA9,3.0
+2078,Mooney Field,22IN,3.0
+1019,Murphey Flying Service Airport,MS22,3.0
+1488,Coye Field,30NY,3.0
+1023,Clearfield Lawrence Airport,KFIG,3.0
+2594,Lund Airport,93IA,3.0
+2590,Tailwinds Airport,06NC,3.0
+2073,J. H. Hendrie Farms Airport,08FL,3.0
+2588,Md1 Airport,08NY,3.0
+693,Maxwell Airport,47KS,3.0
+1492,Dolhun Field,WI36,3.0
+2068,Wind Rose Farm Airport,IS57,3.0
+1493,Zips Airport,63GA,3.0
+2067,Hilltop Ranch Airport,9TA1,3.0
+2582,Dresden Airport,GA79,3.0
+1026,Kingsland Estates Airport,TS18,3.0
+1009,Mc Whorter Ranch Airport,7WA7,3.0
+2581,Hillcrest Airport,OI26,3.0
+2580,Grove City Airport,K29D,3.0
+989,Dick's Strip,3II9,3.0
+1214,East Hampton Town Airport,KHTO,3.0
+2521,Scottbrook Farm Airport,2NC4,3.0
+1995,St Louis Metro-East Airport/Shafer Field,K3K6,3.0
+2149,Gaffney Airport,46SC,3.0
+1560,JTJ Ranch Airport,6TX6,3.0
+2011,Headland Municipal Airport,K0J6,3.0
+2524,Sixmile Lake Airport,AA06,3.0
+4979,Chandler Field,MN93,3.0
+970,Santa Rosa Naval Outlying Field Airport,KNGS,3.0
+2520,Stickle Cattle Farms Airport,MO78,3.0
+2019,Wautoma Municipal Airport,KY50,3.0
+1575,Orum Aerodrome,86NE,3.0
+735,Eagle's Nest Estates Airport,2TS6,3.0
+1554,T-Top Airfield,TN14,3.0
+2136,Granite Mountain Lodge Airport,CO11,3.0
+1377,Pocock Airport,04TX,3.0
+1047,Rob Airport,95TS,3.0
+4563,Truckee Tahoe Airport,KTRK,2.0
+2065,North Texas Regional Airport/Perrin Field,KGYI,2.0
+3621,Warner's Airport,20OR,2.0
+4565,Keyser Airport,1KS5,2.0
+3614,Gustine Airport,K3O1,2.0
+2607,Valenty Mierek Airport,NY59,2.0
+3620,Vodden Airport,IS15,2.0
+3427,Fayetteville Municipal Airport,KFYM,2.0
+3619,Styron Airport,AL15,2.0
+1984,Centralia Municipal Airport,KENL,2.0
+5109,Kings Port Airport,FD72,2.0
+3420,Smith Field,51GA,2.0
+3618,Vlachos Acres Airport,1MI8,2.0
+3617,Spencer Nolf Airport,KNRQ,2.0
+3322,Rogers Field,KO05,2.0
+5110,New Castle-Henry County Municipal Airport,KUWL,2.0
+5113,Heritage Airfield,TE86,2.0
+2037,Davis Private Airport,VT45,2.0
+5139,Exit 3 Airport,00OH,2.0
+4573,Settlers Bay Airstrip,41AK,2.0
+1165,Marchmont Plantation Airpark,6NC8,2.0
+4579,Mc Daniel's Field,90IN,2.0
+1867,Henshaw Airport,VG42,2.0
+3435,Hawkeye Airport,0IA3,2.0
+4577,Hominy Municipal Airport,KH92,2.0
+4641,Windy Tales Airport,TX34,2.0
+3335,Hayfork Airport,KF62,2.0
+1859,General Dick Stout Field,K1L8,2.0
+3587,Hoffman Private Airport,0CA5,2.0
+1177,Three Rivers Municipal Dr Haines Airport,KHAI,2.0
+4572,Margaritaville Airport,68XS,2.0
+3610,Little Mountain Airport,6NC1,2.0
+1185,Jorge Wilsterman International Airport,SLCB,2.0
+2060,Pilots Rest Airport,AZ57,2.0
+4679,Inter-State Airport,MO29,2.0
+2062,Hoffman's Farm Airport,1VA5,2.0
+4568,Raleigh East Airport,9NC0,2.0
+1028,Klopfenstein Airport,IN39,2.0
+1967,Bulljump Airport,11MA,2.0
+3605,Pine Grove Airport,WI42,2.0
+3606,David Randall Airport,4WN5,2.0
+4562,Travis Airport,OK29,2.0
+3393,Lake Riverside Estates Airport,54CL,2.0
+3627,Pillow Hill Airport,3LL4,2.0
+4653,Sleepers Strip Airport,6AK2,2.0
+3668,Dostal-Bradley Airport,NE54,2.0
+3658,Falk Air Field,NE67,2.0
+5128,Norrie Brook Airport,WI00,2.0
+1821,Parson Landing Airport,7OR9,2.0
+3660,Kennedy Ranch Airport,50TX,2.0
+4544,Alpine Range Airport,00TS,2.0
+2004,"Pine Bluff Regional Airport, Grider Field",KPBF,2.0
+3302,Butts AAF (Fort Carson) Air Field,KFCS,2.0
+1200,East Penn Airport,PA30,2.0
+4691,Willard Municipal Airport,K8G1,2.0
+3300,Holly Grove Municipal Airport,K2A6,2.0
+3414,Swanton Ultralightport,WN60,2.0
+3624,Birk Airport,4TX4,2.0
+3673,Lusardi Field,4OR7,2.0
+3299,Bybee Field,97OG,2.0
+3411,Mark Twain Air Park,4MO6,2.0
+1809,Glendale Field,51TN,2.0
+3409,Rockingham County NC Shiloh Airport,KSIF,2.0
+2082,Hardy Field,3XA1,2.0
+5108,Mcgraw's Backyard Airport,5TN4,2.0
+3682,Pineview Air Airport,82NC,2.0
+1798,Cartwheel Airport,0CO8,2.0
+1796,Little Buttes Antique Airfield,1CL1,2.0
+3306,Krutz Airport,NE18,2.0
+1824,Flying J Airport,IN61,2.0
+3655,Kohlhaas Airport,IA83,2.0
+3654,Merchant Homestead Airport,7NE6,2.0
+3625,Burnett Landing Airport,WN15,2.0
+3578,Enumclaw Airport,WA77,2.0
+1837,Tigerbird Field,2TS3,2.0
+3317,Melody Field,IS88,2.0
+3316,Marr Field,0OR7,2.0
+4561,Good Earth Farm Strip,II73,2.0
+4557,Bromont (Roland Désourdy) Airport,CZBM,2.0
+1076,Arrowhead Point Airport,2VA6,2.0
+3638,Indian Springs Ranch Airport,7XS7,2.0
+3314,Heineck Farm Airport,76WA,2.0
+3640,Gaede Airport,7AK3,2.0
+4554,Medlock Field,69CL,2.0
+1830,Albert J Ellis Airport,KOAJ,2.0
+1061,Crystal Airport,0OK9,2.0
+4645,Sullivan County International Airport,KMSV,2.0
+4550,Huntington Municipal Airport,KHHG,2.0
+3648,Whitehorn Cove Airport,OL20,2.0
+4687,Herschel Hunter Airport,3LL1,2.0
+3652,June Lake Airpark,06AK,2.0
+3398,General Lucio Blanco International Airport,MMRX,2.0
+4547,Freeflight International Airport,2FA6,2.0
+2012,Flying B Ranch Airport,CN38,2.0
+4583,Malone Dufort Airport,KMAL,2.0
+1032,Sutter Butte Dusters Airport,0CN2,2.0
+3497,Newby Landing Airport,36II,2.0
+3362,Cougar Flat Airstrip,WN24,2.0
+4660,Bass Aero Airport,OK17,2.0
+357,Carroll's Airpark,IN56,2.0
+1918,Black'S Airfield,41ID,2.0
+1915,Recompense Farm Airport,2MD1,2.0
+4663,Briggs Airport,OR44,2.0
+1914,Flying T Airport,7KS0,2.0
+1137,Shinn Bone Lane Airport,IN35,2.0
+4622,Wingfield Airport,MD01,2.0
+3494,Hostetler Airport,0PA6,2.0
+2021,Borges - Clarksburg Airport,CN13,2.0
+1923,Seitz Field,9PN1,2.0
+3358,Cloud Airport,7KS2,2.0
+3498,Atterbury Field (Camp Atterbury),11II,2.0
+5140,Flying M Airport,TA08,2.0
+4637,Jer-Mar Airpark,18OH,2.0
+4619,Doug Bolton Field,02GA,2.0
+3509,Pleasant Farm Airport,WA63,2.0
+1900,Skis Landing Area Airport,CT07,2.0
+4612,Wix Airport,03IL,2.0
+3513,Findley Field,16MO,2.0
+3514,Farm Strip,IN98,2.0
+5156,Spud View Airport,18PN,2.0
+1956,Chalfant Airport,NC77,2.0
+4610,Dresser Hill Airport,MA30,2.0
+4629,Krens Farm Airport,14VA,2.0
+2039,Wilhelm Airport,6NC2,2.0
+397,Hunt Farms Airport,15CL,2.0
+1046,Twin Acres Airport,9TE0,2.0
+4630,Woodford Airfield,4NK4,2.0
+3363,Middle Peninsula Regional Airport,KFYJ,2.0
+3462,Blanco Landing Airport,3TA5,2.0
+5146,Curt's Place Airport,6MI3,2.0
+3691,Lewis Airport,FL78,2.0
+4632,Longs Farm Airport,6TS2,2.0
+4634,Forest Lake Airport,K25D,2.0
+1953,Cherrystone Airport,24VA,2.0
+2026,Tyndall Air Force Base,KPAM,2.0
+3450,Bolton Field,KTZR,2.0
+3466,Jr's Airport,11IN,2.0
+3468,Dragonfly Field,15NC,2.0
+3469,Limington Harmon Airport,K63B,2.0
+3471,Wheat Field,56NC,2.0
+3474,Shullsburg Airport,2WI2,2.0
+1120,Kilmarnock/Tolbert Field,5VA9,2.0
+3479,Swansboro Country Airport,01CL,2.0
+1124,Nogales International Airport,MMNG,2.0
+1128,Morehaven Airport,MA43,2.0
+348,Brandon Airport,PN85,2.0
+3378,Troll Farm Airport,9MN1,2.0
+2057,Eglin Auxiliary Field 6 Airport,KZ01,2.0
+3559,Ozaukee Airport,9WN3,2.0
+1878,Griffin Airport,12TX,2.0
+3553,Waverly Landing Airport,1GE9,2.0
+1877,Evergreen Regional Airport/Middleton Field,KGZH,2.0
+4656,Mann Ranch Airport,95CO,2.0
+3388,Prairie View Farm Airport,24WN,2.0
+3555,Elroy Municipal Airport,K60C,2.0
+4593,Aero Lake Farm Airport,2OI4,2.0
+1876,Reeder Airport,9XS7,2.0
+4676,FLF Gliderport,TX23,2.0
+1161,Lemons Airport,IA03,2.0
+3565,Brookfield Airpark,OH24,2.0
+5174,Entwistle Airport,IL72,2.0
+3566,New Jerusalem Airport,K1Q4,2.0
+3567,Byrt Airport,5XS9,2.0
+3569,Wormley Airport,85LL,2.0
+1966,Knolle Ranch Airport,08XA,2.0
+4587,Jacobia Field,0TX8,2.0
+2055,Williams Field,11FL,2.0
+3436,Circle 8 Ranch Airport,CO42,2.0
+2056,Windy P Ridge Airport,34IN,2.0
+3390,Tyrone Airport,MI67,2.0
+1951,Adams Private Airport,94IS,2.0
+4594,Hartman Farms Field,53IN,2.0
+1887,S & S Landing Strip,8GA6,2.0
+1896,Burk Personal Use Airport,34II,2.0
+3529,Marshalltown Municipal Airport,KMIW,2.0
+4609,Sandy Creek Ranch Airfield,TX47,2.0
+3441,South Oaks Aerodrome,NC47,2.0
+1148,Greenville Downtown Airport,KGMU,2.0
+2045,Irish Hills Farms Airport,33CT,2.0
+4638,Nordheim Flying K Airpark,NJ58,2.0
+3379,Bergemann Airport,24MN,2.0
+3525,Mid-Valley Dusters Inc Airport,43TX,2.0
+2047,Faber Vineyards Airport,12CA,2.0
+3383,Killeen-Fort Hood Regional Airport / Robert Gray Army Air Field,KGRK,2.0
+3526,Delta Shores Airport,00ID,2.0
+4603,Buena Airport,WA97,2.0
+3545,Covered Bridge Fields Airport,1WN2,2.0
+3536,Harris Airport,93WA,2.0
+4670,Sunrise Acres Airport,71KY,2.0
+1891,La Porte Municipal Airport,KPPO,2.0
+3350,Bakers Landing Airport,MU13,2.0
+4671,Schantz Airstrip,CD15,2.0
+3347,Leise Airport,6IA6,2.0
+3407,Boe-Wrinkle Airport,28TS,2.0
+344,Casey Municipal Airport,K1H8,2.0
+3541,Whites Airport,3IA1,2.0
+3543,Mustang Field,0GA1,2.0
+4650,Willow Pond Aviation Inc Airport,19GA,2.0
+3781,Beckley Farms Airport,1GE4,2.0
+1793,Cumberland Valley Airstrip,PA66,2.0
+4337,Hop Brook Farm Airport,NJ72,2.0
+4072,Flying H Ranch Airport,GA68,2.0
+1576,Edward Getzelman Airport,7IL7,2.0
+4330,Bijou Basin Airport,CD17,2.0
+4065,Kimshan Ranch Airport,WN00,2.0
+4063,Pineridge Airport,16TS,2.0
+4336,Lerchs Airport,62IA,2.0
+1579,Cotton Strip,17FA,2.0
+4346,Whitcomb Field,4MI4,2.0
+4059,St Elmo Airport,K2R5,2.0
+181,Flying Diamond Airport,6AZ8,2.0
+1584,Alexander County Airport,NC59,2.0
+4342,Dobbs Ranch Airport,9XS0,2.0
+1361,Sky Bryce Airport,VG18,2.0
+4344,Heaton Airport,NH61,2.0
+4073,Curless Airport,IS08,2.0
+4075,Eads Municipal Airport,K9V7,2.0
+4076,San Geronimo Airpark,K8T8,2.0
+4078,Chimera Aerodrome,9XA4,2.0
+4080,De De Airport,1GA6,2.0
+4082,Illinois Valley Regional Airport-Walter A Duncan Field,KVYS,2.0
+1571,Clover Knoll Airport,II07,2.0
+4087,Cushing Municipal Airport,KCUH,2.0
+1569,Tragesser Airport,5IN3,2.0
+4091,Harrison Farm Airport,8MD5,2.0
+4319,Jaks Field,56WI,2.0
+4096,E.A.Deeds Farm Airport,VT12,2.0
+1565,Lumpkin County Wimpys Airport,K9A0,2.0
+4098,Spring Valley Farm Airport,1WI0,2.0
+4317,El Dorado Springs Memorial Airport,K87K,2.0
+4316,Hedge Hop Field,NK27,2.0
+4101,Numidia Airport,8PA0,2.0
+1598,Bakersfield International Airport,KL45,2.0
+4347,Hoby Wolf Airport,2MD5,2.0
+5202,Elkin Municipal Airport,KZEF,2.0
+207,Benton Airport,PA40,2.0
+3990,Lakeside Beach Airport,0XS6,2.0
+1630,Bierly(Personal Use) Airport,01PN,2.0
+4375,Burress Airport,XS30,2.0
+3985,Klumpp Airport,AL78,2.0
+3982,Horner Farms Airport,WI03,2.0
+4378,Vinton Veterans Memorial Airpark,KVTI,2.0
+4380,Valley View Airport,K5S9,2.0
+4348,Flying G Airport,28XS,2.0
+4381,Turner Field,11CA,2.0
+3973,Ferros Ranch-Aero Airport,0MO0,2.0
+4384,True Grit South Airport,CO95,2.0
+3967,Stocktrade Airport,WI05,2.0
+3966,Cimarron Strip,9OK7,2.0
+1646,Lawrenceville Vincennes International Airport,KLWV,2.0
+3991,Howard Private Airport,5CA8,2.0
+3992,Bland Field,8CL9,2.0
+1627,Green Acres Airport,CT96,2.0
+5240,Ives Airport,OK96,2.0
+3999,New Market Airport,K8W2,2.0
+4369,Moore Airpark,TX54,2.0
+4001,Sell Field,OH67,2.0
+4009,Fall Creek Ranch Airport,XA43,2.0
+4014,Flat Bush Airport,XA99,2.0
+4016,William H. Morse State Airport,KDDH,2.0
+4360,Timber Trails Airport,II25,2.0
+4023,Camp Longhorn Airport,84TX,2.0
+4027,Rotstein Airport,IS59,2.0
+4028,Cross Wind Acres Airport,TE47,2.0
+4030,Trovero Airport,LL44,2.0
+4032,Fiorini Ranch Airport,0CN1,2.0
+4041,Schadels Airport,1PA9,2.0
+4102,B S Ranch Airport,7MO3,2.0
+1381,Freedom Field,AL41,2.0
+4106,Skywest Airpark,62AL,2.0
+4204,Humboldt Municipal Airport,K0K7,2.0
+4260,South Hollywood Airport,67AK,2.0
+4214,Sky Glen Airport,MA75,2.0
+4261,Lake Elmo Airport,K21D,2.0
+4212,Lawrence Airport,1FD0,2.0
+4208,McFarlin Ranch Airport,XA12,2.0
+1494,Vince's Condominium Association Airport,FA60,2.0
+4203,Lewis North Airport,62OK,2.0
+4312,Hobart Sky Ranch Airport,K3HO,2.0
+4202,Martins Aerodrome,WI78,2.0
+1447,Lima Allen County Airport,KAOH,2.0
+4199,Scheidel Ranch Airport,CA07,2.0
+1445,Land's Field,21FD,2.0
+1439,Hildreth Air Park,96IS,2.0
+4275,Brown's Cape Horn Airport,4WA1,2.0
+4217,Danz Ranch Airport,XA02,2.0
+4219,Scott Field,2IN4,2.0
+4220,Laska Airport,3NK4,2.0
+4223,Mount St Helens Aero Ranch Airport,WN10,2.0
+1487,Dusty Airpatch Airport,5FL0,2.0
+4227,Litchfield Municipal Airport,KLJF,2.0
+4255,Bunting's Field,4MD1,2.0
+4252,Yellow River Airstrip,FD93,2.0
+4236,Frymoyer Airport,4PA3,2.0
+1458,Robotek Airport,TX81,2.0
+1476,Sherwood Farm Airport,7NY6,2.0
+1462,Glidwell Flying Service Airport,MS09,2.0
+4241,Pinetree Airpark,MY28,2.0
+4242,Naval Outlying Field Imperial Beach (Ream Field),KNRS,2.0
+4250,Flying Frog Field Airport,91GA,2.0
+1472,Gimpo International Airport,RKSS,2.0
+4248,Orange Hill Airport,15FD,2.0
+4186,Brandon Airport,VT55,2.0
+4185,Greene County Regional Airport,K3J7,2.0
+4183,Grimes Field,AL74,2.0
+4150,Lake Texoma State Park Airport,KF31,2.0
+1384,Thrust Industries Airport,8II3,2.0
+4112,John M. Foree Airport,12KY,2.0
+1557,Fall Creek Air Ranch STOLport,52TS,2.0
+4117,Oakes Field,66IN,2.0
+4120,Solon Springs Municipal Airport,KOLG,2.0
+1546,Lost Bridge Airport,OA16,2.0
+1396,Thistle Field,GA49,2.0
+4131,Moursund Ranch Airport,71TE,2.0
+4299,Ingels Aerodrome,4KS2,2.0
+4135,S & S Ranch Airport,39WI,2.0
+1535,Venango Regional Airport,KFKL,2.0
+4141,Galloway Airport,2IN6,2.0
+1534,Wahoo Municipal Airport,KAHQ,2.0
+4145,Rake's Glen Airport,WA59,2.0
+4152,King Airport,7IS9,2.0
+4182,Shannon Field,02CD,2.0
+4290,Howard Field,TA02,2.0
+4155,Old Orchard Airpark,2NK9,2.0
+4156,Amar Farms Airport,4KS1,2.0
+4157,Tatum Ranch Airport,26XS,2.0
+4159,Oberlander Airport,PA52,2.0
+4161,Hanel Field,0OR9,2.0
+4162,Frog Pond Airport,14XA,2.0
+4286,Flying D Airport,XS00,2.0
+4284,Mynatt Field,TS25,2.0
+4168,Stroudsburg Pocono Airport,KN53,2.0
+4281,Sugar Ridge Airport,WS62,2.0
+4280,Mineral Wells Regional Airport,KMWL,2.0
+4279,Harvard State Airport,K08K,2.0
+4180,Owosso Community Airport,KRNP,2.0
+3961,Pope Valley Airport,05CL,2.0
+3959,Al Divine Airport,65CL,2.0
+3958,Weidel/Private/ Airport,2NJ3,2.0
+1752,Bar V K Airport,TX32,2.0
+3789,Zeigler Landing Strip,72OH,2.0
+3787,Glenair Airport,MD46,2.0
+5106,Godman Army Air Field,KFTK,2.0
+4480,Neiderer Airport,PA55,2.0
+1750,Flying B Ranch Airport,XS06,2.0
+3776,Grosse Ile Municipal Airport,KONZ,2.0
+3773,Radloff's Cedar View Farms Airport,53MN,2.0
+3823,Erkes Airport,59PA,2.0
+4484,Ashmore Field,2AR5,2.0
+1754,Windemere Airport,47NC,2.0
+1241,North American Farms Airport,56FD,2.0
+3767,Morris Airport,1II8,2.0
+1761,Mad River Airpark,KI54,2.0
+1235,Newberg Airport,DE04,2.0
+258,Boswell Airport,24CL,2.0
+1738,Tara Airbase Airport,5NC1,2.0
+3794,Vitek Field,31TA,2.0
+3797,Lost Bridge Village Airport,40AR,2.0
+4473,Goode Field,TX43,2.0
+3799,George L Scott Municipal Airport,K3Y2,2.0
+3800,Hannover Airport,EDDV,2.0
+1260,Obannon Creek Aerodrome,OH66,2.0
+3807,Curtis Airport,NY62,2.0
+4465,G. Bray Airport,34IL,2.0
+1265,Rose Retreat Farm Airport,VA44,2.0
+3812,Anna's Airport,SC70,2.0
+3813,Sky Ranch Airport,NE11,2.0
+4464,St Maries Municipal Airport,KS72,2.0
+3815,Marshall Army Air Field,KFRI,2.0
+4462,Pittsfield Municipal Airport,KPSF,2.0
+4461,North Exuma Airport,85FA,2.0
+3760,Eagle Ridge Ultralightport,43WI,2.0
+3752,Farnborough Airport,EGLF,2.0
+3751,Misty Meadows Airport,MO65,2.0
+3721,Washington County Airport,K8WC,2.0
+1218,Osborn Airfield,02FA,2.0
+3697,Williams Airpatch Airport,89WA,2.0
+1789,Odom's Flying Service Airport,50FL,2.0
+1220,Lambert Airport,24LL,2.0
+4523,Winn Field,37II,2.0
+3702,De Kalb County Airport,KGWB,2.0
+3704,Allen's Pond Airport,5MA9,2.0
+3707,Francis Airport,9II8,2.0
+1783,Taylor Johnson Airport,NY24,2.0
+3713,Kral's Personal Use Landing Field,42MN,2.0
+3717,McLendon Airport,GA94,2.0
+3718,Jay Kay Ranch Airport,XS40,2.0
+3719,River Field,TS27,2.0
+1225,Lake Airport,19PA,2.0
+4512,Lazy Dog Ranch Airpark,3TE3,2.0
+4496,Curanda Airport,LL39,2.0
+3727,Colorado Springs East Airport,KA50,2.0
+5208,Broadt Personal Use Airport,5PA1,2.0
+4505,Independence Municipal Airport,KIIB,2.0
+4501,Salida Airport - Harriet Alexander Field,KANK,2.0
+3737,Carl's Landing Airport,AK19,2.0
+3738,Knight Sky Airport,5WN8,2.0
+3739,Mark Franz Private Strip,6CL6,2.0
+3740,Bar 3 Ranch Airport,0XA7,2.0
+3741,Flying K Ranch Airport,OR00,2.0
+1227,Chanay Airport,40KS,2.0
+1228,Sugar Creek Airport,58AR,2.0
+3744,Jacksboro Municipal Airport,K21F,2.0
+3745,Malpensa International Airport,LIMC,2.0
+3746,Silver West Airport,KC08,2.0
+3822,Airglades Airport,K2IS,2.0
+3825,Reed Hollow Ranch Airport,CO96,2.0
+3957,Stottlemyer Airport,2II3,2.0
+3905,Seven Hills Airport,5MN4,2.0
+4415,Ullrich Airport,0TS4,2.0
+4418,Dodge Center Airport,KTOB,2.0
+1667,New Quarter Farm Airport,92VA,2.0
+3909,Rainbow Field,83TA,2.0
+4419,Burk Airport,4MN7,2.0
+1670,Butch's Strip STOLport,44MO,2.0
+4420,Kern Field,IA48,2.0
+3828,Kickapoo Downtown Airport,KCWC,2.0
+210,Recreation Corporation Airport,33FA,2.0
+1296,Womack Farm Airport,75TE,2.0
+3900,A W Ranch Airport,XS79,2.0
+3895,Hitex Private Airport,9TX7,2.0
+1685,Benson Municipal Airport,KE95,2.0
+4427,Willis Airport,IS47,2.0
+3917,Spanish Peaks Airfield,K4V1,2.0
+3920,Edwards Farm Airport,3AL5,2.0
+4409,Spring Landing Airport,6MD2,2.0
+3927,Sudbury Airport,MA70,2.0
+3929,Bert's Airport,PS38,2.0
+3930,Rwnway Leasing Inc Nr 2 Airport,8WI3,2.0
+3931,Schurr Airport,IA21,2.0
+3933,Cedar Acres Private Group Airport,23PA,2.0
+4403,Twin Gardens Airport,8IL1,2.0
+4399,Collier Airpark,2AL1,2.0
+3939,Hochstetler Airport,OH90,2.0
+3942,Ahlem Farms Airport,CL84,2.0
+3947,Flying J Airport,79OI,2.0
+3948,Meadow Strip Ultralightport,9PA3,2.0
+3951,Barstool Ranch Airport,51TE,2.0
+1312,Headquarters Airport,AL27,2.0
+3956,Air Haven Airport,6PA6,2.0
+3887,Toledo Suburban Airport,KDUH,2.0
+3885,Burhans Memorial Airport,3MD0,2.0
+4430,Sunrise Dusters Airport,CA18,2.0
+3856,Jaffrey Airport Silver Ranch Airport,KAFN,2.0
+3829,Diamond J Airport,TS85,2.0
+3830,Kelch Airport,59OH,2.0
+1716,B-8 Farms Airport,IA58,2.0
+4455,El Tiro Gliderport,AZ67,2.0
+3839,B & V Flying Ranch Airport,98IN,2.0
+3840,Tobías Bolaños International Airport,MRPV,2.0
+1710,Bulldog Ranch Airport,2WI9,2.0
+1707,La Dolce Terra Airport,38SC,2.0
+4447,Real County Airport,K49R,2.0
+1282,Williams Ranch Airport,1CO2,2.0
+5223,Owen Air Park,0KY0,2.0
+1283,Cedar Farm Airport,28II,2.0
+3852,Griffin Spalding County Airport,K6A2,2.0
+3855,Lindley Private Airport,II35,2.0
+3857,Four Winds Airport / Cavanaugh Ranch Airport,1TS9,2.0
+1292,Buckingham Field,FL59,2.0
+3858,Lucky Lairds Landing Airport,81GA,2.0
+1698,Vance Field,TE76,2.0
+1696,Flying W Airport,4VA3,2.0
+1289,Martins Airport,21MO,2.0
+3863,Monticello Regional Airport,KMXO,2.0
+3865,Whispering Pines Airport,GA80,2.0
+3866,Windrift Aerodrome,2GA5,2.0
+4442,Windy Hill Airport,GA83,2.0
+3868,Kolibri Airport,6GA5,2.0
+3870,Sun Valley Estates Airport,UT28,2.0
+3873,Green Acres Airport,ID68,2.0
+4438,Camp Chippewa Airport,0KS3,2.0
+4436,Elgin Intracontinental Airport,56TS,2.0
+4435,Lambs Field,0MU7,2.0
+5107,Al's Field,48VA,2.0
+1974,Rocky Ridge Airpark,82OH,2.0
+3291,Whiteman Air Force Base,KSZL,2.0
+2342,Lincoln Farms Airport,5PN8,2.0
+2359,Bob Paul Airport,FL88,2.0
+850,Flomaton Airport,0AL5,2.0
+2354,Hanny Beaver Airpark Inc Airport,80PN,2.0
+2932,Meadow Mist Airport,WN35,2.0
+4835,Dunn Airport,LL54,2.0
+2934,Robinson Private Airport,MD14,2.0
+2352,Satterbergs Airport,13AK,2.0
+2937,Craw Daddy Landing Airport,3KY4,2.0
+4834,Soaring Horse Airport,33OI,2.0
+5036,Drillmore Acres Airport,0PN7,2.0
+2347,Simpsonville Airport,VG12,2.0
+5037,Lilac Time Airport,WI12,2.0
+4832,Johnsons Strawberry Farm Airport,9IN3,2.0
+5038,Carl R Keller Field,KPCW,2.0
+2360,Serenity Farm Airport,3VG3,2.0
+2338,Michair Airport,WT44,2.0
+2949,Hunter STOLport,06TN,2.0
+2334,Alpena County Regional Airport,KAPN,2.0
+857,Becker Personal Airport,MY43,2.0
+2329,Triple W Airport,K5W5,2.0
+2954,Taos Regional Airport,KSKX,2.0
+2327,Gold Mine Field,97PN,2.0
+2957,Oak Glen Ranch Airport,3TS9,2.0
+2325,Waltenberry Field Ultralightport,13AZ,2.0
+863,Graham Municipal Airport,KRPH,2.0
+4829,Camp Friendship Airfield,77VA,2.0
+2967,Coupeville Nolf Airport,KNRA,2.0
+2313,Reading Airport,MI76,2.0
+4841,Snook Airport,PS06,2.0
+2920,Nielsen Airport,2OR0,2.0
+2865,Caldwell Field,54II,2.0
+558,Heitman Field,OA11,2.0
+2403,Stella Airport,15IA,2.0
+2401,Madison Municipal Airport,K52A,2.0
+2400,Eastern Slopes Regional Airport,KIZG,2.0
+2399,Lucchetti Ranch Airport,8CL2,2.0
+4860,Pinewood Air Park,WS39,2.0
+2877,Russell Field,0NY1,2.0
+4857,Eagle Ridge Ranch Airport,6CA6,2.0
+2394,Horizon Field,IN63,2.0
+5020,Night Hawk Airpatch Ultralightport,5OK9,2.0
+2389,Cherry Hill Airport,40IN,2.0
+563,Air Ranch Estates Airport,60TA,2.0
+828,Panacea Airport,5GA7,2.0
+4853,Flying G Ranch Airport,AR79,2.0
+4852,Ferguson Farms Airport,12MO,2.0
+2361,Johnsons Airport,DE09,2.0
+2897,Varisco Airport,13TE,2.0
+2898,Dearing Ranch Airport,73XS,2.0
+4851,Varns Farms Airport,OI07,2.0
+4850,Mathna Airport,2PS3,2.0
+2903,Williams Ag Airport,00CL,2.0
+841,Van Dyke Strip,25CL,2.0
+4846,David Wayne Hooks Memorial Airport,KDWH,2.0
+2911,Altemose Ultralightport,PN69,2.0
+2365,Murphy's Landing Airport,2DE8,2.0
+4843,Kropf Airport,0II6,2.0
+5033,Ultralight Port Ultralightport,67NY,2.0
+4842,Mount Carmel Municipal Airport,KAJG,2.0
+2918,Ag-Air Inc. Airport,79TX,2.0
+2310,Wood Acres Airport,7MO1,2.0
+4823,Lumberton Airport,OH77,2.0
+4821,Marion Municipal Airport,KMZZ,2.0
+2245,Flying E Airport,OR25,2.0
+4794,Pevey Airport,DE15,2.0
+4791,Sand Ridge Airpark Inc Airport,OK94,2.0
+3051,Stone Castle Motel Airport,PA44,2.0
+3052,McDonald Airport,0TN5,2.0
+3053,Arant Airport,1NC6,2.0
+888,Aeroacres Airport,OG30,2.0
+3055,Grant Airport,3GA0,2.0
+3058,Băneasa International Airport,LRBS,2.0
+3060,Curry Airport,51IS,2.0
+4784,Singleton's Landing Strip,IN87,2.0
+892,Jenkins Airport,9OA7,2.0
+2249,White's Airport,63OH,2.0
+2246,Rupp Airport,2KS0,2.0
+902,La Center View-Air Airport,WA29,2.0
+4820,Whitfords Airport,KB16,2.0
+3074,Dream Team Airport,GA50,2.0
+3076,Eagle's Landing Airport,69FL,2.0
+3077,Monroe County Aeroplex Airport,KMVC,2.0
+3078,Riley's Field,LL51,2.0
+2239,Sparta Community Hunter Field,KSAR,2.0
+4780,Ridgeview Farm Airport,GA10,2.0
+4778,Hawk Field,IA15,2.0
+20,Chowchilla Airport,K2O6,2.0
+920,Solt Field,9PA5,2.0
+5072,Ben Emge Airport,2IL7,2.0
+3099,Triple Creek Airport,1IS2,2.0
+3103,Fish Airpark,7NC8,2.0
+5074,Litchfield Municipal Airport,K3LF,2.0
+3043,Buzzards Gap Ultralightport,WV61,2.0
+3042,Jennrich Field,MN45,2.0
+2264,Gillingham Airport,8TE0,2.0
+4801,Merritt Field,4PN7,2.0
+2305,Flint Ridge Airport,22NC,2.0
+533,Shelburne Farms Airport,VT22,2.0
+2984,Panther Creek Airport,17GA,2.0
+4818,Martin Fierro Airport,WI72,2.0
+2986,Flying B Airport,TS54,2.0
+2989,New Liberty Field,9IN2,2.0
+2990,Smith-Stewart Field,79OH,2.0
+4815,H R Weisser Airport,92IN,2.0
+2996,Midway Airport,42MI,2.0
+5049,Plane Country Airport,45OI,2.0
+3001,Lathan Strip,5NC2,2.0
+2291,Ellison Airport,35IN,2.0
+3006,Mc Bride Field,7IA3,2.0
+4810,Big Creek Flying Ranch Airport,GA18,2.0
+3012,Fox Airport,48TS,2.0
+3016,Liberty Hill International Airport,TS29,2.0
+2279,Schwartz Farms Inc Airport,4FL8,2.0
+2276,Skyview Airport,51VA,2.0
+3021,Milburn Airport,24OH,2.0
+2272,Indianola Municipal Airport,KIDL,2.0
+4806,Dury Estates Airport,IL71,2.0
+4804,Hoelting Airport,SN22,2.0
+2269,Oelwein Municipal Airport,KOLZ,2.0
+3028,Sainte Genevieve Flying Club Airport,6MO2,2.0
+3031,Hilltop Airport,3NY9,2.0
+4802,Weller Airport,MI78,2.0
+3034,Lazy B Ranch Airport,PS08,2.0
+818,Stuart Powell Field,KDVK,2.0
+2408,Alliance Airport,OH48,2.0
+3107,Bluestem Airport,OK58,2.0
+2701,Cuchara Ranch Airport,CD48,2.0
+4962,Richland Airport,K93C,2.0
+4930,O'Dwyer Airport,60NJ,2.0
+2568,Mendenhall Airstrip,2OG5,2.0
+703,Pratt Landing Airport,7AL7,2.0
+4928,Young Private Airport,06WI,2.0
+642,Talaheim Airport,1AK8,2.0
+4967,Double S Farms Airport,56OI,2.0
+2561,Florala Municipal Airport,K0J4,2.0
+4923,Hawken Air One Airport,62TA,2.0
+2689,Olmstead Sky Ranch Airport,ID25,2.0
+2553,Kunda Airport,PA61,2.0
+636,Pittsburgh/Butler Regional Airport,KBTP,2.0
+4970,Vaughan Airport,00VA,2.0
+2547,Routh Airport,9IL2,2.0
+645,Turlock Airpark,9CL0,2.0
+4914,Marble Head Farm Airport,5MD0,2.0
+728,Bowles Airport,18CL,2.0
+2707,Kelgun Airport,4CO8,2.0
+2536,Carlson Airport,PN06,2.0
+4973,Weishaupt Airport,9IL6,2.0
+4974,Casa De Aero Park Airport,68IS,2.0
+2529,Indian Hammock Airport,FL75,2.0
+2528,Joseph Y Resnick Airport,KN89,2.0
+2527,Mifflin County Airport,KRVL,2.0
+2720,Wheeler Airport,IG05,2.0
+2526,Harman Airport,0PS7,2.0
+2724,Goodlett Field,9TS6,2.0
+4981,Rataiczak Airport,OI62,2.0
+4932,Layne Field,5II1,2.0
+2665,Downwind Acres Airport,86MI,2.0
+4863,Belfair Airport,DE32,2.0
+674,Peachtree Landings Airport,5GE1,2.0
+4952,Wietbrock Airport,IN90,2.0
+690,Talladega Municipal Airport,KASN,2.0
+2614,Simmons Army Air Field,KFBG,2.0
+2604,Dee Jay Airport,8PA1,2.0
+4951,Wilson Airport,62IS,2.0
+686,Korver Airport,16NE,2.0
+4950,Aero Four Airport,IL58,2.0
+4949,Duda Airstrip,08FA,2.0
+4948,Walnut Hill Airport,58VA,2.0
+2622,Diamond Seven Ranch Airport,43TA,2.0
+4945,Yeamans Fox Nest Airport,6KS5,2.0
+4953,D. A. Chandler Airport,OI42,2.0
+2595,Fischer's RLA Restricted Landing Area,6LL6,2.0
+2589,Baldwin Airport,MO39,2.0
+4959,Deyoung Airport,6MI2,2.0
+2635,Southbridge Municipal Airport,K3B0,2.0
+2638,Selfs Airport,KMMS,2.0
+2585,Lowell Smith Jr Airport,3TX6,2.0
+2641,Harris River Ranch Airport,9CA7,2.0
+2583,St John Airport,4MD9,2.0
+2647,Williams Field,38AR,2.0
+4938,Belknap-Icarus Acres Airport,1IN0,2.0
+2649,The Funny Farm Airport,FD03,2.0
+4956,Grand Lake Regional Airport,K3O9,2.0
+2653,Big Oak Farm Airport,1MD1,2.0
+697,Homan Airport,47PA,2.0
+4936,Rutherford Ranch Airport,85TX,2.0
+2661,Magennis Farm Airport,7MD1,2.0
+2728,Joe Cimprich Airport,90OI,2.0
+629,Brisbane International Airport,YBBN,2.0
+2734,Adventures Aloft Airport,MO07,2.0
+2829,Memory Lake Airport,5AK8,2.0
+2471,Broken Prop Airport,WI55,2.0
+2807,Marshall Field,MO14,2.0
+2809,Roberson Airport,IN80,2.0
+2811,Windy Knoll Airport,IN51,2.0
+4999,Crooked Creek Airport,7NC5,2.0
+2458,Schulteis Field,71PN,2.0
+772,Cub Haven Airport,FD53,2.0
+2456,Mullins Landing Airport,6XS3,2.0
+2452,Chukkar Farm Ultralightport,2GE5,2.0
+2451,Leaders Clear Lake Airport,K8Y6,2.0
+2824,Shirley Lake Airport,AK90,2.0
+4874,Kimrey Airport,7NC6,2.0
+2828,Pinckneyville Du Quoin Airport,KPJY,2.0
+778,Evans Airways Airport,4NK3,2.0
+4983,Kingdom Field,5NK5,2.0
+2832,Mustang Airport,2CL9,2.0
+5004,Albrecht /2/ Airport,IL09,2.0
+2836,Doyle's Airport,DE00,2.0
+5005,D.Evans Farm Airport,PA73,2.0
+2838,Grand Isle Airport,OK18,2.0
+2433,Sybert Farm Airport,40TE,2.0
+5007,Ori Airport,WI86,2.0
+2427,Sanford Field,VA23,2.0
+2849,Rauhaus Field,7OH1,2.0
+804,Thomas Airport,MU85,2.0
+5011,Pennfield Farm Airport,44PA,2.0
+2417,Ohho Airport,0XA8,2.0
+807,Kayutah Lake/James & Helene D Allen Memorial Airport,2NY9,2.0
+2472,Lancaster Municipal Airport,K73C,2.0
+2799,Busboom RLA Restricted Landing Area,0LL5,2.0
+2798,Wonderful Pistachios & Almonds Airport,2CN4,2.0
+4879,Mission Field,OH35,2.0
+736,Cordes Airport,00AZ,2.0
+2515,Gilmore Airport,II65,2.0
+2738,Thomas Browne Airpark,61NJ,2.0
+2749,Eagle Airport,TA51,2.0
+2751,Dooley Airport,0TS1,2.0
+2752,Ranch-Aero Airport,78TA,2.0
+2506,Lt World Airport,00GA,2.0
+620,Patuxent River Naval Air Station (Trapnell Field),KNHK,2.0
+2761,Burntwood Ranch Airport,FL43,2.0
+743,Mysterious Valley Airport,20CL,2.0
+4989,Baum Airport,TA46,2.0
+2496,Dubey Airport,29CN,2.0
+2769,Central Colorado Regional Airport,KAEJ,2.0
+4892,Cajun Hills Ranch Airport,4XS9,2.0
+4993,Winn Ranch Airport,4XS8,2.0
+2486,Luke Air Force Base,KLUF,2.0
+2484,Orthodontic Strip,5IN6,2.0
+4887,Two Tails Airport,VT42,2.0
+2478,Donaldson Field Airport,KGYH,2.0
+2786,Barron Aviation Airport,MO11,2.0
+4884,Hidden Valley Airport,AZ43,2.0
+2477,Hilltop Airport,MU62,2.0
+4995,Jorgensen - Stoller Airport,1WI8,2.0
+2792,Sky Classics Field,7PS4,2.0
+2475,Drennan Airport,3XA0,2.0
+610,Ellerport Airport,WN54,2.0
+4996,Head Field Airport,OH44,2.0
+3106,Sloop Airport,41NC,2.0
+2326,Aerogrange Airport,66IL,2.0
+4705,Moorhead Airpark LLC,PN40,2.0
+2097,Fagundes Field,6GA1,2.0
+3164,Elsanor Airport,1AL4,2.0
+3181,Rlm Farms Airport,FD09,2.0
+2169,Funny Farm Airport,5LL7,2.0
+3261,Skelton Airport,MS85,2.0
+5099,August Acres Airport,OH17,2.0
+5102,Ingram Private Airport,MU41,2.0
+4703,Ranch Side Airport,WS26,2.0
+3184,Etter Airport,II19,2.0
+2146,Yoder Airstrip,CD09,2.0
+3162,Jacksonville International Airport,KJAX,2.0
+5081,Bahnson Airport,43NC,2.0
+3125,Sky Ranch II Airport,MO79,2.0
+4700,St Clair County Airport,KPLR,2.0
+2195,Owasco Airport,NY92,2.0
+3123,Norman & White Airport,6TE1,2.0
+2099,Marshall's Airport,MA16,2.0
+3243,Stoneriver Airport,NC09,2.0
+4754,Tekamah Municipal Airport,KTQE,2.0
+3154,Lafayette Landings Airport,FD90,2.0
+4733,Laub Airport,3AK7,2.0
+2130,Aerie Airport,1GA9,2.0
+4766,Ellis Field,02TN,2.0
+3206,Picayune Airport,IA16,2.0
+3128,Mile Hi Airport,47CO,2.0
+2107,Fun-Air Airport,WI46,2.0
+3179,Harris Field,73IA,2.0
+4707,Dixon Municipal Charles R. Walgreen Field,KC73,2.0
+3224,Witcombe Field,4IA7,2.0
+4719,Kucera Residence Airport,63AK,2.0
+2134,Freedom Springs Ranch Airport,TA66,2.0
+4739,Andy Fields Airport,2GE8,2.0
+2206,Mc Culley Airport,IL56,2.0
+2186,Napodano Airport,1PN1,2.0
+4709,Stewart Field,95IN,2.0
+2178,Yancopin Airport,0AR7,2.0
+3220,Carter-Norman Airport,TA87,2.0
+3253,Moders Airport,MO03,2.0
+455,Richland Airpark,1NY3,2.0
+1002,Flying Dare's Ranch Airport,26AZ,2.0
+4759,Ferris Field,62IL,2.0
+2174,Michigan City Municipal Airport,KMGC,2.0
+4758,Adams Airport,1II2,2.0
+3132,Sullivan Airstrip,NE12,2.0
+4760,Rheude Airport,II08,2.0
+3130,Norm's Airport,29II,2.0
+3137,Dillard Airport,54NC,2.0
+5091,Norm's Field,31MA,2.0
+4710,Bangerter Field,70AK,2.0
+3129,Glasgow Prestwick Airport,EGPK,2.0
+2165,Chimney View Airport,5VA5,2.0
+3270,Richardson Field,II81,2.0
+3195,Hidden Springs Airpark,36AL,2.0
+2198,Salem Lakefront Airport,OH27,2.0
+3283,Pilot Country Airport,KX05,2.0
+954,Alaska Airpark,AK01,2.0
+2199,Beaver Creek Airport,9XS2,2.0
+3276,Kirsch Municipal Airport,KIRS,2.0
+4697,Riggins Farms Airport,IS43,2.0
+3204,Gaskin's Hilltop Airport,2NK1,2.0
+5090,Mayes Homestead Airport,37MO,2.0
+3278,Glenmar Ranch Airport,UT41,2.0
+3279,Kellie Mann Airfield,0KS2,2.0
+5103,Chambers Airport,5PA8,2.0
+3198,TSTC Waco Airport,KCNW,2.0
+3280,Whiteside County Airport - Joseph H Bittorf Field,KSQI,2.0
+4717,McClure Airport,PN21,2.0
+4730,Hunter Airport,82IN,2.0
+3115,Chain-O-Lakes Airport,3IN7,2.0
+2216,Red Ace Ranch Airport,TS57,2.0
+3149,Noahs Ark Airport,06MO,2.0
+2151,Wicker & Wings Aerodrome,1PS9,2.0
+4718,Boca Raton Airport,KBCT,2.0
+3150,Silver Creek Airport,NC52,2.0
+3152,The Homestead Airport,90TE,2.0
+3191,Ellis Agricultural Field,34FL,2.0
+3205,Piper's Landing Airport,IS34,2.0
+1010,Converse Farm Airport,SN47,2.0
+3109,Pearson's Farm Airport,SC40,2.0
+3230,Fairview Airport,7TS0,2.0
+3290,Nance Airport,8LL0,2.0
+990,Yolo Ranch Airport,33AZ,2.0
+2095,Cholla Airport,64CO,2.0
+2203,Mojave Airport,KMHV,2.0
+967,Skylark Airport,XS34,2.0
+3288,Westford Airstrip,CT74,2.0
+3237,Alford Airpark,IN03,2.0
+3236,Tachick Field,WS29,2.0
+3287,Bay Minette Municipal Airport,K1R8,2.0
+5093,Fergusons Flying Circus Airport,TN09,1.0
+5254,Wood Crest Ranch Airport,6TS6,1.0
+5245,Sam's Field,6PN5,1.0
+4361,Grove Municipal Airport,KGMJ,1.0
+4341,Heckler Field,CT09,1.0
+4886,Redpath Restricted Landing Area,IL35,1.0
+4362,Liberty Hill Air Ranch Airport,XS12,1.0
+4994,Suvarnabhumi Airport,VTBS,1.0
+4988,Kaufield Airport,0LL0,1.0
+4885,Graham Field,XS31,1.0
+5243,Cummings Airfield,95NY,1.0
+5248,Winch Airfield,6WI1,1.0
+5246,Highlander Airport,2FD6,1.0
+4364,Smithfield Airport,NY91,1.0
+5247,Baney's Airport,90PN,1.0
+4991,Taft Airport,92IS,1.0
+4661,Warbonnet Ag Strip,NE39,1.0
+4359,HSH Airstrip,1OK6,1.0
+5252,Mac Kinnis Airport,MD53,1.0
+4352,Melbourne Orlando International Airport,KMLB,1.0
+4350,Clinton Airport,K1I7,1.0
+4353,Murphy's Landing Airport,80GA,1.0
+4990,Harold Bunger Airport,16IL,1.0
+4354,Strafuss Airport,SN43,1.0
+5120,Falcon Lake Strip,0AK9,1.0
+5241,Crippen Field,MI11,1.0
+5251,Flying 'K' Ranch Ultralightport,0TS8,1.0
+4992,Shenandoah Flying Field,3II1,1.0
+4893,Miller Airport,2MY4,1.0
+4355,Singapore Changi Airport,WSSS,1.0
+4891,Deale Airport,MD22,1.0
+5092,Painting Planes Airport,KO11,1.0
+4662,Wards Long Acres Airport,MI15,1.0
+4889,Pickle Plantation Airport,XS91,1.0
+5250,Garner Field,02MD,1.0
+5249,Lowells Landing Airport,75II,1.0
+4888,Dos Arroyos Ranch Airport,XS20,1.0
+5121,Piolis Brookside Airport,6NY7,1.0
+4357,Angel Fire Airport,KAXX,1.0
+4895,Brooten Municipal Airport,K6D1,1.0
+5122,Saikkonen Airport,11NY,1.0
+5119,Lisbon Airfield,1OH8,1.0
+5253,Mc Neil Field,II36,1.0
+4351,Funfsinn Airport,IL13,1.0
+4343,Coffman Field,0VA5,1.0
+5242,Steele's Bottom Airport,4KT4,1.0
+4595,Anchorage Farm Field,56TX,1.0
+4367,Audubon County Airport,KADU,1.0
+4397,Greenwoods Airfield,VT38,1.0
+4396,Tommy's Flying Service Inc Airport,AR22,1.0
+5130,Martin Airport,IL64,1.0
+4395,Walts Aerial Service Airport,NE17,1.0
+4394,Sudbeck Field,NE50,1.0
+5129,Thunder Creek Airport,95TA,1.0
+4393,Myers Airport,MI25,1.0
+4392,Loup City Municipal Airport,K0F4,1.0
+4391,Hoy Airstrip,76CO,1.0
+4652,Rice Lake Municipal Airport,KRIE,1.0
+4390,Taylor Field,3AR7,1.0
+4389,Ellsworth Field,FA27,1.0
+4729,Bee Creek Airport,34TE,1.0
+5127,Lang Flying Service Airport,MS77,1.0
+5001,Retta Airport,8TS1,1.0
+4875,Harry's Field,MI82,1.0
+5003,Hugh Van Voorst Airport,5LL8,1.0
+4398,Cassville Municipal Airport,KC74,1.0
+4368,Mc Daniel Ranch Inc. Airport,0FL9,1.0
+4872,Bronson Airport,II93,1.0
+5006,Desert Aire Regional Airport,KM94,1.0
+5230,Leisurewood Airstrip Owners Assoc Airport,9AK6,1.0
+4867,Bent-Wing Airport,59NY,1.0
+4868,Blech Ranch Airport,0CA9,1.0
+4869,Fentress Naval Auxiliary Landing Field,KNFE,1.0
+4406,Houston Airpark,21XS,1.0
+4405,Day Field,IA47,1.0
+4870,Circle W Airfield,PA72,1.0
+5231,Maas Airstrip,69LL,1.0
+5132,Jones Air Park,36OK,1.0
+4404,Greer Airport,OG48,1.0
+5131,Lewis Airport,1OH9,1.0
+5232,Dunnellon Marion Co & Park of Commerce Airport,KX35,1.0
+4402,Flying Lazy D Ranch Airport,CO49,1.0
+4401,Richardson Airport,IL24,1.0
+5233,Hidden Hills Airport,3MD5,1.0
+4728,Wildcat Airport,52PA,1.0
+4388,Safe Field,NC48,1.0
+5234,Wagner International Airport,OI06,1.0
+4722,Schroder Airport,61KY,1.0
+4721,Dougherty Airport,1OH2,1.0
+5124,Viburnum Airport,MO84,1.0
+4657,Chadwick Airport,OR27,1.0
+4374,Traylor Tick Farm Airport,61TX,1.0
+4373,Placid Lakes Airport,09FA,1.0
+4880,Earl Henry Airport,6OK6,1.0
+4658,Skywagon Farm Airport,NM88,1.0
+5123,Walter's Agri-Center Airport,WI28,1.0
+4881,Lola Landing Airport,36GA,1.0
+4659,Rockys Place Airport,6TA2,1.0
+4372,Utopia on the River Airport,5TX9,1.0
+4882,Thorp Airport,LL34,1.0
+4370,Ruby Field,TX39,1.0
+4720,Temple Bar Airport,KU30,1.0
+5126,G & S Space Port Airport,14KS,1.0
+5256,Williams Airpark,30LL,1.0
+4997,Boisselle's Strip,3AK8,1.0
+4385,Harris Airport,IS24,1.0
+4876,Heritage Acres Airport,90WI,1.0
+4387,Munson Airport,OG36,1.0
+4877,Diamond O Ranch Airport,XS93,1.0
+4727,Minsk National Airport,UMMS,1.0
+5236,J C's Airport,27WA,1.0
+4725,Plummer Airport,IN10,1.0
+5237,Empire Valley Airport,MN88,1.0
+4379,Steep Head Farm Airport,FL15,1.0
+4724,Sullivan Airport,31WI,1.0
+4998,Lodi Lakeland Airport,9WN5,1.0
+4878,Comanche Caves Ranch Airport,4TA6,1.0
+5238,Rag Wing Airport,9WN4,1.0
+4655,Corcoran Airport,KCRO,1.0
+5239,Cedarville Airport,MI18,1.0
+4896,Erie County Airport,K3G1,1.0
+4665,Adkisson Airport,IL32,1.0
+4897,Merritt Airport,2OH2,1.0
+4934,Eibling Circle E Airport,OI66,1.0
+4682,Hanna Airport,IN31,1.0
+4960,Dyersville Area Airport,IA80,1.0
+4933,Graham Farms Airport,SN72,1.0
+5277,Air Jordan Airport,2OI2,1.0
+4277,Handy Strip,0VA9,1.0
+4699,Wits End Ranch Airport,5XS5,1.0
+4276,West Airpark,45TX,1.0
+4935,Woodstock Airport,FL86,1.0
+5276,Morrisville-Stowe State Airport,KMVL,1.0
+4958,Rancho San Simeon Airport,66CA,1.0
+4957,Boggy Bottoms Airport,18OI,1.0
+5278,Crop Air Inc Airport,CO48,1.0
+4274,David Gillespie Airport,69IL,1.0
+4937,Mears Field,VG00,1.0
+5279,Battle Field,8KY3,1.0
+4683,Ashland/Lineville Airport,K26A,1.0
+4701,Twelve Oaks Airport,II87,1.0
+4282,Landry Airport,TS01,1.0
+4270,Greater Cumberland Regional Airport,KCBE,1.0
+4704,Medina River Ranch Airport,XS43,1.0
+5271,Taylor Field,GA16,1.0
+4921,Clements Airport,4MD4,1.0
+5273,Ijamsville Airport,4MD8,1.0
+5274,Short-N-Ruff Airport,0MO2,1.0
+4922,D'Amico Airport,NY13,1.0
+4291,Motown Airport,5AZ6,1.0
+4924,Eagles Nest Airport,21VA,1.0
+4681,Limon Municipal Airport,KLIC,1.0
+4283,Abba's Airport,91OR,1.0
+4966,Roberts Roost Airport,NK81,1.0
+4288,Virginia Beach Airport,42VA,1.0
+4287,Weidner Airport,4IS9,1.0
+5275,Westerly State Airport,KWST,1.0
+4965,Malina Airport,MO31,1.0
+4931,Cast Airport,5IS7,1.0
+4702,RAAF Base Richmond,YSRI,1.0
+4271,Claremont Municipal Airport,KCNH,1.0
+4269,Blessings Landing Air Ranch,84AL,1.0
+4969,Trowbridge Farms Airport,8MI0,1.0
+5288,Air Estates Inc Airport,LL09,1.0
+4944,Headwaters Airport,25XA,1.0
+4257,Circle K Airport,WS45,1.0
+4690,Hemlock Run Airport,64NY,1.0
+5285,Craig Craft Airport,86NC,1.0
+4256,Eagle Nest Ranch Airport,OR65,1.0
+4946,Greater Binghamton/Edwin A Link field,KBGM,1.0
+5287,Scott'S Sky Ranch Airport,NY70,1.0
+4947,Mc Curdy Airport,LL94,1.0
+5284,Foster Ranch Airport,2XS6,1.0
+4696,Frith Airport,1OA6,1.0
+5289,Stone Field,44TN,1.0
+4695,Hackberry Airport,1XA8,1.0
+5290,Turtle Rock Airstrip,8PA6,1.0
+4694,A Paul Vance Fredericktown Regional Airport,KH88,1.0
+5105,Toledo Executive Airport,KTDZ,1.0
+4692,Shenandoah Municipal Airport,KSDA,1.0
+4689,Cruzan Field,9II4,1.0
+5283,Testoni Farms Airport,IL91,1.0
+5280,Riverside Landings Airport,6MO7,1.0
+4264,Cameron Ranch Airport,TE97,1.0
+4266,Ekdahl Airport,NJ59,1.0
+4698,Mount Hawley Auxiliary Airport,K3MY,1.0
+5281,Krout Airport,4PS6,1.0
+4684,Askey Field,9TN5,1.0
+4939,Hillside Stables Airport,13IA,1.0
+4685,Redstone Ranch Airport,TS76,1.0
+4940,Tasícuri-Magdalena de Kino / Rodolfo Soto Bartell Airport,MM69,1.0
+4942,Hornell Municipal Airport,K4G6,1.0
+4955,Neno Airport,NY18,1.0
+4686,Lowe's Airport,FA77,1.0
+4263,Flying Cal Ute Rancheros Airport,UT15,1.0
+4262,Alpha Hotel Airport,07VA,1.0
+4943,Slater Field,00MD,1.0
+4688,Medcalf Field,1MU0,1.0
+5282,Berlin Field LLC,31WN,1.0
+4258,Harrah Airport,WA26,1.0
+5270,Mason County Airport,KLDM,1.0
+4920,Schewe Airport,WI52,1.0
+5257,Kendall Airstrip,WN08,1.0
+4323,Wheeler Sack Army Air Field,KGTB,1.0
+5094,Redgate Ranch Airport,11MO,1.0
+4326,Mc Christy Airport,IS54,1.0
+4325,Jasper Ridge Airstrip,36OR,1.0
+4982,Holt Field,8II5,1.0
+4906,Sharp Airport,86IL,1.0
+4667,Yav'pe Ma'ta Airport,16AZ,1.0
+5259,Johnston Airport,9IS9,1.0
+4669,Triple S Ranch Airport,82WI,1.0
+5118,Disney Airport,OK95,1.0
+5260,Ultra Flight Airpark,3MO2,1.0
+5261,Kuebler RLA Restricted Landing Area,4IL4,1.0
+4321,Dakota Air Ranch Airport,09NR,1.0
+5095,Hildebrandt Airport,CO22,1.0
+4713,Grissom Air Reserve Base,KGUS,1.0
+4907,Eagle Nest Airport,AK88,1.0
+4908,Cameron's Airport,MN47,1.0
+5258,Paloma Ranch Airport,29AZ,1.0
+4714,Black Spruce Airport,AK89,1.0
+5117,Eastview Airport,WV67,1.0
+4331,La Mesa Park Airport,NM67,1.0
+4987,Cwian Field,2LL1,1.0
+4899,Rendleman Airport,4IL8,1.0
+4986,Liberty Landing Airport,4MO4,1.0
+4901,Rutherford Airport,28WI,1.0
+4334,Jorge Newbery Airpark,SABE,1.0
+4333,Ridgeview Airport,55NY,1.0
+4332,Ciampino–G. B. Pastine International Airport,LIRA,1.0
+4985,Villiger Restricted Landing Area,9IL0,1.0
+5229,Olney Noble Airport,KOLY,1.0
+4984,Phillips Army Air Field,KAPG,1.0
+4902,Grantley Adams International Airport,TBPB,1.0
+4903,Wells Airport,VA56,1.0
+4329,Moron Air Base,LEMO,1.0
+4905,Millar Airport,2AZ4,1.0
+4715,Kern Valley Airport,KL05,1.0
+4328,Brooklyn Airport,0VI1,1.0
+4712,Eric Marcus Municipal Airport,KP01,1.0
+4711,Starr Airport,MO94,1.0
+4292,Arrowhead Springs Airport,93WI,1.0
+4300,Diamond S Airport,GA89,1.0
+5096,Flying Illini Airport,IL80,1.0
+5268,Stark Airport,MU18,1.0
+4304,Axinn Airport,VT14,1.0
+5097,Hurlbut Field,NY07,1.0
+5269,Danville Airport,K8N8,1.0
+4301,Small Field,IN81,1.0
+4678,Blackwell Land Company Airport,36CN,1.0
+4915,Ccc Airport,MO27,1.0
+5267,Miller Farm Airport,MU21,1.0
+4298,Holmes Southeast Airport,3IS5,1.0
+4916,Kamm Airport,4IS1,1.0
+4297,Circle P Ranch Airport,41TA,1.0
+4296,Barclay's Roost Airport,TA73,1.0
+4917,Harvey Point Defense Testing Activity Airport,NC01,1.0
+4706,Keller Airport,0MN8,1.0
+4294,Flying W Ranch Airport,04AA,1.0
+4972,Rosegill Farm Airstrip,2VA5,1.0
+5266,China Peak Observatory Airport,AZ45,1.0
+4909,Erco Field,0TA4,1.0
+4310,Cook Canyon Ranch Airport,TA25,1.0
+4315,Huffman Farm Airport,4OH8,1.0
+4314,Payette Municipal Airport,KS75,1.0
+4911,Aviacres Airport,3VA2,1.0
+4977,Bornemeier Airstrip,8NE4,1.0
+5262,Bucker Field,TE74,1.0
+5116,Osage Municipal Airport,KD02,1.0
+4912,L & M Aerodrome,MN31,1.0
+4913,Chillicothe Municipal Airport,KCHT,1.0
+5265,Keysa Airport,NY79,1.0
+5115,Airman Acres Airport,OK93,1.0
+4308,Stettler Strip,II28,1.0
+4307,PT Enterprise D&W Ranch Airport,11TS,1.0
+4673,Brammeier Airport,7LL9,1.0
+4306,Johnston Field,9NE4,1.0
+5263,County Poor Farm Airport,67LL,1.0
+4675,Cliff Scott Airport,47MO,1.0
+4649,Port Isabel Cameron County Airport,KPIL,1.0
+4423,J & S Airport,CD14,1.0
+4731,J-Em Farm Airport,82OI,1.0
+5059,Triangle T Ranch Airport,66CL,1.0
+4545,Phillips Field,MO23,1.0
+8,Copenhagen Kastrup Airport,EKCH,1.0
+4543,Maurice Dauwe Farm Airport,XS47,1.0
+4613,The Wilderness Airport,8KS9,1.0
+5164,Unger Field,0OI2,1.0
+4541,Dickson /Private/ Airport,SN93,1.0
+4614,Castle Mountain Airstrip,48AK,1.0
+4540,Veterans Airport of Southern Illinois,KMWA,1.0
+5196,Laverty Field,IA41,1.0
+5163,Combs Airport,62MI,1.0
+4537,Comanche Livestock Airport,59CO,1.0
+5057,Coleman Airport,WS28,1.0
+5197,Ridgeview Airport,1PA3,1.0
+4615,Flying W Airport,XS56,1.0
+4617,Blueberry Hill Airport,MA77,1.0
+5198,Limberlost Ranch Airport,CA21,1.0
+5162,Schaback Strip,MO51,1.0
+4546,Piano Ranch Airport,2TE5,1.0
+5194,Bergs Airport,6II7,1.0
+5206,Horst Airport,3PA0,1.0
+5165,Dalrymples Airport,NK47,1.0
+4556,Tallen Airport,MU35,1.0
+4555,Bittner-Whitsel Airport,5PN5,1.0
+4793,Morgan Airport,MO02,1.0
+5168,Ruckl Airport,IA35,1.0
+4795,Meerwarth Airport,6NK2,1.0
+5167,Rolling Meadows Airport,39KS,1.0
+5192,Scheller Airport,62NJ,1.0
+4553,Freefall Oz Airport,06PA,1.0
+5193,Taylor Field,0AZ1,1.0
+4552,Hallett's Airport,8PN2,1.0
+4796,Falcons Aerie Airport,8GA8,1.0
+4549,Crow-Mag Airport,33OR,1.0
+4797,Agricultural Supplies Airport,XS42,1.0
+4548,Woods Field,63II,1.0
+4798,"Terre Haute Regional Airport, Hulman Field",KHUF,1.0
+4799,Breckenridge Airport,2MO4,1.0
+4800,Mc David Ranch Airport,44TS,1.0
+5199,Clark Airport,19IN,1.0
+4807,Kitty Hawk Estates Airport,9WI6,1.0
+4532,Fair's Airport,MD00,1.0
+5055,Wichman Airport,96LL,1.0
+4621,Gutwein Airport,72IN,1.0
+4519,Mount Vernon Municipal Airport,K2MO,1.0
+5158,Shangri La Airport,6PA9,1.0
+5204,Byrne Field,0IN5,1.0
+5205,Fox Field,34PN,1.0
+4518,Southern Illinois Airport,KMDH,1.0
+4757,Reedley College Airport,CA13,1.0
+4813,Five Corners Airways Airport,WS08,1.0
+4517,South River Airport,NC93,1.0
+4516,West Bolivar Flying Service Airport,MS37,1.0
+4814,Franklin County Airport,KF53,1.0
+5157,B & C Airport,IL99,1.0
+4755,Slaughter Airport,0MU4,1.0
+4816,Harms Airstrip,08IL,1.0
+5048,Eastford Airport,5CT0,1.0
+4515,Quebec Jean Lesage International Airport,CYQB,1.0
+4513,Hadley Airport,03MA,1.0
+5203,Todd Field,K14Y,1.0
+4520,Perras Field,VT44,1.0
+4812,Archer City Municipal Airport,KT39,1.0
+5054,River Acres Airport,FD70,1.0
+5200,K & N Field,MO59,1.0
+5201,Marshall County Airport,KC75,1.0
+4529,Skywagon Ranch Airport,6CO6,1.0
+5161,Wabasis Lake Airport,MI80,1.0
+4528,Bryant's Landing Airport,TS03,1.0
+4527,Stout Field,3II5,1.0
+4809,Stanton Airport,NY35,1.0
+5053,Goebel Field,4TS5,1.0
+4521,I & C Field,IN54,1.0
+4526,Harris Hill Gliderport,4NY8,1.0
+4525,The Sea Ranch Airport,CA51,1.0
+5052,Hilldale Airport,78VA,1.0
+5051,Alley Oop Airport,68IN,1.0
+4811,Lee's Dogpatch Airport,OI56,1.0
+4522,Western Spur Airport,ID48,1.0
+5050,Gibbons Field,09II,1.0
+4762,Heinzman Airport,03IN,1.0
+5191,Magee Airport,42TX,1.0
+4558,Ferdun Ranch Airport,CL11,1.0
+5181,Rox Airport,WS09,1.0
+4586,Nicolet Airport,88WI,1.0
+5071,Kramer Airport,AK86,1.0
+4585,Double J Airport,1OA5,1.0
+4584,Boeckmann Ranch Airport,26CA,1.0
+4597,Mast Field,IS45,1.0
+5180,Garrett Field,7IN3,1.0
+4581,Mc Pherson Airport,5IS9,1.0
+4779,Jefferson Municipal Airport,KEFW,1.0
+5070,Zettlemoyer Airport,2PA0,1.0
+4580,Thomsen Airport,NE92,1.0
+4767,Tanner's Airport,9TE4,1.0
+5069,Meyer Ranch Airport,5CO6,1.0
+5068,Skwentna Airport,PASW,1.0
+5067,Crook Restricted Landing Area,IL18,1.0
+5066,Gattis Strip,16AK,1.0
+4598,Northeast Kingdom International Airport,KEFK,1.0
+4781,Longbranch Airport,VA08,1.0
+4588,Gannon's Landing Airport,AK83,1.0
+4775,Carl Folsom Airport,K14J,1.0
+4773,Olsen Airport,IA93,1.0
+4770,Smith Airport,79NY,1.0
+5173,Lake X Airport,57FA,1.0
+5175,Jones Farm Field,OK12,1.0
+5176,Peterson Field,15WI,1.0
+5076,Birmingham International Airport,EGBB,1.0
+4769,Pike River Landing,79MI,1.0
+5172,Lee C Fine Memorial Airport,KAIZ,1.0
+5073,Kerry Airport,EIKY,1.0
+4768,Belgrade Nikola Tesla Airport,LYBE,1.0
+4772,Laurinburg Maxton Airport,KMEB,1.0
+4596,Tidewater Bluffs Airport,77AK,1.0
+4771,Cape Girardeau Regional Airport,KCGI,1.0
+4590,Thermal G. Ranch Gliderport,PA20,1.0
+5177,33 Strip,CA54,1.0
+5178,Potomac Airpark,KW35,1.0
+5179,Rust Field,8XS9,1.0
+4589,Kornegay Private Airport,53XS,1.0
+4576,Gehris Airport,39PA,1.0
+5182,Martin RLA Restricted Landing Area,IL82,1.0
+4559,Mettel Field,KCEV,1.0
+5065,Carmi Municipal Airport,KCUL,1.0
+5062,Poco Loco Airport,NM66,1.0
+5077,Krenzers Airport,98NY,1.0
+5061,Fly-N-Ski Airport,31XS,1.0
+4785,Indian Hills Flying Field,2II0,1.0
+4607,Ficklin-Airtech Airport,26IS,1.0
+4787,Dechant Farms Airport,48OH,1.0
+5060,Kenai River Airpark,1AK4,1.0
+4608,Clearidge Airport,NE33,1.0
+4763,Cathro Airport,VG10,1.0
+5188,Kennedy Airfield,9NY4,1.0
+5078,Russo Airstrip,4PA8,1.0
+5189,Ranch-Aero Airport,PN90,1.0
+4611,High Mesa Airport,23CO,1.0
+4788,David Beiswanger Ultralightport,6II6,1.0
+4790,Adams Airport,90PA,1.0
+4560,Rhodes Ranch Airport,TX62,1.0
+5190,Rossi's Farm Airport,84IL,1.0
+4764,Donalsonville Municipal Airport,K17J,1.0
+5187,Bailey Airport,VT53,1.0
+4606,Henderson Field,IL34,1.0
+5169,Miller Airport,79IL,1.0
+4575,Seigfried Halfpap Airport,87IS,1.0
+4574,Old 66 Strip,70OK,1.0
+5183,Nietz Airstrip,MN32,1.0
+5184,Stuart Island Airpark,7WA5,1.0
+4599,Marshall Memorial Municipal Airport,KMHL,1.0
+5171,Flying B Farm Landing Strip,92NJ,1.0
+4600,The Last Resort Airport,7IN9,1.0
+5185,Soldotna Airport,PASX,1.0
+5186,Johnson Airport,2PA5,1.0
+4570,Tailwheel Airport,6OR4,1.0
+4569,Miles Airport,NC34,1.0
+4765,Snow Hill Airport,VA19,1.0
+4605,Wilson Airport,4IN4,1.0
+4782,Strother Field,KWLD,1.0
+4567,Bald Mountain Airport,2AK7,1.0
+5063,Newell Flying Service Airport,MS20,1.0
+4510,Knapp Pecan Orchard Airpark,5TS3,1.0
+4753,Flyers Field,31TS,1.0
+4411,Kearney Regional Airport,KEAR,1.0
+5027,Doc's Airport,18NE,1.0
+4639,Breezy Knoll Airport,0FD5,1.0
+4640,Valley Flying Crown Airport,AK27,1.0
+4445,Milhon Airport,89IN,1.0
+5026,Yosemite Hidden Lake Ranch Airport,0CL0,1.0
+4854,Meadow Farm Airport,69VA,1.0
+5025,Montgomery's Flying M Ranch Airport,FD49,1.0
+4735,Clearwater Airpark,21OI,1.0
+5024,Menominee Regional Airport,KMNM,1.0
+5224,Houston County Airport,KCHU,1.0
+4855,Volk Field,KVOK,1.0
+5023,Driftwood Air Ranch Airport,ID65,1.0
+4734,Four Corners Airport,14AK,1.0
+5138,Emerick Airport,63IL,1.0
+4443,N'Meier Airport,IN04,1.0
+4856,Abernathy Field,KGZS,1.0
+5021,Schaller Airport,LL26,1.0
+4642,Lewis Ranch Airport,XA31,1.0
+5087,Foster Field,5VG2,1.0
+5222,Kenstin Manor Airport,24IN,1.0
+5207,Kelowna International Airport,CYLW,1.0
+5028,Otterbach Farm Airport,81LL,1.0
+5220,Yonder Airport,NC65,1.0
+4635,Bassett Field,61NY,1.0
+4458,"Holict ""Private"" Airport",XA15,1.0
+5221,Skylark Airpark,K7B6,1.0
+5032,Sheeley's Farm Airport,NK08,1.0
+5031,Logan's Chance Airport,57OI,1.0
+5085,Kibler Airport,3LL3,1.0
+4457,Short Field,TA83,1.0
+5030,Eagle's Point & Red Barn Village Airpark,1MO9,1.0
+5086,Zarn Airport,2MY2,1.0
+4847,Mountain Air Airport,2NC0,1.0
+4454,Ayers Airport,VA93,1.0
+4453,Sutton's Field,0II8,1.0
+4849,Holland Air Park,36WI,1.0
+4737,Finkhaven Airport,73PN,1.0
+4452,Clarksville Airport,74FD,1.0
+4451,Sequoia Ranch Airport,CA44,1.0
+5019,Dean Ranch Airport,XS49,1.0
+4441,Goddard Ranch Airport,OK85,1.0
+5088,Osan Air Base,RKSO,1.0
+4440,Harriman and West Airport,KAQW,1.0
+5075,Stockholm Västerås Airport,ESOW,1.0
+5227,Vultures Row Airport,6XS8,1.0
+5016,Shultz /Private/ Airport,4II9,1.0
+4646,Midget Airport,MI86,1.0
+4247,Enjoy Field,4LL4,1.0
+5015,Siller Bros Inc Airport,97CL,1.0
+5014,Crump Airport,MI22,1.0
+5228,Paddock Field,41WI,1.0
+4732,Odell Williamson Municipal Airport,K60J,1.0
+4647,Goose Creek Airport,NY89,1.0
+4866,Riley Field,4IN7,1.0
+5010,J V Ranch Airport,0KS0,1.0
+4648,Shaffer Airport,9II0,1.0
+4417,Aggies Landing Airport,MN04,1.0
+4416,Morkassel Field,8OI9,1.0
+5008,B & M Ranch Airport,5WA2,1.0
+4412,Stoney Fork Landing Airport,XA84,1.0
+5017,Holland Field,1IL9,1.0
+4424,Oglesby Farms Inc. Airport,MS86,1.0
+5089,Cheraw Municipal Airport/Lynch Bellinger Field,KCQW,1.0
+4434,Alfred Schroeder Field,KM66,1.0
+33,Dreamland Airport,XA48,1.0
+5137,Totem Pole Ranch Airport,CA38,1.0
+4858,Flying O Airport,TX29,1.0
+4437,Talley Airport,TX48,1.0
+4859,High Valley Airport,16MD,1.0
+5225,Culp Farms Airport,4IN8,1.0
+5136,Aaron Penston Field,1VA7,1.0
+5226,Rhynalds Ranch Airport,29VA,1.0
+4425,Davy Jones /Private/ Airport,3IS6,1.0
+4432,Cranmoor Airstrip,55WI,1.0
+5135,Reedville Airport,90AR,1.0
+4861,Mooseberry Airport,1MU7,1.0
+4429,Stanwix Heights Airport,5NY4,1.0
+4428,Macho Grande Airport,41XS,1.0
+5133,Von Alvens Airview Airport,IL29,1.0
+4426,Abel Ranch Airport,17MT,1.0
+5141,Taylor Airport,15AR,1.0
+4740,Olney Municipal Airport,KONY,1.0
+4460,Hollandale Municipal Airport,K14M,1.0
+4830,Noland RLA Restricted Landing Area,3IS3,1.0
+4495,Shawn Field,AK47,1.0
+4494,Crews Homestead Ranch Airport,FL01,1.0
+4493,Hinaman Acres Airport,1PA0,1.0
+4828,Hilling International Airport,PN64,1.0
+4492,Donica Field,IN99,1.0
+5211,Table Mountain Field,5CL9,1.0
+4491,Sanborn Airport,38CN,1.0
+5042,Van Vleck Airport,57CN,1.0
+5041,Flying E Ranch Airport,7XS1,1.0
+4490,St Croix Valley Airport,WN86,1.0
+5212,Pecora Field,PS18,1.0
+5213,Deland Municipal Sidney H Taylor Field,KDED,1.0
+5214,Post Oak Ranch Airport,1FA1,1.0
+5153,Tater Farms Strip,46FD,1.0
+5152,Zitone Airport,NJ98,1.0
+4693,Runke's Field,MN20,1.0
+4627,Hartland Airport,9KS1,1.0
+4827,Johnson Airport,90IL,1.0
+4826,Cochran Airport,1KS1,1.0
+5210,Sedalia Memorial Airport,KDMO,1.0
+4623,Trivelpiece Airport,OR59,1.0
+5046,Carlson Restricted Landing Area,IS19,1.0
+4508,Ottawa Municipal Airport,KOWI,1.0
+4506,Lux Field,25CD,1.0
+5045,Conover Air Lodge Airport,02CL,1.0
+5209,Manzanita Airport,6CL4,1.0
+4502,Black Dog Farm Airport,WS76,1.0
+4752,Juhu Aerodrome,VAJJ,1.0
+4751,Byron Airpark,2NY4,1.0
+4497,Cheechako Airport,82LL,1.0
+4750,Vnukovo International Airport,UUWW,1.0
+4625,Flautt Airport,MS38,1.0
+4749,Poznań-Ławica Airport,EPPO,1.0
+5154,CMRS Airdrome,2CO2,1.0
+5043,Green Airfield,96MU,1.0
+4825,Smart Road Airport,AL77,1.0
+4498,Sneek Airport,2IL0,1.0
+4486,Lowe Airstrip,CD01,1.0
+4483,Holly Point Airport,9VA1,1.0
+5142,Dry Pond Airport,28NR,1.0
+5151,Martens Airport,4MO8,1.0
+5083,Olson Aerodrome,SN40,1.0
+4471,Westley Airport,CA67,1.0
+4631,Arnika Ranch Airport,MO77,1.0
+4469,Tillar Airport,5AR1,1.0
+4467,Creech Air Force Base,KINS,1.0
+5217,Chautauqua Lake Airpark,65NY,1.0
+4836,Prince STOLport,0MU8,1.0
+4837,Zink Airport,03WI,1.0
+4838,Flory /Private/ Airport,SN21,1.0
+4840,Smith Field Airport,2OH6,1.0
+5034,West Penn Township Airport,PS99,1.0
+4633,Hastings Airport,K9D9,1.0
+4742,AMIGO For Christ Airport,2TA9,1.0
+5084,James Henion Private Field,NK72,1.0
+32,Phillips Farm Airport,TA01,1.0
+5219,Waldron Airstrip,90WA,1.0
+4741,Pan Lake Strip Airport,07AA,1.0
+5143,Karlindo Airport,3PN2,1.0
+5144,Carlstrom Field,92FL,1.0
+5035,Hidden Acres Farm Airport,NJ84,1.0
+4747,Billund Airport,EKBI,1.0
+5150,Luscombe Acres Airport,6XS2,1.0
+4748,JMSDF Shimofusa Air Base,RJTL,1.0
+4628,New Richmond Regional Airport,KRNH,1.0
+5215,Sugar Creek Air Park,II13,1.0
+4478,Avian Country Estates Airport,OK15,1.0
+5040,Big T Airport,80TN,1.0
+5216,Berry Grove Airport,7FA8,1.0
+4831,Sealscott Airport,IN58,1.0
+4743,Thumamah Airport,OETH,1.0
+5149,Kollmeyer Airport,OMU9,1.0
+5079,Flying Acres Airport,MD70,1.0
+4476,Hancock Airport,4TX5,1.0
+4746,Glasgow International Airport,EGPF,1.0
+4475,Ruleville Drew Airport,KM37,1.0
+4474,Cade Field,TX97,1.0
+5080,Sparta Fort Mc Coy Airport,KCMY,1.0
+4865,Stevens Farms Airport,IN05,1.0
+380,Poolsbrook Aerodrome,NY72,1.0
+4245,Andy Barnhart Memorial Airport,3OH0,1.0
+3359,Markt Air Strip,6MO1,1.0
+2870,Flattop Ridge Airport,TA63,1.0
+2860,Piney Ridge Airport,NC42,1.0
+2858,Santa Ynez Airport,KIZA,1.0
+2844,Navasota Municipal Airport,K60R,1.0
+2843,Walpole Airport,64IL,1.0
+2842,Gower Field,6WA2,1.0
+2833,Flagler Executive Airport,KXFL,1.0
+2825,Highland Farm Airport,28KS,1.0
+2820,Oak Grove Marine Corps Outlying Field,13NC,1.0
+594,Vinita Municipal Airport,KH04,1.0
+2817,Thompson Airport,WA61,1.0
+2789,Al's Due North Airport,MY90,1.0
+2788,Merrill Municipal Airport,KRRL,1.0
+617,Sunbury Airport,K71N,1.0
+2783,Durflinger Airport,IN29,1.0
+2782,Okeelanta Airport,FL41,1.0
+2781,Bates Airpark,9NE6,1.0
+2776,Clarion Municipal Airport,KCAV,1.0
+2775,Martin Airport,AK92,1.0
+2772,Bluemel Field,5MD7,1.0
+2770,Sandusky County Regional Airport,KS24,1.0
+2766,Antique Acres Airpark,OH65,1.0
+2763,Goat Hill Airport,NJ79,1.0
+2874,Logan Airport,96CO,1.0
+2878,Weiss Farm Airport,JY24,1.0
+2883,Marsh Creek Airport,8PN9,1.0
+2938,Southcreek Airport,7OI7,1.0
+2982,Peterson Farm Airport,MO26,1.0
+2979,Harris Airport,VA97,1.0
+2975,Hammock Field,7IS7,1.0
+2972,Corpora Airport,1TE5,1.0
+2970,Kay Ranch Airport,TA61,1.0
+2968,Stava Airport,78NE,1.0
+2965,Hawk Ranch Airport,1TX9,1.0
+2956,Farris Strip,61MU,1.0
+2946,Georgetown-Scott County Regional Airport,K27K,1.0
+2942,Lake Bay Gall Airport,0TS5,1.0
+2933,Hermitage Airport,PA22,1.0
+2892,Paxton Airport,K1C1,1.0
+2929,De Ford Airport,4II0,1.0
+2928,Salem Airfield,NJ74,1.0
+2927,J T Willie Airport,9PS2,1.0
+544,Gettlefinger Field,4II6,1.0
+2915,Rollert Farm Airport,29MO,1.0
+2909,Roth Airport,NE65,1.0
+555,Georgetown Municipal Airport,KGTU,1.0
+2904,Brandywyne Farms Airport,2VA8,1.0
+2900,Hollingsworth Airport,II39,1.0
+2896,Flying M Airport,OR05,1.0
+2756,Rancho Buena Vista Airport,TS94,1.0
+2747,Sutliff Private Airport,33PA,1.0
+623,Newbrough Airport,1IA9,1.0
+2620,Mountain View Aerodrome,NC37,1.0
+2648,The Old Commonwealth Aerodrome,2PA6,1.0
+661,Parson Field,XS88,1.0
+2643,Engineers Airport,NK82,1.0
+2642,Chattahoochee Air Park,4GA6,1.0
+2640,Offutt Air Force Base,KOFF,1.0
+2627,Amery Municipal Airport,KAHH,1.0
+2626,Meyer Riverside Airpark,OG34,1.0
+2625,Dublin Municipal Airport,K9F0,1.0
+2623,Turner Airport,4WI4,1.0
+2621,LaGrange Callaway Airport,KLGC,1.0
+681,Stoltzfus Airfield,OH22,1.0
+2657,Mountain Top Airport,4PS4,1.0
+2606,Deitch Airport,41PA,1.0
+2596,Sky Manor Airport,FA51,1.0
+2577,New Salem Aerodrome,74NY,1.0
+2576,Culmerville Airport,PN38,1.0
+2574,Fisher Ranch Airport,67TE,1.0
+2573,Wood County Airport - Collins Field,KJDD,1.0
+2571,AK-10 Airstrip,AK10,1.0
+702,Take Five Airport,WN45,1.0
+2563,Holmes County Airport,K10G,1.0
+708,Kimbowrosa Farm Airport,DE10,1.0
+2655,Firebaugh Airport,KF34,1.0
+2664,Minuteman Strip,AK68,1.0
+625,C.E.F. Airport,MU02,1.0
+2700,Madill Municipal Airport,K1F4,1.0
+2741,Kennersley Airport,MD23,1.0
+2740,Fairmont State Airfield,KFMZ,1.0
+2739,Chicago Glider Club Gliderport,IL59,1.0
+2729,Whiteheart Farm Airport,08NC,1.0
+2721,Grand Canyon National Park Airport,KGCN,1.0
+2717,Annandale Ranch Airport,2XS7,1.0
+2714,Groton New London Airport,KGON,1.0
+2711,Friedrich Airport,II15,1.0
+2710,Voges Airstrip,89IS,1.0
+633,Scheibe Field,OI55,1.0
+634,Dean Ranch Airport,14TA,1.0
+2670,Bartram Farms Air Park,FL46,1.0
+2694,Catalano Airfield,1NK6,1.0
+639,Flyers Airpark,9NC2,1.0
+2690,Flying M Airport,2NC6,1.0
+2686,Liberty Field Airport,7AL5,1.0
+2683,Effingham County Memorial Airport,K1H2,1.0
+2682,Nolte Farms Airport,NE82,1.0
+2681,West Fargo Municipal Airport,KD54,1.0
+2676,Carter Flight Park Ultralightport,NY67,1.0
+2674,Delk's Airport,1NC0,1.0
+2673,W J E Airport,TA70,1.0
+2985,Birmingham-Shuttlesworth International Airport,KBHM,1.0
+2993,Paderborn Lippstadt Airport,EDLP,1.0
+2994,Hi-Vu Airport,PA65,1.0
+452,Sky Acres Airport,1XA1,1.0
+3273,Cow Pasture Airport,TE16,1.0
+3267,Duclos RLA Restricted Landing Area,91LS,1.0
+3266,Nappanee Municipal Airport,KC03,1.0
+3265,Jones Farms Airport,CA49,1.0
+3259,Stubbs Strip,TS73,1.0
+3255,Sitton Field,3TX3,1.0
+3254,Gunden Airport,PS54,1.0
+3248,Lavon North Airport,46TS,1.0
+3246,Brownsville South Padre Island International Airport,KBRO,1.0
+3245,Ingleside Airport,MN66,1.0
+3233,Air Dusters Inc Airport,49CO,1.0
+3281,Aden Field,VA71,1.0
+3221,Flying G H Ranch Airport,9TE7,1.0
+3218,Chicora Field,38MI,1.0
+3213,Tinsley Airstrip,MD17,1.0
+3212,Sundance Farms Airport,FD20,1.0
+462,Williams Gliderport,CN12,1.0
+3210,Fred Babcock Airport,40FL,1.0
+3208,Chiles Airpark,69KS,1.0
+3203,Winona Municipal-Max Conrad Field,KONA,1.0
+3199,Mc Clurg Airport,56MO,1.0
+3187,Parkway Farm Strip,09WI,1.0
+3277,Norton Field,75MI,1.0
+3282,Tucker Field,3NC3,1.0
+3182,Burnett County Airport,KRZN,1.0
+3324,Finney's Airpark,II77,1.0
+3353,Thrifty Acres Airport,4IL3,1.0
+402,Card Aerodrome,0TX9,1.0
+3348,Shakamak Airport,IN08,1.0
+404,Grier Airport,71TX,1.0
+3343,Kellogg Airstrip,2CD9,1.0
+3342,Tranquility Bay Strip,4FA3,1.0
+3340,Moronis Airport,92CL,1.0
+3339,Flying J Ranch Airport,2AL5,1.0
+3333,Manitou Field,91NY,1.0
+3331,Catoctin Crosswind Airport,4MD7,1.0
+3319,Jumpin J Airport,GA08,1.0
+3285,Circle C Airport,89OI,1.0
+3315,Fleet Field,IN73,1.0
+3313,Dunlea Airpark,PN66,1.0
+3312,Shade Tree Airport,GA73,1.0
+434,Hide-A-Way Hills Resort Airport,11OA,1.0
+3309,Francisco de Sá Carneiro Airport,LPPR,1.0
+3305,Buena Terra Airport,33KS,1.0
+3304,Sierra Airpark,FL48,1.0
+3301,Strathroy (Blue Yonder) Airport,CPK2,1.0
+3294,Smith Field,GE27,1.0
+3293,Neals Airport,OH96,1.0
+3185,Tubac Ultralight Flightpark / Flying W Ultralightport,2AZ8,1.0
+3174,Sauer-Harter Airport,79II,1.0
+523,Sunrise Airport,MY78,1.0
+3040,Kenley Field,GA61,1.0
+3086,Philippi Barbour County Regional Airport,K79D,1.0
+3080,Drake Field,KFYV,1.0
+3070,Abilene Regional Airport,KABI,1.0
+3065,Larry D Boven Airport,2MI3,1.0
+3061,West Valley Airport,48WA,1.0
+3057,Stephenson Airport,IN32,1.0
+3050,Sunnybreeze Airport,09FL,1.0
+3046,Howe Airport,8MI4,1.0
+3045,Kilsoquah Farm Airport,8IS2,1.0
+3044,Deck Airpark,NC11,1.0
+3037,Lake Bonanza Airport,33TA,1.0
+3094,Dolata Airport,6WI5,1.0
+3036,Benedick Airport,4MI6,1.0
+513,Mill House Field,WS15,1.0
+3032,Schubert Airstrip,40WI,1.0
+3026,Changi Air Base (East),WSAC,1.0
+3025,Marshfield Municipal Airport,KMFI,1.0
+3017,J F Ranch Airport,62XS,1.0
+3015,The Grass Patch Airport,VA62,1.0
+3011,Eyota Airport,MY37,1.0
+3007,Leis Airport,OH34,1.0
+2999,Victoria Regional Airport,KVCT,1.0
+3092,Murphree Airport,26GA,1.0
+3095,Circle A Ranch Airport,05TX,1.0
+3172,Toddsbury Farm Airport,25VA,1.0
+3139,Cherry Capital Airport,KTVC,1.0
+3171,Sport Aircraft Flight Park Ultralightport,4II7,1.0
+3170,Lemons Field,2ID6,1.0
+474,Schulze's Airport,69OI,1.0
+3163,Faribault Municipal Airport-Liz Wall Strohfus Field,KFBL,1.0
+3160,Rabbit Run Airport,5TA2,1.0
+3159,Watson Farm Airport,49FD,1.0
+3155,Bernie's Airport,OA10,1.0
+478,Siletz Airport,5OR3,1.0
+3147,Mc Creless Farm Airport,3TX5,1.0
+3141,Hillsdale Municipal Airport,KJYM,1.0
+3138,Bundoran Airport,VA18,1.0
+3096,Bushby RLA Restricted Landing Area,87IL,1.0
+3136,Brinkman Airport,0MN1,1.0
+3135,Kalamazoo Battle Creek International Airport,KAZO,1.0
+482,Peaslees Airstrip,NJ25,1.0
+3127,Waco Regional Airport,KACT,1.0
+3124,Cottonpatch Aerodrome,TA77,1.0
+3120,Hampton Municipal Airport,KHPT,1.0
+3119,Winnsboro Municipal Airport,KF51,1.0
+3118,Thomas C Russell Field,KALX,1.0
+4244,Bacchi Valley Industries Airport,80CA,1.0
+3097,Lehman Field,OR50,1.0
+2555,Erwinna Private Airport,PA77,1.0
+2552,Jarrett Airport,5PN7,1.0
+2550,Marshdale STOLport,CO52,1.0
+1186,Larew Airport,WV53,1.0
+1893,Vaughn Private Airport,AL69,1.0
+1890,Bauer PGI Airport,MU55,1.0
+1152,Washington County Airport,KAFJ,1.0
+1159,Sky Ranch Airport,TN98,1.0
+1873,Flying Exotics Airport,47FL,1.0
+1164,Richmond County Airport,KRCZ,1.0
+1857,Pittsfield Penstone Municipal Airport,KPPQ,1.0
+1179,Ozark Aerodrome,AR11,1.0
+1182,Viroqua Municipal Airport,KY51,1.0
+1847,Dotson Airport,55FD,1.0
+1839,Stitt Airport,PN59,1.0
+1897,Lake Geneva Aire Estates Airport,WI89,1.0
+1838,Naval Outlying Landing Field Webster,KNUI,1.0
+1836,Clarion County Airport,KAXQ,1.0
+1194,Mount Airy Surry County Airport,KMWK,1.0
+1197,Eldon Model Airpark,KH79,1.0
+1817,Banks Ranch Airport,62AR,1.0
+1201,Antique Acres Airport,GA59,1.0
+1202,Billy Bishop Toronto City Centre Airport,CYTZ,1.0
+1807,Lone Oaks Ranch Airport,5OR9,1.0
+1210,Elbert County Airport Patz Field,K27A,1.0
+1801,Hutchinson Municipal Butler Field,KHCD,1.0
+1151,Ashby Airport,II26,1.0
+1901,H L Sonny Callahan Airport,K4R4,1.0
+1785,Jackson Field,MN17,1.0
+1941,Tokeena Air Park,SC96,1.0
+1993,Flying W Airranch Airport,9FL1,1.0
+1987,Morrison Field,48NC,1.0
+1986,Double Tree Farm Airport,22CL,1.0
+1983,Mankato Farmstrip Airport,6MN7,1.0
+1980,King's Ranch Airport,TE48,1.0
+1977,Frager Field,0NE6,1.0
+1970,Last Chance Ranch Airport,3FD0,1.0
+1964,Jefferson County Airpark,K2G2,1.0
+1962,Punxsutawney Municipal Airport,KN35,1.0
+1108,Reykjavik Airport,BIRK,1.0
+1110,Uphill Airport,PS67,1.0
+1902,Monesmith Airport,PA05,1.0
+1112,Spring Brook Airport,0NK1,1.0
+1114,Madrid Air Base,SKMA,1.0
+1933,Tejon Agricultural Airport,97CA,1.0
+1126,Václav Havel Airport Prague,LKPR,1.0
+1922,Flintlock Field,7MO4,1.0
+1921,Daulton Airport,77CA,1.0
+1909,Brown County Airport,KGEO,1.0
+1140,Castle Well Airport,0AZ5,1.0
+1142,Reservoir Airport,MD95,1.0
+1145,Turkey Run Airport,04II,1.0
+1216,Hidden River Airport,22FA,1.0
+1223,Perry Airport,MI89,1.0
+1999,Taylor Municipal Airport,KT74,1.0
+1386,Catfish Point Airport,0MS8,1.0
+1620,Hecklers' Strip,2WI7,1.0
+1618,Fairview Farm Airfield,PS20,1.0
+1350,Goodnight's Airport,2NC8,1.0
+1613,Gene Snyder Airport,KK62,1.0
+1355,Donald A. Hamilton Airport,8LL7,1.0
+1607,Ashley Field,FL47,1.0
+1356,Maple Airport,MN69,1.0
+1369,Youngstown Elser Metro Airport,K4G4,1.0
+1582,Free Spirit Airport,NJ81,1.0
+1559,Mountain Airport,2IL4,1.0
+1550,Grohnke Field,MY92,1.0
+1623,Answered Prayer Airport,1GE3,1.0
+1539,Secrest Ranch Airport,OK49,1.0
+1412,Eads Ridge Airport,MO68,1.0
+1418,Smith Field,KSLG,1.0
+1430,Ward Airport,II27,1.0
+1498,Thomson-McDuffie County Airport,KHQU,1.0
+1448,Gay Airport,93OH,1.0
+1490,Lilienthal Airport,MI92,1.0
+1489,Sandy Creek Airpark,75FL,1.0
+1485,Gordon Airport,09IN,1.0
+1483,Warren Field,KOCW,1.0
+1343,Ozark-Blackwell Field,K71J,1.0
+1635,Antelope County Airport,K4V9,1.0
+1777,Ransome STOLport,57PN,1.0
+1723,Springhill Airport,77MO,1.0
+1776,Speedwing Field,WI90,1.0
+1775,Frazier Airport,8MO8,1.0
+1769,Twin Lake Airport,AK95,1.0
+1231,Murtha Airport,02OI,1.0
+1762,Mackie's Airport,2OA2,1.0
+1758,Kalispell City Airport,KS27,1.0
+1245,Flight Park Inc Airport,1IL4,1.0
+1745,Boulder Junction Payzer Airport,KBDJ,1.0
+1729,Frasier Ranch Airport,CO92,1.0
+1261,Spangle Field,03WA,1.0
+1719,Starkey's Airport,IN21,1.0
+1329,Sharpe Farms Airport,MO09,1.0
+1268,Galler's Airport,75MN,1.0
+1712,Tecma Heliport,TS53,1.0
+1704,C & W Air Park,1GE2,1.0
+1692,Vetters Sky Ranch Airport,51CL,1.0
+1293,Dysinger Airport,MI47,1.0
+1679,Newbury Airport,28OH,1.0
+1309,High Meadow Farms Airport,9NJ8,1.0
+1654,G W Farm Airport,9MD9,1.0
+1317,Elephant Path Airport,PS03,1.0
+1647,Cherry Field,2MD6,1.0
+1069,Fly JLA Airport,OR72,1.0
+1062,Geneva Cointrin International Airport,LSGG,1.0
+726,Buell Farm Ultralightport,5CT6,1.0
+2372,Deiterich Ranch Airport,TE95,1.0
+810,Floathaven Airstrip,WA90,1.0
+2393,Valley City Flying Club Airport,78OH,1.0
+2392,Northeast Florida Regional Airport,KSGJ,1.0
+2391,Deer Crossing Airport,21GE,1.0
+2388,Connell's Wahoo Airport,25FL,1.0
+2382,Timmons Field,92KY,1.0
+2380,Elkhart Municipal Airport,KEKM,1.0
+829,Silver Creek Gliderport,3IL1,1.0
+2377,Torres Airport,MT18,1.0
+2374,P and R Field,ID26,1.0
+2368,Wimauma Air Park,FD77,1.0
+2421,Illinois Valley Parachute Club Airport,81IL,1.0
+848,Maple Cave Park Airport,93PA,1.0
+2349,Pond's Field,CD39,1.0
+854,Whetstone Airport,11AZ,1.0
+2341,Ross Field,OI25,1.0
+2337,Folly Neck Airport,2VG8,1.0
+2336,Eagles Mere Field Airport,40PN,1.0
+2318,Lake Suzy Estates Airport,20FL,1.0
+2316,Spring Brook Airport,1LL2,1.0
+2311,Worth Airport,9MO4,1.0
+2303,Amy Airport,1II4,1.0
+2420,Gibbons Airport,12AR,1.0
+2425,Ellis Fly-In Airport,06IN,1.0
+871,Indiana County/Jimmy Stewart Fld/ Airport,KIDI,1.0
+2494,Pecan Ponds Farm Airport,AL84,1.0
+732,Lang Ranch Airport,84XS,1.0
+2531,London (Pioneer Airpark),CPN8,1.0
+2525,Homan Field,MO08,1.0
+2523,Rockey's Air Strip,II10,1.0
+2519,Langley Airport,CYNJ,1.0
+2512,Elk Hills Buttonwillow Airport,KL62,1.0
+2511,Cuinche Airport,MO01,1.0
+2508,St George Regional Airport,KSGU,1.0
+2502,Norm's Airpark,42II,1.0
+745,Hickory Level Airfield,0GA7,1.0
+2492,Woodland Airstrip,MU89,1.0
+801,Owl Canyon Gliderport,4CO2,1.0
+2488,Danville Regional Airport,KDAN,1.0
+2479,Jacqueline Cochran Regional Airport,KTRM,1.0
+765,LBJ Ranch Airport,0TE7,1.0
+2469,Gopher Gulch Airport,OR29,1.0
+2462,Winstead '76' Airport,68NC,1.0
+2459,Clover Valley Airport,3WI5,1.0
+2454,Baldwin Airport,WI14,1.0
+2441,Sandy Run Acres Airport,9NC6,1.0
+799,Mc Cardle Farm Airport,PS11,1.0
+2428,Skyhill Airport,1OR7,1.0
+2299,Fairbury Municipal Airport,KFBY,1.0
+2292,Lake Sexton Airport,07MO,1.0
+2014,Thompson-Robbins Airport,KHEE,1.0
+1011,Huntsville International Carl T Jones Field,KHSV,1.0
+962,Erie International Tom Ridge Field,KERI,1.0
+2141,Kitchens Field,4GA7,1.0
+2133,Milhous Ranch Airport,79CL,1.0
+987,Eakin Airport,11PN,1.0
+997,Woodledge Farm Airport,82KY,1.0
+1001,Moller Airport,8CL6,1.0
+2100,Treichler Farm Airport,5NK9,1.0
+2094,Potts Field,0WN5,1.0
+2089,Cider Field,PS70,1.0
+2086,Broadway Airfield,44NC,1.0
+1024,Hart Ranch Airport,5CL1,1.0
+2173,Kenley Airport,08OH,1.0
+1030,New Mexico Soaring Ranch Airport,NM61,1.0
+1039,Morton Field Ultralight Flightpark,AZ00,1.0
+2049,Westport Airport,3MA5,1.0
+2041,Pontious Airport,1CL2,1.0
+2035,Sky-Vu Airport,MO45,1.0
+2029,Hamilton Hill Airport,PS47,1.0
+1051,Lindsay Airport,PN25,1.0
+1054,King Khaled International Airport,OERK,1.0
+1058,Chongqing Jiangbei International Airport,ZUCK,1.0
+2017,Parkside Airpark,WA87,1.0
+2167,Godahavit Airport,6II8,1.0
+2177,Wormid Airport,08MA,1.0
+2288,Nanaimo Airport,CYCD,1.0
+904,Thiessen Field,34WI,1.0
+2287,Russell Airport,IS52,1.0
+2282,Urban Airport,8OH5,1.0
+881,Gaffney Airport,2WN2,1.0
+885,Weide (Aberdeen Proving Ground) Army Heliport,KEDG,1.0
+2270,Harris Corn Field,19OH,1.0
+2268,Braidwater Farm Airport,2MT2,1.0
+2266,Beloit Airport,K44C,1.0
+2247,Henson Farm Airport,AR35,1.0
+2240,Fortman Airport,1OH4,1.0
+2237,Iron Crown Airport,22OR,1.0
+2235,Tapley Airport,1MS0,1.0
+2184,Strietelmeier Flying Field,91IN,1.0
+912,West St Mary's Airport,3MD6,1.0
+2225,Zischke Airport,92MI,1.0
+2224,Flying Y Service Airport,MS41,1.0
+929,Justover Field,NV44,1.0
+931,Mc Mahon Field,68WA,1.0
+2218,Zea Mays Field,54IS,1.0
+941,Fort Lewis Road / Pacemaker Landing Zone Airport,KZ10,1.0
+946,Bradley Field,NC29,1.0
+948,Wagoner Airport,4OR8,1.0
+949,Horseshoe Lake Airport,TE24,1.0
+3354,Bonne Terre Municipal Airport,K1BT,1.0
+5291,Honeybee Lake Aero Park Airport,25AK,1.0
+3360,Flyers Airport,10IA,1.0
+3777,Bedford County Airport,KHMZ,1.0
+3775,Winchell Mountain Airport,41NK,1.0
+3774,Flying D Airport,1GE5,1.0
+4084,Lars/Private Airport,PA33,1.0
+3771,Upshur County Regional Airport,KW22,1.0
+4086,Lanseair Farms Airport,MD97,1.0
+3769,Reedville Airport,VA98,1.0
+3764,Ocean City Municipal Airport,KOXB,1.0
+3763,Dodge/Coppola/Wheeler Airport,NK53,1.0
+3762,Richards Airport,9OH4,1.0
+3759,Salem Airpark Inc Airport,K38D,1.0
+3757,Decorah Municipal Airport,KDEH,1.0
+3755,RAF Mildenhall,EGUN,1.0
+4093,Charles G. Kalko Airport,7PA3,1.0
+3754,Bethel-Lake Wylie Airport,SC08,1.0
+3753,Grand Central Airport,FAGC,1.0
+3750,Vetterkind Strip,73WI,1.0
+3748,Outback Ranch Airstrip,AZ01,1.0
+3747,Vicars Private Airport,PS15,1.0
+3742,Mitchell Airport,6OI5,1.0
+4083,Kindsvater Ranch Airport,CL24,1.0
+3778,Miller Field,39II,1.0
+4062,Maples Field,VG57,1.0
+4081,Walter Sutton's Private Strip,WA79,1.0
+230,Elk Heights Airport,WA21,1.0
+3814,Intervale Airport,NH86,1.0
+4066,Lyons Field,OI52,1.0
+4067,Flying Eagle Estates Airport,9OK3,1.0
+4068,Knollwood Farm Airport,93MD,1.0
+4069,Martin County Airport,KMCZ,1.0
+4070,The Lazy K Airport,0IN2,1.0
+3805,Myer Airport,6PA0,1.0
+3804,Far Field,65IL,1.0
+4074,Randolph County Airport,KI22,1.0
+3802,Airdrie Aerodrome,CEF4,1.0
+3801,Riverveiw Airport,5IS3,1.0
+3798,Oakhill Airpark,SC82,1.0
+3792,Merkle Airport,NK87,1.0
+3791,Marek Farms Airport,CFF9,1.0
+3788,Dogwood Farm Airport,FA26,1.0
+4077,Rafter R Ranch Airport,48OK,1.0
+3784,Idlewild Airport,XS11,1.0
+3780,Sommers Airport,II79,1.0
+4094,Tib Field,40ME,1.0
+3735,Sageeyah Airfield,OK20,1.0
+262,Lm Ranch Airport,TA93,1.0
+4095,Flying 'T' Ranch Airport,18TX,1.0
+3983,Village Airport,0TN2,1.0
+4113,Hallettsville Municipal Airport,K34R,1.0
+4114,Schu Ranch Airport,AZ13,1.0
+3689,Wiley Updike Airport,72IS,1.0
+3687,Poyner Airport,IA18,1.0
+3685,Brian Ranch Airport,CL13,1.0
+4122,Chambers Island Airport,30WI,1.0
+4127,Prattsburg Airport,3GA1,1.0
+3684,Smitty's Landing Airport,1MU2,1.0
+3681,F. Dillenburg Airport,2MN9,1.0
+4129,Beskar Airport,89MN,1.0
+4130,Textor Airport,41MO,1.0
+4132,Leeward Farm Airport,WS51,1.0
+3680,Strayhorn Ranch Airport,47FD,1.0
+4133,Timberline Airport,WI47,1.0
+3677,Matejka Field,NK54,1.0
+3672,Dimascio Field,14PA,1.0
+4136,Gravette Field,AR09,1.0
+3671,Buds Ferry Airport,MD39,1.0
+3700,Friesenborg & Larson Airport,IA70,1.0
+3701,Keystone Airport,9PA7,1.0
+4111,Alberter Farms Airport,PS52,1.0
+4104,Whiterik Field,51WT,1.0
+3732,Corry Lawrence Airport,K8G2,1.0
+3731,Ham-A-Lot Field,MI48,1.0
+4097,Wagner Airport,1PA4,1.0
+3730,White Pine Flats Ranch LLC Airport,ID94,1.0
+3728,Underland Airstrip,6MN8,1.0
+4100,Fletcher's Airport,1NC3,1.0
+3724,Krill Personal Use Airport,PA86,1.0
+3723,Lakeside Airport,MT03,1.0
+3722,Peterson Airport,CA17,1.0
+4110,Wellers Landing Airport,GA29,1.0
+3716,Jacksonville Municipal Airport,KIJX,1.0
+3715,Black Diamond Airport,95WA,1.0
+3712,Masters Field,61KS,1.0
+3708,Muir Army Air Field (Fort Indiantown Gap) Airport,KMUI,1.0
+3705,Fairmont Municipal Airport,KFRM,1.0
+3703,Perry County Airport,KI86,1.0
+4107,Bittner-Whitsel Airport,PN58,1.0
+4109,Double D Skyranch Airport,5PA2,1.0
+4064,Wixted Airport,6MO4,1.0
+3819,Lapeer Flyer Airport,0NK6,1.0
+4137,Ball Airport,79NC,1.0
+3938,Pleasanton Municipal Airport,KPEZ,1.0
+3937,Tews Field,CA53,1.0
+4004,Ed Shadle Airport,15TX,1.0
+3934,Hickory Hollow Airport,NY85,1.0
+3932,Westover ARB/Metropolitan Airport,KCEF,1.0
+3926,Berry Field,1AL5,1.0
+3924,Mountain Road Airport,MD43,1.0
+3923,Westerlo Airport,NY33,1.0
+3922,Birch Creek Plantation Airport,3VG9,1.0
+3918,Rex's Ultralightport,7II7,1.0
+3916,McNeal's Field,2IL3,1.0
+3915,Mills Ranch South Airport,3FL5,1.0
+4008,Hatch Airport,5OR8,1.0
+3914,Durant Regional Airport - Eaker Field,KDUA,1.0
+4012,Wentworth Aerodrome Airport,NH96,1.0
+3913,Waters Airport,MA97,1.0
+3912,Wakefield Wings Airport,9MO5,1.0
+3911,Bar S Ranch Airport,9TX1,1.0
+3908,Sherman Field,1NY5,1.0
+3904,Westlake Farms Airport,92CA,1.0
+4003,Coastal Carolina Regional Airport,KEWN,1.0
+3940,Culver Airfield,7NY4,1.0
+4061,Dorlon Airpark,05OI,1.0
+3941,David City Municipal Airport,K93Y,1.0
+3979,B & L Farms Airport,11FA,1.0
+3977,Gentry Airport,LL55,1.0
+3986,Litchfield Restricted Landing Area,4IS7,1.0
+3987,Gaines Valley Aviation Airport,NY06,1.0
+3988,Far View Airport,OI41,1.0
+3974,Timber Ridge Airpark,VA46,1.0
+3996,Huntley Airport,MS25,1.0
+3972,Downsview Airport,CYZD,1.0
+3970,Lakeview Airport,0NK9,1.0
+3969,Bethany Airpark,8NK4,1.0
+3997,Cibolo Sea-Willo Airpark,TE67,1.0
+3962,Rush Airport,2KS1,1.0
+3955,Smith Airport,43KS,1.0
+3954,Nebraska City Municipal Airport,KAFK,1.0
+3952,Harris County Airport,KPIM,1.0
+3950,Mc Clain Field,OI67,1.0
+3949,Wells Airport,MO85,1.0
+3945,Lofty Redwoods Airport,53CL,1.0
+3943,Ben's Landing Ultralightport,PA89,1.0
+3899,Glenwood Municipal Airport,KGHW,1.0
+3898,Waupun Airport,WI07,1.0
+3896,Meadow STOLport,07VT,1.0
+4015,Walhalla Municipal Airport,K96D,1.0
+3869,Watters Airport,2IL2,1.0
+3867,Pleasant Hill Airport,98PA,1.0
+3864,Bentley Airport,1PN0,1.0
+4042,Gilstrap Field,55OK,1.0
+3853,Horttor Airport,SN26,1.0
+3851,Hurst Airport,69PA,1.0
+3848,Lutz Airport,94IL,1.0
+3846,Irwin Farms Airport,4AL2,1.0
+4044,Jeffries Farm Airport,6KY6,1.0
+3845,Teal Farm Airport,VT01,1.0
+4046,Walter's Field,42NY,1.0
+3842,Phillips Airport,32MO,1.0
+4048,Machipongo International Airport,3VG2,1.0
+3841,Bowlin Airport,IN85,1.0
+4053,Avenal Gliderport,CA69,1.0
+3835,Sainovich Airport,PN43,1.0
+4054,Sampley's Airport,28AZ,1.0
+4057,Providence Place Field,99IL,1.0
+4058,J P's Field,6MI7,1.0
+3871,Nikkila Farms Airport,1MI1,1.0
+3872,Heins Field,OA23,1.0
+4040,Cherokee Strip,1AR5,1.0
+3888,Lazy-W Airport,OI01,1.0
+3894,Isley Field,24IA,1.0
+3892,Tangier Island Airport,KTGI,1.0
+4017,Happy Bottom Airport,30NC,1.0
+4018,Wilson Airport,GA03,1.0
+4019,Hawk Haven Airfield,TN07,1.0
+4020,Fisher Airport,0PA5,1.0
+4021,Regan Ranch Airport,6ID1,1.0
+4024,David Wine's Airstrip,62FL,1.0
+3886,Untied Acres Airport,IS83,1.0
+215,Possum Kingdom Airport,KF35,1.0
+3884,Flying Baron Estates Airport,10FA,1.0
+4029,Karmy's Airport,67VA,1.0
+4033,Campbell Field,06XS,1.0
+3883,Flying S Ranch Airport,5IA6,1.0
+3882,Lautzenhiser Airpark,IN83,1.0
+4036,Boyceville Municipal Airport,K3T3,1.0
+3877,Maquoketa Municipal Airport,KOQW,1.0
+3876,Kosik Private Airport,17OH,1.0
+3669,Stony Acres Airport,MI58,1.0
+3699,Josephs Field,IG07,1.0
+3667,Cherry Valley Airport,65PA,1.0
+3504,Walters Airport,0MD6,1.0
+3527,West Beaver Airport,09AK,1.0
+3523,Bijou Bottom Strip,9CO8,1.0
+3522,Cedar Creek Airport,MO74,1.0
+3521,Ko-Kee Airport,4FL2,1.0
+3519,Bishops Airport,GA93,1.0
+3518,Werner Airport,NE56,1.0
+3512,Stage Coach Hills Airport,4TX2,1.0
+3508,Boone County Airport,K6I4,1.0
+4213,Kimray Airport,7MO7,1.0
+3487,Las Trancas Airport,17CL,1.0
+4215,Digger Dougs Airport,4WN9,1.0
+3503,Boondox Field,1LL0,1.0
+3502,Northeast Ohio Regional Airport,KHZY,1.0
+3500,Murmuring Springs Airport,2WN5,1.0
+3499,Fuller Field,38IN,1.0
+3496,Bock Farms Airport,3LS7,1.0
+3492,Bear Creek Airport,NC79,1.0
+4216,Shreveport North Airport,62PA,1.0
+3528,Smith Airport,VT17,1.0
+4211,Marty Ranch Airport,XS95,1.0
+4210,Runway Leasing Inc Nr 1 Airport,8WI2,1.0
+4207,Grammar Airport,NK76,1.0
+4193,Valkaria Airport,KX59,1.0
+3573,Idlas Restricted Landing Area,6IL0,1.0
+3571,Brainerd Lakes Regional Airport,KBRD,1.0
+3570,Thomas Airport,3IN9,1.0
+3568,George Airport,2LL9,1.0
+3564,Bee-Acre Farm Strip,99IN,1.0
+4195,Branch County Memorial Airport,KOEB,1.0
+4198,Wolf River Landing Strip,8WI5,1.0
+3556,Spangler Airport,58IL,1.0
+4205,Bains Private Airport,20TS,1.0
+3549,Hal Joy Airfield,06OH,1.0
+3546,Domeyer Airport,13MO,1.0
+3540,Schmidt Airport,6OR7,1.0
+3537,Rucilla's Roost Airport,0WN0,1.0
+3535,Beaver Oaks Airport,OR66,1.0
+3534,Grand View International Airport,WN23,1.0
+3532,Miller Airport,IN53,1.0
+4218,Mustang Community Airfield,XS60,1.0
+3484,Nocona Airport,KF48,1.0
+324,Black Rock Airport,32PN,1.0
+4233,Wood Airport,8WI0,1.0
+3417,Myakka Head Airport,67FL,1.0
+3413,Richards Airport,GA44,1.0
+3412,Valenov Ranch Airport,ID61,1.0
+3410,London Biggin Hill Airport,EGKB,1.0
+3406,Rocking A Airport,78TE,1.0
+3403,Krey Field Airport,0CL1,1.0
+3399,Boundary County Airport,K65S,1.0
+3395,Lewis Air Service Airport,0MS5,1.0
+4238,Sommers Airport,SN75,1.0
+4226,Aero Estates Airport,7IS2,1.0
+3391,Hawkeye Hunting Club Airport,TX45,1.0
+3387,Toland Airport,77GA,1.0
+3385,Bird Nr 2 Airport,ID19,1.0
+4243,Dew Drop Airport,05TS,1.0
+3380,Voyager Village Airstrip,9WN2,1.0
+3376,The Green Trees Ranch Airport,OG28,1.0
+384,Sanders Airport,MT37,1.0
+3369,El Peco Ranch Airport,49CL,1.0
+3418,Ott's Landing Airport,0FA1,1.0
+3425,Jucapa Farms Airport,9VG9,1.0
+3428,Alexander Ranch Airport,5TE3,1.0
+3429,Du Fresne Airport,MY82,1.0
+3483,Moore Hx Ranch Airport,7XS6,1.0
+3476,J & M Farms Airport,NM49,1.0
+3475,Sanders Airport,85KS,1.0
+3470,B & B Boys Ranch Airport,3AK6,1.0
+3464,Kay Air Airport,20II,1.0
+4229,Van De Plasch Airport,WN20,1.0
+3461,Meadors Field,II82,1.0
+3455,Turner Field,SC88,1.0
+3454,Ruth Airport,KT42,1.0
+3453,Kings Field,21FL,1.0
+79,Montvale Airpark,TN87,1.0
+4232,Stormville Airport,KN69,1.0
+3443,Joan Lake Airport,8MO4,1.0
+3442,Chan-C Airport,5TS2,1.0
+3440,Onawa Municipal Airport,KK36,1.0
+3434,Domodedovo International Airport,UUDD,1.0
+3433,Sunrise Ranch Airport,AZ77,1.0
+3574,Lonnie Pool Field Weaverville Airport,KO54,1.0
+3984,Arrow 'S' Ranch Airport,TE26,1.0
+3630,Emmetsburg Municipal Airport,KEGQ,1.0
+3649,Lantana Ridge Airport,18XA,1.0
+3592,Double Creek Ranch Airport,CN42,1.0
+3662,Buchta Airport,II96,1.0
+4163,Barclaysville Field,NC44,1.0
+3661,Belmont Farm Airport,88VA,1.0
+4177,Mjd STOLport,FL31,1.0
+3653,Wigrich Airport,OR85,1.0
+4173,Ermis-Ridgeview Airport,5WI8,1.0
+3636,Lone Star Flying Service Airport,XA41,1.0
+3651,Jones Field,KF00,1.0
+4153,Frankfort Airport,LL40,1.0
+3647,Canaan Air Base,NC20,1.0
+3584,Swanson Field,MY95,1.0
+3596,SFS Airpark,80WA,1.0
+3597,Broocke Air Patch Airport,FL95,1.0
+3637,Sager Field,VG31,1.0
+4154,Skyview Airport,MU70,1.0
+3641,Swan Field,WS36,1.0
+3644,Hampton Airport,MD45,1.0
+3646,Spencer Airport,NC35,1.0
+311,Tilghman Whipp Airport,7MD9,1.0
+3601,Ty-Ti-To Airport,MD83,1.0
+4160,Waltz Airport,34PA,1.0
+3588,Two J's Flying Ranch Airport,3FL1,1.0
+4179,Starns Auxiliary Airport,NE15,1.0
+3611,Minske Field,8MN6,1.0
+3635,Adak Airport,PADK,1.0
+4191,Swensen Airport,4WN2,1.0
+3629,Orleans Airport,K7I4,1.0
+4138,Henley Airport,75AK,1.0
+3632,Serenity Airport,MN99,1.0
+3577,Pyramid Ranch Airport,2TA6,1.0
+4167,Green Field,9IN8,1.0
+4189,"Union County, Troy Shelton Field",K35A,1.0
+4170,Brown Field,9GA0,1.0
+3664,Carter Ranch Airport,89TS,1.0
+3633,Hart Mine Airport,9CL4,1.0
+3581,Flying B Ranch Airport,0IL3,1.0
+4164,Marvin D Bradd Airport,51IL,1.0
+3583,Denton Airfield,NE40,1.0
+4181,Greensburg Municipal Airport,KI34,1.0
+3663,Rummel Restricted Landing Area,6IL3,1.0
+3613,Chetek Municipal Southworth Airport,KY23,1.0
+4187,Swanson Ranch Number 2 Airport,89CA,1.0
+4171,Aero Bear Field,CD23,1.0
+3603,Ward Ranch Airport,0CA8,1.0
+2064,Sky Ranch Airport,K3L2,0.0
+2069,Apalachicola Regional Airport,KAAF,0.0
+1426,Eagles Landing Airport,9NC8,0.0
+1505,Block Air Village Airport,MO71,0.0
+1025,Centreville Airport,VA16,0.0
+1435,Gerbick Airport,96IL,0.0
+4253,Lake Village Airport,MU40,0.0
+1419,Butler Field,IN46,0.0
+1833,Shields Airport,AL55,0.0
+1508,Don's Place Airpark,68PA,0.0
+5111,Timber House Airport,31IN,0.0
+5166,Cotton Patch Airport,TA75,0.0
+4007,Shade Tree Field,MS82,0.0
+2085,Thompson Drag Raceway Airport,73OH,0.0
+1461,Williamson Airport,28LL,0.0
+1480,Golden Field (Yellow Hat) Airport,CO61,0.0
+2152,Aero Plaines Airport,5II9,0.0
+4142,Brookside Farms Airport,59PN,0.0
+4134,Allen Airport,8OH8,0.0
+1781,Rhinelander Oneida County Airport,KRHI,0.0
+1451,Quemahening Flightpark Ultralightport,2PN4,0.0
+4293,Red Shed Field,2IS6,0.0
+5286,Schrenkel Airport,PN30,0.0
+1239,Cuba Municipal Airport,KUBX,0.0
+4143,Young Tactical Landing Site Airport,WS20,0.0
+2117,Beckner Field,MO15,0.0
+2115,Melin Farms Airport,3WI6,0.0
+1211,William Leon Schawo Airport,8CO2,0.0
+3998,Taliaferro Field,OK23,0.0
+5098,Logan County Airport,KAAA,0.0
+2106,Malta International Airport,LMML,0.0
+5100,Flying Bull Airport,CN44,0.0
+5101,Casey Field,TE06,0.0
+4128,Flying Oaks Airport,2TE2,0.0
+4118,Koke Airport,NE49,0.0
+4285,Fizzle Ridge Airport,3MO8,0.0
+5104,Poverty Airport,PS73,0.0
+113,Coles County Memorial Airport,KMTO,0.0
+4116,Iron County Airport,K50D,0.0
+1827,Collier/Pine Barren Airpark,FD89,0.0
+4366,Water Valley Municipal Airport,K33M,0.0
+4000,Ray Smith Farm Airport,2TX2,0.0
+4103,Chestnut Hill Airport,5PS5,0.0
+1527,Flying J Airport,WS71,0.0
+1600,Taylorsville Airport,4NC3,0.0
+1378,Higginbotham Field,52IN,0.0
+1098,Bowman Airport,4OA8,0.0
+1950,Humbert Airport,7WA4,0.0
+1107,Brennan Personal Use Airport,2PN7,0.0
+1574,Nelund Field,9II2,0.0
+5145,Fillmore County Airport,KFKA,0.0
+4176,Jecan Airport,06CO,0.0
+5147,Riverode Farms Airport,71LL,0.0
+1772,Leavitt Airport,NH38,0.0
+5255,Chiefland Sky Ranch Airport,51FL,0.0
+1589,Hoppe Sky Ranch Airport,93MN,0.0
+1360,Plew Airport,IN71,0.0
+4090,Marlin's Meadow Airport,XS48,0.0
+5235,Willis Airport,4II8,0.0
+1091,Johnson Field,VA91,0.0
+1323,Fairlane Airport,5AL8,0.0
+5159,Bayes Airport,9OI7,0.0
+1906,Hornady Ranch Airport,TX21,0.0
+4267,Bolivar Municipal Airport,KM17,0.0
+4197,Powis Airport,MO87,0.0
+1346,Moore Airfield,01NH,0.0
+5170,Barton Field,1XS4,0.0
+1637,Davis Field,4VA1,0.0
+4194,Rust's Landing Airport,II95,0.0
+1341,Buck Hollar Airport,95VA,0.0
+5244,Weiser Air Park,KEYQ,0.0
+1898,Chuckster Airport,XA17,0.0
+4272,Simons Airport,34CO,0.0
+4050,Deer Meadows Airstrip,8PA3,0.0
+1567,Flying Eagle Airport,PS21,0.0
+2048,Buie Field,9NR8,0.0
+4174,Apple Valley Airport,OR61,0.0
+5272,Windsock Village Airport,NH69,0.0
+1414,Dutch Country Egg Farms Airport,PS35,0.0
+1844,Mc Laughlin Farm Airport,66OK,0.0
+1288,Mountain Ridge Airport,25SC,0.0
+1146,Townley Farms Airport,9LL9,0.0
+1175,Holzwarth Flying Service Airport,25IL,0.0
+5125,Pagel's Field,67MN,0.0
+193,Cunningham Airport,2WN6,0.0
+1398,3-M's Airport,96GA,0.0
+2006,Burnham Field,6CO1,0.0
+2002,Two Rocks Airport,GA31,0.0
+4039,Hunziker Airport,2MO6,0.0
+4099,Lost Horn Ranch Airport,FA80,0.0
+1390,Martin Airport,80IS,0.0
+1379,Careferre Acres Airport,8II1,0.0
+1869,Rosenberg Airport,MY80,0.0
+1300,Twin Towers Airport,VA25,0.0
+5264,Bechtol Field,56AK,0.0
+4349,Jackson Municipal Airport,KMJQ,0.0
+1553,Ebensburg Airport,K9G8,0.0
+1872,Harlan Municipal Airport,KHNR,0.0
+1666,Flying F Ranch Airport,1TE2,0.0
+1307,Padgham Field,K35D,0.0
+4320,Reichhart Airport,05II,0.0
+4043,Gladewater Municipal Airport,K07F,0.0
+1881,Harris Airport,3PA8,0.0
+188,Halliburton Field,KDUC,0.0
+1886,South Fulton Airport,89GE,0.0
+5148,Griffin Airport,0IL2,0.0
+4978,J-B Airport,CN29,0.0
+2176,Sioux Gateway Airport / Brigadier General Bud Day Field,KSUX,0.0
+4805,Algona Municipal Airport,KAXA,0.0
+535,Riceland Aerodrome,3OH4,0.0
+4822,Bear Creek Ranch Airport,5TS8,0.0
+2978,Matson Field,0MN6,0.0
+2987,Tower Airfield,6PA1,0.0
+3622,Tounshendeaux Airport,85OH,0.0
+3616,Randolph Air Force Base Auxiliary Airport,KSEQ,0.0
+3003,Sunset Strip,OH07,0.0
+4564,Peterborough Municipal Airport,CYPQ,0.0
+3607,Hanson Airport,0MT6,0.0
+3019,Cupp/SJVS Landing Strip,8MI8,0.0
+4803,Michael Farm Airport,MU84,0.0
+4551,Richardson Field,26AL,0.0
+4571,Caledonia County Airport,KCDA,0.0
+3038,Robinson Field,8IN2,0.0
+3039,Miller Airport,PN56,0.0
+3593,Wissota Airport,4WI0,0.0
+4792,Hickory Hills Airport,II67,0.0
+3047,Newport Woods Airport,9MI2,0.0
+3048,Zeitler Airport,MI55,0.0
+4789,Mount Vernon Outland Airport,KMVN,0.0
+4786,Warsaw Municipal Airport,KASW,0.0
+3580,Tierra Linda Ranch Airport,60TE,0.0
+2962,Fire Island Airport,6AK5,0.0
+542,Mt Hope Airport,OG10,0.0
+597,Rancho Magdalena Airport,NM01,0.0
+2875,Murk's Strip,0LL2,0.0
+4873,Ketchum Ranch Airport,OK97,0.0
+288,Marysville Municipal Airport,KMYZ,0.0
+587,Rainbow Field,6GE2,0.0
+2841,Risky Airport,1KS2,0.0
+2851,Shure Airport,IN57,0.0
+4530,Nash Ranch Airport,XA64,0.0
+4864,Michael Pfister Airport,86IS,0.0
+2862,Knox Landing Airport,87NE,0.0
+2873,Giovannone Airport,22OI,0.0
+4533,North West Indiana Air Airport,II04,0.0
+4534,Skyline Airstrip,PN50,0.0
+4839,Tunica Municipal Airport,KUTA,0.0
+562,R & S Buzzard Airport,0TN0,0.0
+2894,Rigrtona Airport,13PA,0.0
+2899,Anderson Airport,26LL,0.0
+4538,Addington Field / Elizabethtown Regional Airport,KEKX,0.0
+2908,Fox Station Airport,78II,0.0
+4845,Baylie Airport,66XS,0.0
+4844,Prescott Field,WS32,0.0
+4542,Pippen-York Ranch Airport,TX41,0.0
+2922,Wabbaseka Flying Service Airport,5AR3,0.0
+2926,Mach-O Acres Airport,98OR,0.0
+4783,W4 Ranch Airport,84TE,0.0
+4582,Pine River Airport,WI87,0.0
+3088,Hay Shakers Airport,MY46,0.0
+3452,Corn Field,IL95,0.0
+4723,Henryetta Municipal Airport,KF10,0.0
+3217,St Marys Municipal Airport,KOYM,0.0
+3223,St. Joseph'S Landing,91KS,0.0
+3227,Mc Donald's Field,8FL1,0.0
+3228,Tallahassee Regional Airport,KTLH,0.0
+3239,Drake Airport,49IN,0.0
+3247,Old Reb Airport,5XS6,0.0
+3249,Hepp Airport,9LL2,0.0
+4708,Atlantic Municipal Airport,KAIO,0.0
+3257,Forest Airport,7ND8,0.0
+3445,Triple B Airpark,FL81,0.0
+3089,Eberly Ranch Airport,TX70,0.0
+3268,Independence Airport,5WI6,0.0
+3269,Martin Field,K7K8,0.0
+3437,Gilgenbach's Airport,MY11,0.0
+4680,Homestead Airport,29IN,0.0
+3394,Allen Airport,8OI3,0.0
+3341,Dunn Field,42OH,0.0
+4674,Rosenbaum Field,3WI9,0.0
+3382,McGregor Executive Airport,KPWG,0.0
+4668,Cady Aerial RLA Restricted Landing Area,0IS3,0.0
+3361,Auberge Des Fleurs Airport,4OR6,0.0
+3209,Taylor Airport,VT39,0.0
+3200,Melanie's Airport,05FA,0.0
+4616,Kuntz Field,IS64,0.0
+3189,Stutzke Airport,LL38,0.0
+498,Flying L Airport,TE90,0.0
+4774,Lexington Airfield,TE75,0.0
+3560,O K Flying Club Inc Airport,28IS,0.0
+3104,Hood Army Air Field,KHLR,0.0
+3111,Jack Barstow Airport,K3BS,0.0
+3558,Staton Airport,4LL1,0.0
+4592,Vasile Field,NY60,0.0
+3121,East Lake Airport,66MI,0.0
+4761,Unity Aerodrome,SC76,0.0
+4756,Franwood Farms Inc. Airport,9VA4,0.0
+3140,Hoerners Corners Airport,MI10,0.0
+3531,Grone Airport,22NE,0.0
+3143,GAA Private (Abels Island) Airport,IA23,0.0
+3144,Catamount Airfield,VT62,0.0
+4602,Naval Station Mayport (Admiral David L. Mcdonald Field),KNRB,0.0
+346,Adams County Legion Field,K63C,0.0
+3153,Hensley Ranch Airport,XS17,0.0
+4604,Jack Fish Landing Airport,7AK4,0.0
+3157,Ingalls Field,FL12,0.0
+3178,Hannen Airport,0IA8,0.0
+3506,Browns Airport,NE69,0.0
+274,Evans Field,AL94,0.0
+2797,Buell Airport,II03,0.0
+3981,Ava Bill Martin Memorial Airport,KAOV,0.0
+3881,Bijou Springs Ranch Airport,2CD3,0.0
+822,Keesler Air Force Base,KBIX,0.0
+3890,Mansonville Airport,CSK4,0.0
+2406,Good Hill Farm Airport,CT59,0.0
+816,Gulfport Biloxi International Airport,KGPT,0.0
+2410,Redhead Airport,FD35,0.0
+3889,Clinton Municipal Airport,KCWI,0.0
+2419,University Oxford Airport,KUOX,0.0
+5013,Star City Municipal Airport,K55M,0.0
+5009,Winnipeg / James Armstrong Richardson International Airport,CYWG,0.0
+4431,Sportsman's World Airport,TA65,0.0
+2444,Delaware County Johnson Field,KMIE,0.0
+847,O Neal Field,20SC,0.0
+2445,Waldmeister Farm Airport,45MO,0.0
+5002,Almyra Municipal Airport,KM73,0.0
+3879,Billy Free Municipal Airport,K0M0,0.0
+5000,Blackhawk Airfield,K87Y,0.0
+769,August Field,NK17,0.0
+2493,Aire Parque Airport,42MO,0.0
+4444,Connor's Lake Landing,2WS2,0.0
+2513,Creekside Air Park,XA46,0.0
+4449,Cook Airport,25MO,0.0
+2522,Jims Airport,OH63,0.0
+2366,Taylorport Airport,WN90,0.0
+2358,Dew Airpark,36NY,0.0
+2795,Pheasant Field,MA64,0.0
+2252,South Hector Airstrip,6NA2,0.0
+5082,Vandalia Municipal Airport,KVLA,0.0
+3975,Mason Airport,39IL,0.0
+2192,P.J. Killian Airport,48IS,0.0
+2197,Trygstad Airport,2MN8,0.0
+4383,Niklaus RLA Restricted Landing Area,IS26,0.0
+3965,Dyer's Landing Airport,57ME,0.0
+908,Le Sueur Municipal Airport,K12Y,0.0
+906,Yoder Airport,1OA7,0.0
+5064,Chapin Airport,47OH,0.0
+3946,Casey's Airport,6NK1,0.0
+2255,Portage County Regional Airport,KPOV,0.0
+2350,Snow Airport,2LL4,0.0
+2261,Sun Hill Ranch Airport,CA70,0.0
+2281,Reiss Game Farm Airport,75NY,0.0
+4400,Edward F Knapp State Airport,KMPV,0.0
+2283,Nichols Airport,IA97,0.0
+3936,Nichols Ranch Airport,ID07,0.0
+2300,Boone Inc Airport,NC14,0.0
+2302,Glass Airport,TS74,0.0
+3925,The Landing Airport,9XS1,0.0
+4413,Lonesome Sky Airport,MO24,0.0
+4414,Smith Ranch Airport,ID21,0.0
+4980,Willow Creek Airport,9NC7,0.0
+3357,Foltz Farm Airport,93IN,0.0
+4976,Salem–Leckrone Airport,KSLO,0.0
+2722,Woodliff Airpark,98MO,0.0
+644,Pemberton Airport,3NJ1,0.0
+3772,Prehn Cranberry Company Airport,01WI,0.0
+4485,Van Wert County Airport,KVNW,0.0
+641,Fedor Airport,MY57,0.0
+4925,Nelson Airport,8IS1,0.0
+4918,Houseman Airport,IL16,0.0
+2697,5 Lakes Airport,PA81,0.0
+4910,Re-Dun Field,17NK,0.0
+4500,Heller Airport,22IL,0.0
+3736,Llano Municipal Airport,KAQO,0.0
+4904,Ashland County Airport,K3G4,0.0
+4975,Botsford Aerodrome,6PA5,0.0
+4504,Lynch Field,44MU,0.0
+4900,Philadelphia Gliderport,0PA0,0.0
+4507,Miller Aeroplane Field,83KS,0.0
+621,New Castle Municipal Airport,KUCP,0.0
+3725,Home Free Airport,3IL7,0.0
+4894,Belle Glade State Municipal Airport,KX10,0.0
+4511,Sturdy Oak Farm Airport,AL33,0.0
+4890,Thomsen Field,4KS6,0.0
+4514,Hobbs Airport,MS33,0.0
+2791,Pritchard Airport,99TE,0.0
+652,Oakesdale Airport,75DC,0.0
+2660,Beckerman Field,5LL0,0.0
+3779,Lohr's Landing Airport,PN47,0.0
+4941,Willis Airport Site No. 2 Airport,6II2,0.0
+2532,Brush Prairie Aerodrome,5WA9,0.0
+3838,Deer Flat Airport,WA52,0.0
+3837,A G A Farms Airport,61PN,0.0
+3836,Bloomsburg Municipal Airport,KN13,0.0
+3832,Mitek Airport,20IS,0.0
+3826,Berwick Airport,6PA7,0.0
+3821,Springstead Airport,WS06,0.0
+2566,Ellig Field,ND99,0.0
+2569,Black Airport,9IL7,0.0
+4964,Apple Grove Airport,VA31,0.0
+3820,Budde Airport,5MN1,0.0
+4961,Smith Field,MD66,0.0
+3818,Justus Airport,2LL5,0.0
+3810,AKM Airfield,PN54,0.0
+2579,Mathaire Field,WI97,0.0
+2593,Jerseyville Aviation Inc Airport,0LL1,0.0
+4954,Compton Airport,3LL9,0.0
+3809,Woodstock Airport,64CT,0.0
+2616,Crawford Field,II90,0.0
+4468,Mar-O-Dae Farm Airport,4WI9,0.0
+3803,Progreso Airport,TS05,0.0
+3100,Gryder-Teague Airport,NC58,0.0
