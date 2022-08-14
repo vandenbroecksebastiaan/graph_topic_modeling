@@ -66,7 +66,7 @@
 
 \begin{figure}
 \centering
-\includegraphics[width=0.8\linewidth]{../visualizations/chinese_flights_screenshot.png}
+\includegraphics[width=0.8\linewidth]{../visualizations/chinese_flights.png}
 \end{figure}
 
 \end{frame}
@@ -82,8 +82,8 @@
   \item Betweenness \hspace{10px} $c_B (i) = \sum_{s, t \in i} \dfrac{\sigma (s, t | i)}{\sigma (s, t)}$ \\
     \hspace{72px} where $i$ is a node, $s$ and $t$ are source and target \\
     \hspace{72px} nodes, $\sigma (s, t)$ is the number of shortest paths \\
-    \hspace{72px} between the source and target and $\sigma (s, t | v)$ is the \\
-    \hspace{72px} number of shortest paths passing through the node $v$.
+    \hspace{72px} between the source and target and $\sigma (s, t | i)$ is the \\
+    \hspace{72px} number of shortest paths passing through the node $i$.
   \vfill
   \item Closeness \hspace{25px} $c_C(i) = \left[ \sum_j^N d(i, j) \right]^{-1}$ \\
     \hspace{72px} where $d$ is a distance metric.
@@ -160,7 +160,7 @@
 
 
 \begin{frame}
-\frametitle{Text mining - latent dirichet allocation}
+\frametitle{Text mining - latent dirichlet allocation}
 
 \begin{figure}
 \includegraphics[width=0.6\linewidth]{../visualizations/topic_modelling.png}
@@ -172,6 +172,12 @@
 
 \begin{frame}
 \frametitle{Text mining - before the pandemic}
+
+% Some improvements can still be made regarding preprocessing
+% There is a German cluster
+
+% Topic 1 and 5 have to do with the inner workings of a disease and score low on the first PC.
+% Topics 2, 3 and 4 score high on the first PC and have more to do with the human and societal impact of a pandemic.
 
 \begin{table}[]
 \centering
@@ -201,6 +207,13 @@ host             & risk             & hospit           & sars             & mice
 
 \begin{frame}
 \frametitle{Text mining - during pandemic}
+
+% Cluster 9 is new
+% German cluster
+% There is a cluster dedicated to mental health
+% The clusters 1, 3, 4 and 8 score low on the first PC and give an indication of the human and sociatal impact of the pandemic.
+% The clusters 6 and 7 score high on the first PC and have more to do with the inner workings of the disease.
+% The interpretation of the second PC is a bit less clear to me. Perhaps the treatment of patients is important to obtain a high score here.
 
 \begin{table}[]
 \scalebox{0.45}{
